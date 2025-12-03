@@ -1,17 +1,22 @@
 name: Run DishTV Scraper
 
 on:
-  workflow_dispatch:    # allows manual run button
+  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours (adjust if needed)
+    - cron: "0 */6 * * *"
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # Required to push changes
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0    # Needed for commits
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,7 +32,23 @@ jobs:
         run: |
           python dishtv_multi_scrape.py
 
-      - name: Upload output JSON files as artifacts
+      # --- NEW SECTION: Commit JSON output back into repository ---
+      - name: Commit output JSON files
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+
+          git add today/ tomorrow/ scrape_log_*.log || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update EPG JSON output [$(date)]"
+            git push
+          fi
+
+      # (Optional) Still upload artifacts
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: epg-output
