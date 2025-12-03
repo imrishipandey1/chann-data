@@ -1,0 +1,168 @@
+{
+  "channel_name": "TLC",
+  "date": "December 03, 2025",
+  "schedule": [
+    {
+      "show_name": "90 Day Fiancé: The Other Way",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23894583_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "90 Day Fiancé: The Other Way",
+      "start_time": "02:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23894583_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "100 Day Dream Home",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21128269_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hawaii Life",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15917235_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hawaii Life",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15917235_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "06:00 AM",
+      "end_time": "06:46 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7896089_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mind for Design",
+      "start_time": "06:46 AM",
+      "end_time": "07:13 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19464247_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hawaii Life",
+      "start_time": "07:13 AM",
+      "end_time": "07:39 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15917235_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "07:39 AM",
+      "end_time": "08:31 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13708609_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Buddy vs. Duff",
+      "start_time": "08:31 AM",
+      "end_time": "09:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20109546_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Battle on the Beach",
+      "start_time": "09:24 AM",
+      "end_time": "10:16 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20031888_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Great Food Truck Race",
+      "start_time": "10:16 AM",
+      "end_time": "11:08 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20058972_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Girl Meets Farm",
+      "start_time": "11:08 AM",
+      "end_time": "11:34 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20487569_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "11:34 AM",
+      "end_time": "12:29 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7896089_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mind for Design",
+      "start_time": "12:29 PM",
+      "end_time": "12:56 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22103180_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mind for Design",
+      "start_time": "12:56 PM",
+      "end_time": "01:24 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22103180_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Halloween Baking Championship",
+      "start_time": "01:24 PM",
+      "end_time": "03:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22863446_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Food Paradise International",
+      "start_time": "03:05 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12971407_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "100 Day Dream Home",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21128269_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hawaii Life",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15917235_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Island Life",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14913617_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Halloween Baking Championship",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22863446_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rental Redo",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21299439_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mind for Design",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19464247_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress America",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16561967_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "90 Day Fiancé: The Other Way",
+      "start_time": "10:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23894583_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

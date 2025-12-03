@@ -1,0 +1,216 @@
+{
+  "channel_name": "CNBC TV18",
+  "date": "December 03, 2025",
+  "schedule": [
+    {
+      "show_name": "The Exchange",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617612_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Power Lunch",
+      "start_time": "12:30 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617478_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Closing Bell",
+      "start_time": "01:30 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616618_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Rundown",
+      "start_time": "03:30 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617773_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Squawk Box",
+      "start_time": "04:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617524_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Closing Bell",
+      "start_time": "06:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616618_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Squawk Box",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617524_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Power Breakfast",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617462_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bazaar Morning Call",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27614241_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bazaar Open Exchange",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616240_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bazaar Corporate Radar",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27614227_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chartbusters",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616544_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Trading Hour",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617794_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Half Time Report",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617091_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Lunch",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616464_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Midcap Radar",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617351_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Your Stocks",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617838_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "NSE Closing Bell",
+      "start_time": "02:30 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Investment Guide",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617242_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "After The Bell",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27614189_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Markets Today",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Reporter's Diary",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Special",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Reporter's Diary",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Start Up Street",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617549_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "U.S Markets Opening Bell",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617806_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Special",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Business Hour",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617209_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Markets Today",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Business Hour",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617209_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Special",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Special",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Special",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "India Business Hour",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617209_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Special",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

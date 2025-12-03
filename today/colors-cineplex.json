@@ -1,0 +1,66 @@
+{
+  "channel_name": "Colors Cineplex",
+  "date": "December 03, 2025",
+  "schedule": [
+    {
+      "show_name": "Deewar Man of Power",
+      "start_time": "12:23 AM",
+      "end_time": "02:09 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9500223_b_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Global Baba",
+      "start_time": "02:09 AM",
+      "end_time": "04:28 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15120978_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Striker",
+      "start_time": "04:28 AM",
+      "end_time": "06:23 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Time Machine",
+      "start_time": "06:23 AM",
+      "end_time": "09:14 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28877707_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mahadev Ka Gorakhpur",
+      "start_time": "09:14 AM",
+      "end_time": "12:18 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27127185_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Liger -- Saala Crossbreed",
+      "start_time": "12:18 PM",
+      "end_time": "02:51 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22768832_v_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kali Kitaab",
+      "start_time": "02:51 PM",
+      "end_time": "05:34 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28988371_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Manjulika Returns 2",
+      "start_time": "05:34 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24608730_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "ACP Shiva",
+      "start_time": "07:50 PM",
+      "end_time": "10:02 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13851402_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Devaki Nandana Vasudeva",
+      "start_time": "10:02 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29406892_b_h9_ac.jpg?lock=880x660"
+    }
+  ]
+}

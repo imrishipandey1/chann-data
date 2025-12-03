@@ -1,0 +1,54 @@
+{
+  "channel_name": "INDIA TODAY",
+  "date": "December 03, 2025",
+  "schedule": [
+    {
+      "show_name": "News",
+      "start_time": "12:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "03:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p825062_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "09:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29611558_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

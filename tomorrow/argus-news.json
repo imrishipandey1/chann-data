@@ -1,0 +1,318 @@
+{
+  "channel_name": "Argus",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Prime Odisha",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193811_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rokhthok",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193819_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sata Katha",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193882_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sara Dina",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193853_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Durgama Odisha",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193624_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dinara Bada Khabar",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193616_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sata Katha",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193882_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prasnakala",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193748_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Special Report",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19471710_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Twincity Badakhabar",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193463_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Desh Bidesh",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28842270_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mangala Alati Live",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Bhakti",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29106860_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prabhu Pada Tale",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193738_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prtham Khabar",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29243618_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhagya Bhabisyata",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29243550_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Superfast",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193585_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ajira Atithi",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29243544_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sakalara Bada Khabar",
+      "start_time": "09:00 AM",
+      "end_time": "09:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28842801_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "09:25 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13593333_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rokhthok",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193819_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Update",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193592_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prasnakala",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193748_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Update",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193592_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Big Breaking",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193577_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Madhyanha Khabar",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29243590_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Badakhabar",
+      "start_time": "12:30 PM",
+      "end_time": "12:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193568_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "12:55 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13593333_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aama Sahar",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193532_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Teleshopping",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29206712_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Update",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193592_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Special Report",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19471710_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jilla @ 3pm",
+      "start_time": "03:00 PM",
+      "end_time": "03:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193666_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "03:25 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13593333_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jana Audit",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193655_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bad Ka Khabar",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193598_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Loka Kalyan",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193684_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Superfast",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193585_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Twincity Badakhabar",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193463_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Durgama Odisha",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193624_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prasnakala",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193748_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prime Odisha @ 7PM",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193803_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saraodisha",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193868_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rokhthok",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193819_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Argus Superfast",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193585_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Desh Bidesh",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28842270_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Special Report",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19471710_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sara Dina",
+      "start_time": "10:00 PM",
+      "end_time": "10:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193853_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "5 Min 25 Khabar",
+      "start_time": "10:25 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13593333_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Star Talk",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193890_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dinara Bada Khabar",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193616_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Night Patrol",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28479641_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

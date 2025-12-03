@@ -1,0 +1,72 @@
+{
+  "channel_name": "Alankar",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Jaha Mundare Sindura Mu Ta Bara",
+      "start_time": "01:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29211613_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Stars Choice",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31257341_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Alankar Hits",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820463_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tele Shopping",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Katha Tike Alaga",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30608519_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Manabas Gurubara",
+      "start_time": "08:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Tu Mo Subhadra Mu To Jaga",
+      "start_time": "11:00 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29070423_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Manabas Gurubara",
+      "start_time": "02:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Jaga Hatare Pagha",
+      "start_time": "05:00 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29211517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tele Shopping",
+      "start_time": "07:50 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Purushara Deha Narira Mana",
+      "start_time": "08:00 PM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29990563_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

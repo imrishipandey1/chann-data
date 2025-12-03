@@ -1,0 +1,294 @@
+{
+  "channel_name": "Zee 24 Ghanta",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Supravat Bangla",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971186_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Supravat Bangla",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971186_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saat Sakal",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26429223_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saat Sakal",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26429223_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29200565_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "10 Ter News",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068315_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "11 Ter Dunia",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068327_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29200565_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "12 ter Baro Khabor",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971384_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "12 ter Baro Khabor",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971384_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dupurer Prime Time",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28937427_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29200565_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dutor Dunia",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971323_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabor Saradin",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158284_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jelar Dupur",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068268_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chatpat 24",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29200565_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News Room Theke",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158328_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Panchter Panch",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971240_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Panchter Panch",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971240_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kolkatar 6 show",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971255_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Special 24",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971202_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral News",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971170_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ek Tana 24",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971299_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bangla@8",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971345_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bangla@8",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971345_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ja Bolbo Satti Bolbo",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jelar 24",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29158260_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral News",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971170_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shubharatri Bangla",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971218_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shubharatri Bangla",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29971218_b_h9_ab.jpg?lock=880x660"
+    }
+  ]
+}

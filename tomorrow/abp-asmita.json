@@ -1,0 +1,294 @@
+{
+  "channel_name": "ABP Asmita",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Mudda Ni Vaat",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893519_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Maha Aarti",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893539_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hun To Bolish",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hun To Bolish",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aapani Khabar",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893548_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Top 50",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16641825_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mudda Ni Vaat",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893519_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Maha Aarti",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893539_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhakti Na Sur",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Bhakti Na Sur",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Bhakti Na Sur",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Bhakti Na Sur",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aapni Vat",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24605813_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samachar Shatak",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893360_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samachar Shatak",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893360_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Advertisement",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11582479_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samachar Shatak",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893360_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chitramala",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893629_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chitramala",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893629_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita News",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893523_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samachar Shatak",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893360_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Asmita Newsroom",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893373_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aapani Khabar",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893548_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hun To Bolish",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hun To Bolish",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Top 50",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16641825_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mudda Ni Vaat",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893519_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharni Vat",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26476747_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aapani Khabar",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893548_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Top 50",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16641825_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

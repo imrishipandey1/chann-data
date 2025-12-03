@@ -1,0 +1,72 @@
+{
+  "channel_name": "Colors Cineplex",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Devaki Nandana Vasudeva",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29406892_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rowdy Baadshah",
+      "start_time": "12:30 AM",
+      "end_time": "02:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10720382_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Son Of Devil",
+      "start_time": "02:50 AM",
+      "end_time": "04:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28956791_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pankh",
+      "start_time": "04:35 AM",
+      "end_time": "05:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8416745_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "International Khiladi: The Iron Man",
+      "start_time": "05:55 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28889456_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ghayal Khiladi",
+      "start_time": "08:30 AM",
+      "end_time": "11:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14937664_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fidaa",
+      "start_time": "11:50 AM",
+      "end_time": "01:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14361892_b_h9_ai.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gatta Kusthi",
+      "start_time": "01:55 PM",
+      "end_time": "05:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23503044_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hawa",
+      "start_time": "05:20 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8331701_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saindhav",
+      "start_time": "07:50 PM",
+      "end_time": "10:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26401828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Singham Returns",
+      "start_time": "10:10 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    }
+  ]
+}

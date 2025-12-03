@@ -1,0 +1,132 @@
+{
+  "channel_name": "ETV Plus",
+  "date": "December 03, 2025",
+  "schedule": [
+    {
+      "show_name": "Swathi Chinukulu",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21508418_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samrat Ashoka",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031723_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Manasu Mamatha",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Yamaleela",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31322069_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "02:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031750_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saragala Pallaki",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11310106_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yoga Sutra",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29624738_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shani Mahimalu",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29266986_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sadguru Sai",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23676446_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "House Full Show",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Adavari Partilaku Ardhalu Verule",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28778846_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sumangali",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p3543536_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mogali Rekulu",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28647446_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Swathi Chinukulu",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21508418_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samrat Ashoka",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031723_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Manasu Mamatha",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Yamaleela",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31322069_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Agni Gundam",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14340424_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "06:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031750_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "House Full Show",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Edadugula Bandham",
+      "start_time": "09:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14047699_b_h9_ac.jpg?lock=880x660"
+    }
+  ]
+}

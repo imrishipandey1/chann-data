@@ -1,0 +1,102 @@
+{
+  "channel_name": "&flix HD",
+  "date": "December 03, 2025",
+  "schedule": [
+    {
+      "show_name": "Uncaged",
+      "start_time": "12:02 AM",
+      "end_time": "01:48 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "River Monster",
+      "start_time": "01:48 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31154890_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "03:05 AM",
+      "end_time": "03:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "03:50 AM",
+      "end_time": "04:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "04:40 AM",
+      "end_time": "05:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Man Named Leopard",
+      "start_time": "05:12 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20375664_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Labyrinth",
+      "start_time": "07:00 AM",
+      "end_time": "08:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9355_v_h9_an.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rogue Agent",
+      "start_time": "08:15 AM",
+      "end_time": "10:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22205755_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mile 22",
+      "start_time": "10:15 AM",
+      "end_time": "11:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15446220_v_h9_ao.jpg?lock=880x660"
+    },
+    {
+      "show_name": "John Wick",
+      "start_time": "11:45 AM",
+      "end_time": "01:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11016518_v_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Greenland",
+      "start_time": "01:25 PM",
+      "end_time": "03:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18046609_v_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Good Boss",
+      "start_time": "03:25 PM",
+      "end_time": "05:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20409366_v_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "I See You",
+      "start_time": "05:25 PM",
+      "end_time": "07:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17297689_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Uncaged",
+      "start_time": "07:10 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Rescue Dawn",
+      "start_time": "09:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p163879_v_h9_ap.jpg?lock=880x660"
+    },
+    {
+      "show_name": "River Monster",
+      "start_time": "11:00 PM",
+      "end_time": "12:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31154890_b_h9_aj.jpg?lock=880x660"
+    }
+  ]
+}

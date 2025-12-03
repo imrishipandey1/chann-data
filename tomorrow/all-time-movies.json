@@ -1,0 +1,42 @@
+{
+  "channel_name": "All Time Movies",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Movie",
+      "start_time": "02:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "10:00 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "02:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "10:00 PM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    }
+  ]
+}

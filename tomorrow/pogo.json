@@ -1,0 +1,144 @@
+{
+  "channel_name": "Pogo",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27642204_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "02:00 AM",
+      "end_time": "02:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "02:12 AM",
+      "end_time": "02:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "02:24 AM",
+      "end_time": "02:36 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "02:36 AM",
+      "end_time": "02:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "02:48 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "03:00 AM",
+      "end_time": "03:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "03:12 AM",
+      "end_time": "03:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "03:24 AM",
+      "end_time": "03:36 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "03:36 AM",
+      "end_time": "03:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "03:48 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "04:00 AM",
+      "end_time": "04:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "04:12 AM",
+      "end_time": "04:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "04:24 AM",
+      "end_time": "04:36 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "04:36 AM",
+      "end_time": "04:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "04:48 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Smaashhing Simmba",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chhota Bheem",
+      "start_time": "06:00 AM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chhota Bheem",
+      "start_time": "06:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chhota Bheem",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chhota Bheem",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chhota Bheem",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

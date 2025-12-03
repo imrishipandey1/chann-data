@@ -1,0 +1,372 @@
+{
+  "channel_name": "BBC News",
+  "date": "December 04, 2025",
+  "schedule": [
+    {
+      "show_name": "The World Today with Maryam Moshiri",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26773890_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The World Today with Maryam Moshiri",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26773890_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The World Today with Maryam Moshiri",
+      "start_time": "01:00 AM",
+      "end_time": "01:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26773890_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tech Now",
+      "start_time": "01:25 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29377809_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Context",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21385593_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Context",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21385593_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Context USA",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30659309_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Context USA",
+      "start_time": "03:00 AM",
+      "end_time": "03:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30659309_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tech Now",
+      "start_time": "03:25 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29377809_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC World News America",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p208539_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Newsnight",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p269693_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC World News America",
+      "start_time": "04:30 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p208539_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Newscast",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17872906_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Firing Line",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8944224_b_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Newsday",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8702243_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "08:00 AM",
+      "end_time": "08:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC Sport",
+      "start_time": "08:15 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15797626_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Newsday",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8702243_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "09:00 AM",
+      "end_time": "09:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC Sport",
+      "start_time": "09:15 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15797626_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Newsday",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8702243_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "10:00 AM",
+      "end_time": "10:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC Sport",
+      "start_time": "10:15 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15797626_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "12:00 PM",
+      "end_time": "12:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talking Movies",
+      "start_time": "12:25 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p499183_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "01:00 PM",
+      "end_time": "01:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talking Movies",
+      "start_time": "01:25 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p499183_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "03:00 PM",
+      "end_time": "03:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talking Movies",
+      "start_time": "03:25 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p499183_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "05:00 PM",
+      "end_time": "05:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News",
+      "start_time": "05:15 PM",
+      "end_time": "05:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8133775_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talking Movies",
+      "start_time": "05:25 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p499183_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News Now",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753781_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News Now",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753781_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News Now",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753781_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News Now",
+      "start_time": "07:00 PM",
+      "end_time": "07:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753781_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talking Movies",
+      "start_time": "07:25 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p499183_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News Now",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753781_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "08:00 PM",
+      "end_time": "08:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "BBC News Now",
+      "start_time": "08:15 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753781_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Verified Live",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753790_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Verified Live",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753790_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Verified Live",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753790_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Business Today",
+      "start_time": "10:00 PM",
+      "end_time": "10:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27282827_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Verified Live",
+      "start_time": "10:15 PM",
+      "end_time": "10:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753790_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Talking Movies",
+      "start_time": "10:25 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p499183_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Verified Live",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24753790_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Focus on Africa",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11232982_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The World Today with Maryam Moshiri",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26773890_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}
