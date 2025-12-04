@@ -1,6 +1,6 @@
 {
   "channel_name": "Cartoon Network",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "Courage the Cowardly Dog",
@@ -177,16 +177,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28539350_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "My Hero Academia",
+      "show_name": "My Hero Academia: Heroes Rising",
       "start_time": "10:30 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12793542_b_h9_aj.jpg?lock=880x660"
-    },
-    {
-      "show_name": "My Hero Academia",
-      "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12793542_b_h9_aj.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     }
   ]
 }

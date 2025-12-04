@@ -1,18 +1,18 @@
 {
   "channel_name": "Colors Bangla Cinema",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
-      "show_name": "Challenge 2",
+      "show_name": "Phande Poriya Boga Kande Re",
       "start_time": "12:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15665641_v_h9_aa.jpg?lock=880x660"
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24645012_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Saat Bhai Champa",
-      "start_time": "01:30 AM",
+      "show_name": "Khaad",
+      "start_time": "01:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26123884_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Shiv Shakti",
@@ -21,46 +21,46 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Hero No. 1",
+      "show_name": "Bhakter Maa",
       "start_time": "04:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29076053_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30324206_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Madhur Milan",
+      "show_name": "Jor Jar Mulak Tar",
       "start_time": "07:00 AM",
-      "end_time": "09:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15689839_v_h9_aa.jpg?lock=880x660"
+      "end_time": "10:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15833930_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Maan Maryada",
-      "start_time": "09:50 AM",
-      "end_time": "12:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28075667_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Jamai Raja",
+      "start_time": "10:05 AM",
+      "end_time": "01:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23881125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khoka 420",
-      "start_time": "12:55 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16062468_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Greftaar",
+      "start_time": "01:05 PM",
+      "end_time": "04:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23945134_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Ranakshetra",
-      "start_time": "04:00 PM",
+      "show_name": "Nawab Nandini",
+      "start_time": "04:05 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24773706_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "MLA Phatakesto",
+      "show_name": "Baro Bou",
       "start_time": "07:00 PM",
-      "end_time": "09:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25449554_b_h9_aa.jpg?lock=880x660"
+      "end_time": "10:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14705615_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Phande Poriya Boga Kande Re",
-      "start_time": "09:55 PM",
+      "show_name": "Prem Amar",
+      "start_time": "10:15 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24645012_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11102723_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

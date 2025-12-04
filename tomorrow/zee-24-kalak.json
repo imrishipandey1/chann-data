@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee 24 Kalak",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Prime Time Report",
@@ -63,16 +63,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28907356_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Control Room",
+      "show_name": "Janta Ni Vat",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069840_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069737_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aarti",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8469275_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8469275_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Maha Aarti",

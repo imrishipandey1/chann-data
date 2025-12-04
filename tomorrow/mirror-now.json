@@ -1,6 +1,6 @@
 {
   "channel_name": "Mirror Now",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "The Urban Debate",
@@ -167,8 +167,14 @@
     {
       "show_name": "9 PM Nation Tonight",
       "start_time": "09:00 PM",
-      "end_time": "10:00 PM",
+      "end_time": "09:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29051503_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Global Mirror",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29052064_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Beyond The Headline",

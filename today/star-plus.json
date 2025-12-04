@@ -1,6 +1,6 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "Udne Ki Aasha",
@@ -105,38 +105,44 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p18882414_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Gita Mahotsav Tulsi Ke Sath",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31849125_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Maana Ke Hum Yaar Nahi",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Sampoorna",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
+      "start_time": "06:30 PM",
+      "end_time": "06:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31111734_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Advocate Anjali Awasthi",
+      "show_name": "Maana Ke Hum Yaar Nahi",
+      "start_time": "06:50 PM",
+      "end_time": "07:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Udne Ki Aasha",
+      "start_time": "07:10 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26841305_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shehzaadi... Hai Tu Dil Ki",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Aarti Anjali Awasthi",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27995731_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30683540_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Udne Ki Aasha",
       "start_time": "08:30 PM",
-      "end_time": "09:30 PM",
+      "end_time": "09:15 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26841305_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Yeh Rishta Kya Kehlata Hai",
-      "start_time": "09:30 PM",
+      "start_time": "09:15 PM",
       "end_time": "10:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p21192003_b_h9_aa.jpg?lock=880x660"
     },

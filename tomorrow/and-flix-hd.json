@@ -1,18 +1,18 @@
 {
   "channel_name": "&flix HD",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
-      "show_name": "Foxter & Max",
+      "show_name": "Hardball",
       "start_time": "12:25 AM",
-      "end_time": "01:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18266301_v_h9_aa.jpg?lock=880x660"
+      "end_time": "02:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28310_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Alien Invasion",
-      "start_time": "01:50 AM",
+      "show_name": "Escape of Shark",
+      "start_time": "02:10 AM",
       "end_time": "03:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24233020_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24774383_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
@@ -23,80 +23,74 @@
     {
       "show_name": "Chef vs Fridge",
       "start_time": "04:10 AM",
-      "end_time": "05:00 AM",
+      "end_time": "05:05 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chef vs Fridge",
-      "start_time": "05:00 AM",
-      "end_time": "05:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Huge Shark",
-      "start_time": "05:50 AM",
+      "show_name": "Universal Soldier 4",
+      "start_time": "05:05 AM",
       "end_time": "06:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24088821_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9410609_b_h9_ag.jpg?lock=880x660"
     },
     {
-      "show_name": "Fearless Kungfu King",
+      "show_name": "White Haired Princess",
       "start_time": "06:55 AM",
-      "end_time": "08:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20368340_b_h9_aa.jpg?lock=880x660"
+      "end_time": "08:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26523002_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Vanishing",
-      "start_time": "08:45 AM",
-      "end_time": "10:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16290582_v_h9_aa.jpg?lock=880x660"
+      "show_name": "First Kill",
+      "start_time": "08:10 AM",
+      "end_time": "09:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14041122_v_h9_ba.jpg?lock=880x660"
     },
     {
-      "show_name": "The Prince",
-      "start_time": "10:35 AM",
-      "end_time": "12:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10837127_v_h9_ag.jpg?lock=880x660"
+      "show_name": "Reprisal",
+      "start_time": "09:55 AM",
+      "end_time": "11:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15656071_v_h9_aj.jpg?lock=880x660"
     },
     {
-      "show_name": "Bee Season",
-      "start_time": "12:10 PM",
-      "end_time": "01:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p89589_v_h9_ai.jpg?lock=880x660"
+      "show_name": "The Amazing Spider-Man",
+      "start_time": "11:40 AM",
+      "end_time": "01:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8548776_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Extraction",
-      "start_time": "01:45 PM",
+      "show_name": "Orphan: First Kill",
+      "start_time": "01:50 PM",
       "end_time": "03:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12320065_v_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21070153_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gringo",
+      "show_name": "Gunpowder Milkshake",
       "start_time": "03:20 PM",
-      "end_time": "05:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14172495_v_h9_ac.jpg?lock=880x660"
+      "end_time": "05:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19075032_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Operation Fortune",
-      "start_time": "05:10 PM",
-      "end_time": "07:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20831987_v_h9_af.jpg?lock=880x660"
+      "show_name": "Joe Somebody",
+      "start_time": "05:15 PM",
+      "end_time": "07:05 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "The Deep Dark",
-      "start_time": "07:10 PM",
+      "show_name": "The Beekeeper",
+      "start_time": "07:05 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25799883_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25146162_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Bad Samaritan",
+      "show_name": "Return of Wu Kong",
       "start_time": "09:00 PM",
-      "end_time": "10:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15167269_v_h9_ab.jpg?lock=880x660"
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19853018_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Hatching",
-      "start_time": "10:55 PM",
-      "end_time": "12:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20047485_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Borrego",
+      "start_time": "10:30 PM",
+      "end_time": "12:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21138029_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

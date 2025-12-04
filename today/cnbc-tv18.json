@@ -1,6 +1,6 @@
 {
   "channel_name": "CNBC TV18",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "The Exchange",
@@ -99,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617351_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Your Stocks",
+      "show_name": "MF Corner",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617838_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617329_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "NSE Closing Bell",
@@ -111,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Investment Guide",
+      "show_name": "NSE Closing Bell",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617242_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "After The Bell",
@@ -147,10 +147,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Start Up Street",
+      "show_name": "Young Turks",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617549_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617820_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "U.S Markets Opening Bell",

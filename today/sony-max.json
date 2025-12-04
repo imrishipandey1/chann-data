@@ -1,36 +1,30 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
-      "show_name": "Rifle Club",
-      "start_time": "01:40 AM",
-      "end_time": "03:18 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29033998_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Dil Dhadak Dhadak",
+      "start_time": "01:04 AM",
+      "end_time": "03:27 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Comedy Station",
-      "start_time": "03:18 AM",
-      "end_time": "03:31 AM",
+      "start_time": "03:27 AM",
+      "end_time": "03:39 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Comedy Station",
-      "start_time": "03:31 AM",
-      "end_time": "03:43 AM",
+      "start_time": "03:39 AM",
+      "end_time": "03:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Extraaa Storiez",
-      "start_time": "03:43 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "04:00 AM",
+      "start_time": "03:50 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
@@ -65,7 +59,7 @@
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
-      "end_time": "12:27 AM",
+      "end_time": "01:08 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "channel_name": "ETV Plus",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Swathi Chinukulu",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Anukunnadi Okati Ainadi Okati",
+      "show_name": "Attho Atthamma Kuthuro",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19662349_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28904633_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sumangali",
@@ -105,10 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31322069_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Premalo Pavani Kalyan",
+      "show_name": "Alludugaru",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14695914_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11512285_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sridevi Drama Company",
@@ -117,16 +117,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27031750_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "House Full Show",
+      "show_name": "Soundarya Lahari",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29267014_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Subhamastu",
+      "show_name": "Pratighatana",
       "start_time": "09:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14601169_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28895021_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

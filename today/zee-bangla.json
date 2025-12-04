@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee Bangla",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
@@ -29,36 +29,36 @@
     {
       "show_name": "Chirodini Tumi Je Amar",
       "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
+      "end_time": "02:29 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29705972_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Parineeta",
-      "start_time": "02:30 AM",
+      "start_time": "02:29 AM",
       "end_time": "03:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28742675_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Phulki",
       "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
+      "end_time": "03:29 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26734268_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Anandi",
-      "start_time": "03:30 AM",
-      "end_time": "04:15 AM",
+      "start_time": "03:29 AM",
+      "end_time": "04:14 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28355881_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Kone Dekha Alo",
-      "start_time": "04:15 AM",
-      "end_time": "05:00 AM",
+      "start_time": "04:14 AM",
+      "end_time": "04:59 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31021301_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Patanjali Yog - By Yogrishi Swami Ramdev",
-      "start_time": "05:00 AM",
+      "start_time": "04:59 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30702089_b_h9_aa.jpg?lock=880x660"
     },

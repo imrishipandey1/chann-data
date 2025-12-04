@@ -1,6 +1,6 @@
 {
   "channel_name": "Sun TV",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "Nagaichuvai Gallatta",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29836359_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ponmana Selvan",
+      "show_name": "Kombu Vatcha Singamda",
       "start_time": "03:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11274268_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "News",

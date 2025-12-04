@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Gujarati Cinema",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
-      "show_name": "Alakh Niranjan",
+      "show_name": "Zulan Morli",
       "start_time": "12:00 AM",
-      "end_time": "12:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18901314_v_h9_aa.jpg?lock=880x660"
+      "end_time": "12:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23667683_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Kaliyug Ni Sita",
-      "start_time": "12:55 AM",
+      "show_name": "Maa Tara Haiya Na Het",
+      "start_time": "12:25 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20447501_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Desi Beats",
+      "show_name": "Deshi Beats",
       "start_time": "03:00 AM",
-      "end_time": "05:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
+      "end_time": "05:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907508_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rangilee Gujaratan",
-      "start_time": "05:45 AM",
+      "show_name": "Kesar Chandan",
+      "start_time": "05:55 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17429263_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Deshi Beats",
       "start_time": "08:00 AM",
-      "end_time": "11:00 AM",
+      "end_time": "09:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28907508_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Maa Meladi",
-      "start_time": "11:00 AM",
-      "end_time": "01:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26574718_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Palavde Bandhi Preet",
+      "start_time": "09:50 AM",
+      "end_time": "12:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23247583_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mane Laide Ne Navarang Chundadi",
-      "start_time": "01:45 PM",
-      "end_time": "04:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25724524_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Mangudi Manti Nathi",
+      "start_time": "12:55 PM",
+      "end_time": "04:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21888839_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pithi No Rang",
-      "start_time": "04:40 PM",
+      "show_name": "Sagi Nanand Na Vira",
+      "start_time": "04:05 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27104955_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28880152_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Maa Koi Ni Marsho Nahi",
+      "show_name": "Ganga Sati",
       "start_time": "07:00 PM",
       "end_time": "09:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19291190_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p12639949_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Zulan Morli",
+      "show_name": "Mara Sayaba Ni Chundadi",
       "start_time": "09:45 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23667683_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22542988_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

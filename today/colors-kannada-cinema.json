@@ -1,13 +1,7 @@
 {
   "channel_name": "Colors Kannada",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
-    {
-      "show_name": "Bigg Boss Kannada",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
-    },
     {
       "show_name": "Sri Gandhada Gudi",
       "start_time": "12:30 AM",
@@ -81,10 +75,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p14335607_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tenali Rama",
+      "show_name": "Tenali Raman",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14335607_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944373_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Maharshi Darshana",
@@ -221,7 +215,7 @@
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "11:00 PM",
-      "end_time": "12:00 AM",
+      "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     }
   ]

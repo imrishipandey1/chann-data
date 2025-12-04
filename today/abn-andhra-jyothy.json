@@ -1,6 +1,6 @@
 {
   "channel_name": "ABN Andhra Jyothy",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "Midnight News Live",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29190704_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN Prime Time Live",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191141_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Spotlight Live",
@@ -147,16 +147,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191156_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "News At Noon Live",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191689_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "News At Noon Live",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191689_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "ABN News Live",
@@ -165,10 +165,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "ADVT RJR Herbal (Slot)",
+      "show_name": "ABN Express (Local to Global) Live",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191306_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191086_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "ABN News Live",
@@ -189,22 +189,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Abn Indian Kitchen",
+      "show_name": "ABN News Live",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191096_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN Express (Local to Global) Live",
+      "show_name": "ABN News Live",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191086_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Vyavasayam@Organic",
+      "show_name": "ADVT RJR Herbal (Slot)",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191492_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191306_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "ABN News Live",

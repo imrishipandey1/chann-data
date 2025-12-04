@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Marathi",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Pinga Ga Pori Pinga",
@@ -179,14 +179,8 @@
     {
       "show_name": "Raja Ranichi Ga Jodi",
       "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17792646_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ashok Mama",
-      "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28811277_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17792646_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Indrayani",
@@ -215,12 +209,6 @@
     {
       "show_name": "Balu Mamachya Navan Changbhal",
       "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Balu Mamachya Navan Changbhal",
-      "start_time": "06:00 PM",
       "end_time": "06:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23658156_b_h9_ab.jpg?lock=880x660"
     },

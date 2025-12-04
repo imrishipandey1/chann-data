@@ -1,6 +1,6 @@
 {
   "channel_name": "Aastha",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Aastha Special",
@@ -111,82 +111,52 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Darshanam",
+      "show_name": "Pujya Mahesh Guru ji",
       "start_time": "10:00 AM",
-      "end_time": "10:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16513196_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ved Vani",
-      "start_time": "10:15 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21882917_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Yog Rishi Swami Ramdevji Brahmayagna",
-      "start_time": "10:30 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15687367_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aartiya and Chalisa",
-      "start_time": "11:30 AM",
-      "end_time": "12:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29442263_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Swami Dr. Ramkamal Das Vedanti Ji",
-      "start_time": "12:10 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15687350_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Gaurishi Swami Shriduttsharnanandji Santvani Pravachan",
-      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26614133_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30222853_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aasstha Special",
+      "show_name": "Param Shradhey Pawan Guru Ji",
       "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30312956_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aasstha Special",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Pujya Chinmayanand Bapuji",
-      "start_time": "04:00 PM",
+      "show_name": "Aasstha Special",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aasstha Special",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aasstha Special",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aasstha Special",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aasstha Special",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8688032_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sri Rajeev Lochan Dasa",

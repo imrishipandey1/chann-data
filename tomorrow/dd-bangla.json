@@ -1,6 +1,6 @@
 {
   "channel_name": "DD Bangla",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Entertainment Programme",
@@ -69,10 +69,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31411474_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Santarai Akhra",
+      "show_name": "Hindi Programme",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080509_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28941714_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",
@@ -99,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jukti Takko",
+      "show_name": "Tomay Gaan Sonabo",
       "start_time": "12:02 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29079786_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Sambad Ek Najare",
@@ -111,16 +111,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hori Ghosher Gowal",
+      "show_name": "Bigyan Prasange",
       "start_time": "01:02 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29253436_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079086_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Programme Highlights",
+      "show_name": "Niruddesh Sambad",
       "start_time": "01:30 PM",
       "end_time": "01:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27198980_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080062_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aajker Ranna",
@@ -135,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Anubhav",
+      "show_name": "Toofan",
       "start_time": "02:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26422864_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
@@ -153,10 +153,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29079315_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bigyan Prasange",
+      "show_name": "Krishi Darshan",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29079086_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27198726_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
@@ -165,10 +165,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Suswasthya",
+      "show_name": "Ki Hote Chai",
       "start_time": "06:02 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31411474_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079864_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
@@ -183,10 +183,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28950402_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Roopkatha",
+      "show_name": "DRAMA",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080376_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28941590_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
@@ -195,16 +195,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Roopkatha",
+      "show_name": "DRAMA",
       "start_time": "08:02 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080376_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Janapader Katha",
-      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31707419_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28941590_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",

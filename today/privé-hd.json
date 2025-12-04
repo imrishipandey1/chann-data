@@ -1,12 +1,12 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
-      "show_name": "Vanguard",
-      "start_time": "01:20 AM",
+      "show_name": "Hotel Mumbai",
+      "start_time": "01:02 AM",
       "end_time": "02:59 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18965213_v_h9_aj.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16457223_v_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Dance With Me",
@@ -23,86 +23,80 @@
     {
       "show_name": "Dance With Me",
       "start_time": "04:50 AM",
-      "end_time": "05:12 AM",
+      "end_time": "05:16 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28189878_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chef vs Fridge",
-      "start_time": "05:12 AM",
-      "end_time": "06:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Huge Shark",
+      "start_time": "05:16 AM",
+      "end_time": "06:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24088821_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Train to Busan Presents: Peninsula",
-      "start_time": "06:45 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17850257_v_h9_ac.jpg?lock=880x660"
+      "show_name": "Rising Shaolin: The Protector",
+      "start_time": "06:24 AM",
+      "end_time": "08:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22224987_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Foxter & Max",
-      "start_time": "08:30 AM",
-      "end_time": "09:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18266301_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Hotel Mumbai",
+      "start_time": "08:10 AM",
+      "end_time": "10:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16457223_v_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Rememory",
-      "start_time": "09:55 AM",
-      "end_time": "11:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14426918_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Flashbacks of a Fool",
+      "start_time": "10:10 AM",
+      "end_time": "11:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p180423_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Drone",
-      "start_time": "11:45 AM",
+      "show_name": "Vertigo",
+      "start_time": "11:50 AM",
       "end_time": "01:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13935015_v_h9_ee.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8151_v_h9_am.jpg?lock=880x660"
     },
     {
-      "show_name": "Naked Weapon",
+      "show_name": "Wrong Place",
       "start_time": "01:10 PM",
-      "end_time": "02:25 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
-    },
-    {
-      "show_name": "Poseidon Rex",
-      "start_time": "02:25 PM",
-      "end_time": "03:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10663597_v_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Replicas",
-      "start_time": "03:35 PM",
-      "end_time": "05:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15208516_v_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Kursk",
-      "start_time": "05:15 PM",
-      "end_time": "07:10 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
-    },
-    {
-      "show_name": "The Nice Guys",
-      "start_time": "07:10 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12356386_v_h9_al.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Escape of Shark",
-      "start_time": "09:00 PM",
-      "end_time": "10:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24774383_b_h9_aa.jpg?lock=880x660"
+      "end_time": "02:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22271738_v_h9_ah.jpg?lock=880x660"
     },
     {
       "show_name": "Jurassic Attack",
-      "start_time": "10:15 PM",
-      "end_time": "11:45 PM",
+      "start_time": "02:45 PM",
+      "end_time": "04:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p9831454_v_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Ultraviolet",
-      "start_time": "11:45 PM",
-      "end_time": "01:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p159164_v_h9_ac.jpg?lock=880x660"
+      "show_name": "Pelé: Birth of a Legend",
+      "start_time": "04:10 PM",
+      "end_time": "05:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12650713_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Maggie Moore(s)",
+      "start_time": "05:50 PM",
+      "end_time": "07:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24254453_v_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beast of Burden",
+      "start_time": "07:25 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15072067_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Cold Skin",
+      "start_time": "09:00 PM",
+      "end_time": "10:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15193020_v_h9_ar.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Poseidon Rex",
+      "start_time": "10:50 PM",
+      "end_time": "12:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10663597_v_h9_ac.jpg?lock=880x660"
     }
   ]
 }

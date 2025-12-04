@@ -1,12 +1,12 @@
 {
   "channel_name": "Alankar",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
-      "show_name": "Jaha Mundare Sindura Mu Ta Bara",
+      "show_name": "Emiti Stree Kahara Nahi",
       "start_time": "01:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29211613_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29501574_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Stars Choice",
@@ -33,28 +33,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30608519_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Manabas Gurubara",
+      "show_name": "Prema Pain Mahabharat",
       "start_time": "08:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080167_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tu Mo Subhadra Mu To Jaga",
+      "show_name": "Gapa Hele Bi Sata",
       "start_time": "11:00 AM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29070423_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14828657_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Manabas Gurubara",
+      "show_name": "Emiti Bi Heipare",
       "start_time": "02:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30310318_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jaga Hatare Pagha",
+      "show_name": "Maa Pari Kie Heba",
       "start_time": "05:00 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29211517_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29272115_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Tele Shopping",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Purushara Deha Narira Mana",
+      "show_name": "Mun Sri Khetra Bohu",
       "start_time": "08:00 PM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29990563_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29501888_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

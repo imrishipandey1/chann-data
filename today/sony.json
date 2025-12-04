@@ -1,6 +1,6 @@
 {
   "channel_name": "SET",
-  "date": "December 03, 2025",
+  "date": "December 04, 2025",
   "schedule": [
     {
       "show_name": "Best of Crime Patrol",
@@ -9,10 +9,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Crime Patrol: 48 Hours",
+      "show_name": "Best of Crime Patrol",
       "start_time": "01:50 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25120427_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -21,10 +21,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol",
+      "show_name": "Crime Patrol: 48 Hours",
       "start_time": "03:10 AM",
       "end_time": "03:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25120427_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -39,10 +39,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol",
+      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
       "start_time": "05:50 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29096437_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -87,10 +87,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Crime Patrol: 48 Hours",
+      "show_name": "Crime Patrol 2.0",
       "start_time": "02:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25120427_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30794823_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -137,12 +137,6 @@
     {
       "show_name": "Best of Crime Patrol",
       "start_time": "10:30 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Best of Crime Patrol",
-      "start_time": "11:30 PM",
       "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     }
