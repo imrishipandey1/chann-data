@@ -1,50 +1,50 @@
 name: Download Images & Update JSON
 
 on:
-  workflow_dispatch:  # Run manually
+  workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *"  # optional: runs every day 05:00 UTC
+    - cron: "0 5 * * *"   # Optional: daily at 5 UTC
+
+permissions:
+  contents: write  # REQUIRED: allow GitHub Actions bot to push changes
 
 jobs:
   run-downloader:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # required for committing back
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}  # REQUIRED for push access
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install Python Dependencies
+      - name: Install dependencies
         run: |
           pip install requests Pillow tqdm
 
-      - name: Run Image Downloader Script
+      - name: Run image downloader
         run: |
           python3 download_images_parallel.py
 
-      - name: Prepare git for commit (avoid errors if folders do not exist)
+      - name: Prepare git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-
-          # Ensure folder exists (prevents 'pathspec not found' error)
           mkdir -p downloaded-images
 
-      - name: Stage updated files safely
+      - name: Stage changes safely
         run: |
-          # These commands will NOT fail even if no files exist
           git add downloaded-images || true
           git add today/*.json || true
           git add tomorrow/*.json || true
 
-      - name: Commit and Push Changes
+      - name: Commit and push
         run: |
-          # Commit only if changes exist
           git diff --cached --quiet || git commit -m "Auto-update images & JSON"
           git push
