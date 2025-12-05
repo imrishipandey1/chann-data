@@ -30,8 +30,8 @@ from tqdm import tqdm
 
 # ----- CONFIG -----
 FOLDERS = [
-    "/Users/rishipandey/Projects/dishtv-scrapper/today",
-    "/Users/rishipandey/Projects/dishtv-scrapper/tomorrow",
+    "./today",
+    "./tomorrow",
 ]
 
 OUTPUT_BASE = Path("./downloaded-images")
