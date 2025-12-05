@@ -1,6 +1,6 @@
 {
   "channel_name": "Sun TV",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
       "show_name": "Nagaichuvai Gallatta",
@@ -105,16 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29837137_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ilakkiya",
+      "show_name": "Top Cooku Dupe Cooku",
       "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29836894_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Lakshmi",
-      "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27423999_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Anandha Ragam",
@@ -189,16 +183,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29837257_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Anandha Ragam",
+      "show_name": "Top Cooku Dupe Cooku",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893209_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Puthu Vasantham",
-      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28059660_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27423999_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

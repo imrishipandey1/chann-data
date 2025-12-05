@@ -1,6 +1,6 @@
 {
   "channel_name": "Aastha",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
       "show_name": "Aastha Special",
@@ -123,40 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30312956_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aasstha Special",
+      "show_name": "Morari Bapu",
       "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aasstha Special",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22847812_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30223731_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sri Rajeev Lochan Dasa",

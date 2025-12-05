@@ -1,6 +1,6 @@
 {
   "channel_name": "Cartoon Network",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Courage the Cowardly Dog",
@@ -29,12 +29,12 @@
     {
       "show_name": "The Tom and Jerry Show",
       "start_time": "04:00 AM",
-      "end_time": "06:00 AM",
+      "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10478306_b_h9_bb.jpg?lock=880x660"
     },
     {
       "show_name": "The Tom and Jerry Show",
-      "start_time": "06:00 AM",
+      "start_time": "05:00 AM",
       "end_time": "07:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10478306_b_h9_bb.jpg?lock=880x660"
     },
@@ -177,10 +177,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28539350_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "My Hero Academia: Heroes Rising",
+      "show_name": "My Hero Academia",
       "start_time": "10:30 PM",
-      "end_time": "12:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12793542_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "My Hero Academia",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12793542_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Courage the Cowardly Dog",
+      "start_time": "11:30 PM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p186142_b_h9_ah.jpg?lock=880x660"
     }
   ]
 }

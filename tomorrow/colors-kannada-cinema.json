@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Kannada",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
       "show_name": "Sri Gandhada Gudi",
@@ -135,28 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Shantam Paapam",
+      "show_name": "Abhi",
       "start_time": "01:30 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29731915_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Shantam Paapam",
-      "start_time": "02:30 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14490923_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Sri Gandhada Gudi",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Nandagokula",
-      "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30380524_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Bigg Boss Kannada",
@@ -180,7 +162,7 @@
       "show_name": "Bhagya Lakshmi",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26122045_b_h9_ai.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20400180_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Muddu Sose",
@@ -201,21 +183,15 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29626705_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Nandagokula",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30380524_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Bigg Boss Kannada",
-      "start_time": "09:30 PM",
+      "start_time": "09:00 PM",
       "end_time": "11:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "11:00 PM",
-      "end_time": "12:30 AM",
+      "end_time": "01:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     }
   ]

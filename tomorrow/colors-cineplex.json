@@ -1,60 +1,66 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Ruslaan",
-      "start_time": "01:10 AM",
-      "end_time": "03:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27256086_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Great Indian Butterfly",
-      "start_time": "03:15 AM",
-      "end_time": "04:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p175361_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Yajamana",
-      "start_time": "04:55 AM",
-      "end_time": "07:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16661715_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Vikrant Rona",
-      "start_time": "07:25 AM",
-      "end_time": "10:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22613526_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Raja Hindustani",
-      "start_time": "10:40 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p70859_v_h9_ae.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Siren",
-      "start_time": "02:00 PM",
-      "end_time": "05:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26729839_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Mardaani 2",
-      "start_time": "05:35 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17456460_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Family Star",
-      "start_time": "07:50 PM",
-      "end_time": "10:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26950708_b_h9_ac.jpg?lock=880x660"
-    },
-    {
       "show_name": "Pogaru",
-      "start_time": "10:50 PM",
+      "start_time": "12:00 AM",
       "end_time": "01:10 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20103670_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yuvaraj",
+      "start_time": "01:10 AM",
+      "end_time": "03:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29326510_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "City of Gold",
+      "start_time": "03:25 AM",
+      "end_time": "05:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8208164_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Amaran",
+      "start_time": "05:40 AM",
+      "end_time": "09:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28588555_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Meri Taqat Mera Faisla",
+      "start_time": "09:45 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9998756_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sangharsh Aur Vijay",
+      "start_time": "12:40 PM",
+      "end_time": "02:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8706614_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Vijay Raghavan",
+      "start_time": "02:35 PM",
+      "end_time": "05:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29028691_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dumdaar Khiladi",
+      "start_time": "05:10 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26658168_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hanu Man",
+      "start_time": "07:50 PM",
+      "end_time": "10:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26329219_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yashoda",
+      "start_time": "10:45 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23338613_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

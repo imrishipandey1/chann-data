@@ -1,7 +1,13 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
+    {
+      "show_name": "Jhanak",
+      "start_time": "12:00 AM",
+      "end_time": "12:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26112921_b_h9_ac.jpg?lock=880x660"
+    },
     {
       "show_name": "Udne Ki Aasha",
       "start_time": "12:15 AM",
@@ -161,7 +167,7 @@
     {
       "show_name": "Jhanak",
       "start_time": "11:10 PM",
-      "end_time": "12:15 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26112921_b_h9_ac.jpg?lock=880x660"
     }
   ]

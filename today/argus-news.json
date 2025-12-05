@@ -1,6 +1,6 @@
 {
   "channel_name": "Argus",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Prime Odisha",
@@ -15,10 +15,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29193819_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sata Katha",
+      "show_name": "Desh Bidesh",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29193882_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28842270_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Badasahara Badakhabar",
@@ -39,10 +39,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29193616_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sata Katha",
+      "show_name": "Political Akhada",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29193882_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193730_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Prasnakala",
@@ -195,10 +195,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30855712_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ajira Atithi",
+      "show_name": "Gaon Re Ratitie",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29243544_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31090466_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Argus Update",
@@ -213,10 +213,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30855614_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Nari Shakti",
+      "show_name": "Ajira Atithi",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29243544_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jilla @ 3pm",
@@ -231,10 +231,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13593333_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Star Talk",
+      "show_name": "Prime Odisha",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29193890_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193811_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bad Ka Khabar",
@@ -333,10 +333,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13593333_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gaon Re Ratitie",
+      "show_name": "E3",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31090466_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29193634_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Dinara Bada Khabar",

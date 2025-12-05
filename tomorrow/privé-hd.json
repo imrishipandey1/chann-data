@@ -1,108 +1,102 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Untraceable",
-      "start_time": "12:05 AM",
-      "end_time": "01:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p171751_v_h9_ak.jpg?lock=880x660"
+      "show_name": "Vincent N Roxxy",
+      "start_time": "12:25 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13963103_v_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Underworld: Rise of the Lycans",
-      "start_time": "01:45 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p187411_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Rescue Dawn",
+      "start_time": "02:00 AM",
+      "end_time": "04:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p163879_v_h9_ap.jpg?lock=880x660"
     },
     {
       "show_name": "Dance With Me",
-      "start_time": "03:00 AM",
-      "end_time": "03:50 AM",
+      "start_time": "04:05 AM",
+      "end_time": "04:55 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28189878_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Dance With Me",
-      "start_time": "03:50 AM",
-      "end_time": "04:40 AM",
+      "start_time": "04:55 AM",
+      "end_time": "05:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28189878_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dance With Me",
-      "start_time": "04:40 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28189878_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Chef vs Fridge",
+      "start_time": "05:45 AM",
+      "end_time": "06:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Escape of Shark",
-      "start_time": "05:30 AM",
-      "end_time": "06:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24774383_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Rescue Dawn",
+      "start_time": "06:25 AM",
+      "end_time": "08:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p163879_v_h9_ap.jpg?lock=880x660"
     },
     {
-      "show_name": "Rememory",
-      "start_time": "06:40 AM",
-      "end_time": "08:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14426918_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Backstabbing for Beginners",
+      "start_time": "08:25 AM",
+      "end_time": "10:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13824259_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hardball",
-      "start_time": "08:20 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28310_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "China Salesman",
-      "start_time": "10:00 AM",
+      "show_name": "Jeepers Creepers 2",
+      "start_time": "10:10 AM",
       "end_time": "11:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15151872_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p32291_v_h9_at.jpg?lock=880x660"
     },
     {
-      "show_name": "World's Greatest Dad",
+      "show_name": "Rob-B-Hood",
       "start_time": "11:40 AM",
-      "end_time": "01:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p194088_v_h9_ah.jpg?lock=880x660"
+      "end_time": "01:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p178015_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Sniper",
-      "start_time": "01:10 PM",
-      "end_time": "02:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25141530_v_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Extremely Wicked, Shockingly Evil and Vile",
-      "start_time": "02:35 PM",
-      "end_time": "04:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16520757_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Nice Guys",
-      "start_time": "04:20 PM",
-      "end_time": "06:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12356386_v_h9_al.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Dead In A Week: Or Your Money Back",
-      "start_time": "06:10 PM",
-      "end_time": "07:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16050552_v_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Jurassic Attack",
-      "start_time": "07:35 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9831454_v_h9_ah.jpg?lock=880x660"
-    },
-    {
-      "show_name": "American Animals",
-      "start_time": "09:00 PM",
-      "end_time": "10:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15132757_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Mulan Legend",
+      "start_time": "01:40 PM",
+      "end_time": "03:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22018026_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "A Bad Moms Christmas",
-      "start_time": "10:50 PM",
-      "end_time": "12:25 AM",
+      "start_time": "03:15 PM",
+      "end_time": "04:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p13661830_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pressure",
+      "start_time": "04:50 PM",
+      "end_time": "06:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11770958_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jurassic Attack",
+      "start_time": "06:20 PM",
+      "end_time": "07:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9831454_v_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Poseidon Rex",
+      "start_time": "07:45 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10663597_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bad Moms",
+      "start_time": "09:00 PM",
+      "end_time": "10:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12706834_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pelé: Birth of a Legend",
+      "start_time": "10:40 PM",
+      "end_time": "12:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12650713_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

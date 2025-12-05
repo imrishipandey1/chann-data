@@ -1,13 +1,7 @@
 {
   "channel_name": "ABP Ananda",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
-    {
-      "show_name": "Ghanta Khanek Sange Suman",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
-    },
     {
       "show_name": "Advertorial",
       "start_time": "12:30 AM",
@@ -285,52 +279,52 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26464055_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Swar-Garom",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Swar-Garom",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Swar-Garom",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Swar-Garom",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Ananda Live @ 10 Pm",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26464086_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Ananda Khabor",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463829_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Ananda Khabor",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463829_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghanta Khanek Sange Suman",
+      "show_name": "Ananda Khabor",
       "start_time": "11:30 PM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463829_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

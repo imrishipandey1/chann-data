@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
-      "show_name": "Rowdy Baadshah",
-      "start_time": "12:31 AM",
-      "end_time": "02:44 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10720382_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Ruslaan",
+      "start_time": "12:53 AM",
+      "end_time": "03:03 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27256086_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Son Of Devil",
-      "start_time": "02:44 AM",
-      "end_time": "04:33 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28956791_b_h9_aa.jpg?lock=880x660"
+      "show_name": "The Great Indian Butterfly",
+      "start_time": "03:03 AM",
+      "end_time": "04:54 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p175361_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pankh",
-      "start_time": "04:33 AM",
-      "end_time": "05:57 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8416745_b_h9_ae.jpg?lock=880x660"
+      "show_name": "Yajamana",
+      "start_time": "04:54 AM",
+      "end_time": "04:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16661715_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "International Khiladi: The Iron Man",
-      "start_time": "05:57 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28889456_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Yajamana",
+      "start_time": "04:55 AM",
+      "end_time": "07:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16661715_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghayal Khiladi",
-      "start_time": "08:30 AM",
-      "end_time": "11:51 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14937664_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Vikrant Rona",
+      "start_time": "07:25 AM",
+      "end_time": "10:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22613526_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Fidaa",
-      "start_time": "11:51 AM",
-      "end_time": "01:57 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14361892_b_h9_ai.jpg?lock=880x660"
+      "show_name": "Raja Hindustani",
+      "start_time": "10:40 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p70859_v_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Gatta Kusthi",
-      "start_time": "01:57 PM",
-      "end_time": "05:18 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23503044_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Siren",
+      "start_time": "02:00 PM",
+      "end_time": "05:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26729839_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hawa",
-      "start_time": "05:18 PM",
+      "show_name": "Mardaani 2",
+      "start_time": "05:35 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8331701_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17456460_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Saindhav",
+      "show_name": "The Family Star",
       "start_time": "07:50 PM",
-      "end_time": "10:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26401828_b_h9_aa.jpg?lock=880x660"
+      "end_time": "10:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26950708_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Singham Returns",
-      "start_time": "10:10 PM",
-      "end_time": "01:10 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Pogaru",
+      "start_time": "10:50 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20103670_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

@@ -1,78 +1,66 @@
 {
   "channel_name": "DD India",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "show_name": "Indian Diplomacy",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28813358_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Eco India",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22376489_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
+      "start_time": "12:30 AM",
+      "end_time": "01:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "In Conversation With",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25446846_b_h9_aa.jpg?lock=880x660"
+      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28813365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Economic Brief",
-      "start_time": "02:30 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Connecting the Dots",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "03:00 AM",
-      "end_time": "04:00 AM",
+      "start_time": "02:30 AM",
+      "end_time": "03:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Wellness Watch",
-      "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p13402395_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Voice of the Global South",
-      "start_time": "04:30 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
+      "show_name": "The Economic Brief",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
+      "start_time": "04:30 AM",
+      "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Explorer of the Misty Mountains",
-      "start_time": "05:30 AM",
-      "end_time": "06:00 AM",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22534611_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhguru Speaks",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22014311_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "DD India",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22014311_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India",
@@ -81,166 +69,154 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "DD India News Hour",
-      "start_time": "07:30 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
-    },
-    {
       "show_name": "55th International Film Festival of India-2024 (IFFI)",
-      "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28813358_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "The Economic Brief",
+      "show_name": "DD India News Hour",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "DD India News Hour",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "09:30 AM",
-      "end_time": "10:30 AM",
+      "end_time": "10:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "10:30 AM",
-      "end_time": "11:30 AM",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "DD India",
-      "start_time": "11:30 AM",
+      "show_name": "DD India News Hour",
+      "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "DD India",
+      "show_name": "DD India News Hour",
       "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Defence Dynamics",
-      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27682276_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Wellness Watch",
+      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13402395_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "01:30 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
-    },
-    {
-      "show_name": "55th International Film Festival of India-2024 (IFFI)",
-      "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28813358_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Connecting the Dots",
-      "start_time": "03:00 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Sports Buzz",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24937794_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28813365_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Indian Diplomacy",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Sports Buzz",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24937794_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India",
-      "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
-      "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28813365_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Express News",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25410367_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "DD India",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Connecting the Dots",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
+      "show_name": "55th International Film Festival of India-2024 (IFFI)",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28813358_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Defence Dynamics",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27682276_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28822506_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Connecting the Dots",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "DD India",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p224191_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Voice of the Global South",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "In conversation with Hitesh Kumar S. Makwana-Surveyor General of India",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28813365_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Media Scan-Has the New Right Arrived in India?",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28822512_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Indian Diplomacy",
       "start_time": "08:30 PM",
-      "end_time": "09:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "DD India News Hour",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "55th International Film Festival of India-2024 (IFFI)",
-      "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28813358_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "The Economic Brief",
-      "start_time": "10:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
+      "show_name": "PM Visit to Nigeria-India-Negeria Strengthening Relations",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28822506_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
-      "start_time": "10:30 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Spotlight Cinema",
-      "start_time": "11:30 PM",
+      "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22034333_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

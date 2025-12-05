@@ -1,65 +1,83 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
-      "show_name": "Dil Dhadak Dhadak",
-      "start_time": "01:04 AM",
-      "end_time": "03:27 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Style",
+      "start_time": "01:03 AM",
+      "end_time": "03:34 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9421806_v_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Comedy Station",
-      "start_time": "03:27 AM",
-      "end_time": "03:39 AM",
+      "start_time": "03:34 AM",
+      "end_time": "03:47 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Comedy Station",
-      "start_time": "03:39 AM",
-      "end_time": "03:50 AM",
+      "start_time": "03:47 AM",
+      "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Extraaa Storiez",
-      "start_time": "03:50 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
-    },
-    {
       "show_name": "Movie",
-      "start_time": "06:00 AM",
-      "end_time": "09:00 AM",
+      "start_time": "04:00 AM",
+      "end_time": "04:11 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "09:00 AM",
-      "end_time": "12:00 PM",
+      "start_time": "04:11 AM",
+      "end_time": "05:28 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "12:00 PM",
-      "end_time": "03:00 PM",
+      "start_time": "05:28 AM",
+      "end_time": "07:29 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "03:00 PM",
-      "end_time": "06:00 PM",
+      "start_time": "07:29 AM",
+      "end_time": "08:58 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "06:00 PM",
-      "end_time": "09:00 PM",
+      "start_time": "08:58 AM",
+      "end_time": "11:36 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "09:00 PM",
-      "end_time": "01:08 AM",
+      "start_time": "11:36 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "02:00 PM",
+      "end_time": "04:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "04:45 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "07:50 PM",
+      "end_time": "10:33 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "10:33 PM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]

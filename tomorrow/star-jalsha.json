@@ -1,12 +1,12 @@
 {
   "channel_name": "Star Jalsha",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Parashuram",
+      "show_name": "Milon Hobe Kotodine",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30738894_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Rangamati Tirandaj",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28393918_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rajrajeshwari Rani Bhabani",
+      "show_name": "Professor Bidya Banerjee",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30645250_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31706147_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "O Mor Dorodiya",

@@ -1,12 +1,12 @@
 {
   "channel_name": "Alankar",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Emiti Stree Kahara Nahi",
+      "show_name": "Tame Chaligala Pare",
       "start_time": "01:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29501574_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080499_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Stars Choice",
@@ -33,28 +33,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30608519_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Prema Pain Mahabharat",
+      "show_name": "I Love My India",
       "start_time": "08:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080167_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30310272_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gapa Hele Bi Sata",
+      "show_name": "God Father",
       "start_time": "11:00 AM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14828657_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992952_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Emiti Bi Heipare",
+      "show_name": "Hello",
       "start_time": "02:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30310318_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29847603_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Maa Pari Kie Heba",
+      "show_name": "Suna Harini",
       "start_time": "05:00 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29272115_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30198158_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tele Shopping",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mun Sri Khetra Bohu",
+      "show_name": "Bajile Bainsi Kanduchi Radha",
       "start_time": "08:00 PM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29501888_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31089301_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

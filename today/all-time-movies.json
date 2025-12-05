@@ -1,72 +1,42 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
-      "show_name": "Maaligai",
-      "start_time": "12:02 AM",
-      "end_time": "01:43 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Movie",
+      "start_time": "03:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Kangaroo",
-      "start_time": "01:43 AM",
-      "end_time": "03:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20662493_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Renigunta",
-      "start_time": "03:05 AM",
-      "end_time": "04:59 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13703694_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "10:00 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Teleshopping",
-      "start_time": "04:59 AM",
-      "end_time": "06:29 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p501178_b_h9_am.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "02:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Romeo",
-      "start_time": "06:29 AM",
-      "end_time": "08:29 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9349118_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Pulimurugan",
-      "start_time": "08:29 AM",
-      "end_time": "11:33 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13410655_v_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Damarukam",
-      "start_time": "11:33 AM",
-      "end_time": "02:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9531894_b_h9_ah.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Bhai Mera Big Brother",
-      "start_time": "02:15 PM",
-      "end_time": "04:17 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12471673_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Rajanna",
-      "start_time": "04:17 PM",
-      "end_time": "06:59 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11001090_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Alludu Seenu",
-      "start_time": "06:59 PM",
-      "end_time": "09:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10931889_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Veera Ranachandi",
-      "start_time": "09:15 PM",
+      "show_name": "Movie",
+      "start_time": "10:00 PM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18451133_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

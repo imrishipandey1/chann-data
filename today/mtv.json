@@ -1,6 +1,6 @@
 {
   "channel_name": "MTV",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Night Out",
@@ -53,73 +53,67 @@
     {
       "show_name": "Splitsvilla",
       "start_time": "11:50 AM",
-      "end_time": "12:45 PM",
+      "end_time": "01:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27085844_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Roadies",
-      "start_time": "12:45 PM",
-      "end_time": "01:30 PM",
+      "start_time": "01:00 PM",
+      "end_time": "01:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27749474_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Roadies",
-      "start_time": "01:30 PM",
-      "end_time": "02:45 PM",
+      "start_time": "01:50 PM",
+      "end_time": "03:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Roadies",
-      "start_time": "02:45 PM",
-      "end_time": "04:00 PM",
+      "start_time": "03:00 PM",
+      "end_time": "04:15 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "04:00 PM",
-      "end_time": "05:10 PM",
+      "start_time": "04:15 PM",
+      "end_time": "05:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27085844_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "05:10 PM",
-      "end_time": "06:30 PM",
+      "start_time": "05:30 PM",
+      "end_time": "07:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27085844_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Roadies",
-      "start_time": "06:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Roadies Real Heroes",
-      "start_time": "08:00 PM",
+      "start_time": "07:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23738766_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Splitsvilla",
-      "start_time": "09:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23739137_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Date 2 Remember",
-      "start_time": "10:00 PM",
-      "end_time": "10:45 PM",
+      "start_time": "09:00 PM",
+      "end_time": "09:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31788477_b_h9_ab.jpg?lock=880x660"
     },
     {
+      "show_name": "Splitsvilla",
+      "start_time": "09:50 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23739137_b_h9_aa.jpg?lock=880x660"
+    },
+    {
       "show_name": "Roadies",
-      "start_time": "10:45 PM",
-      "end_time": "11:30 PM",
+      "start_time": "11:00 PM",
+      "end_time": "11:45 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27749474_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Roadies",
-      "start_time": "11:30 PM",
-      "end_time": "12:30 AM",
+      "start_time": "11:45 PM",
+      "end_time": "12:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
     }
   ]

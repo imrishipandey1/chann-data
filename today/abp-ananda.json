@@ -1,6 +1,6 @@
 {
   "channel_name": "ABP Ananda",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Ghanta Khanek Sange Suman",
@@ -329,7 +329,7 @@
     {
       "show_name": "Ghanta Khanek Sange Suman",
       "start_time": "11:30 PM",
-      "end_time": "12:00 AM",
+      "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26680993_b_h9_aa.jpg?lock=880x660"
     }
   ]

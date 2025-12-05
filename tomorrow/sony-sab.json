@@ -1,6 +1,6 @@
 {
   "channel_name": "Sony SAB",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
@@ -221,6 +221,12 @@
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8862533_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8862533_b_h9_ag.jpg?lock=880x660"
     },
@@ -261,10 +267,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22259631_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Eken Babu",
+      "show_name": "Taarak Mehta Ka Ooltah Chashmah",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16467059_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8862533_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Taarak Mehta Ka Ooltah Chashmah",

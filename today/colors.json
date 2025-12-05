@@ -1,28 +1,28 @@
 {
   "channel_name": "Colors",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
       "show_name": "Bigg Boss",
-      "start_time": "01:00 AM",
-      "end_time": "02:17 AM",
+      "start_time": "01:08 AM",
+      "end_time": "02:23 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss",
-      "start_time": "02:17 AM",
-      "end_time": "03:35 AM",
+      "start_time": "02:23 AM",
+      "end_time": "03:39 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss",
-      "start_time": "03:35 AM",
-      "end_time": "04:50 AM",
+      "start_time": "03:39 AM",
+      "end_time": "04:57 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss",
-      "start_time": "04:50 AM",
+      "start_time": "04:57 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
     },

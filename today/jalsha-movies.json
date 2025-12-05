@@ -1,30 +1,30 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 04, 2025",
+  "date": "December 05, 2025",
   "schedule": [
     {
-      "show_name": "Anyay Abichar",
+      "show_name": "Mon Sudhu Toke Chai",
       "start_time": "12:00 AM",
-      "end_time": "01:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29219421_v_h9_aa.jpg?lock=880x660"
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26838098_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teko",
-      "start_time": "01:20 AM",
-      "end_time": "03:10 AM",
+      "show_name": "Kuler Achaar",
+      "start_time": "01:05 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22575239_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rakto Karobi",
+      "start_time": "03:05 AM",
+      "end_time": "05:00 AM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Box No. 1313",
-      "start_time": "03:10 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15385633_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Anusandhan",
+      "show_name": "Vikrant Rona",
       "start_time": "05:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p162121_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29482695_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "1 Ishwar Katha",
@@ -33,40 +33,40 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28205013_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Aschhe Abar Shabor",
+      "show_name": "Bal Ganesh",
       "start_time": "08:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15250267_v_h9_aa.jpg?lock=880x660"
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9467953_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Classroom",
-      "start_time": "10:30 AM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26430424_b_h9_ab.jpg?lock=880x660"
+      "show_name": "My Friend Ganesha",
+      "start_time": "10:00 AM",
+      "end_time": "12:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30128960_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Dada",
-      "start_time": "01:30 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25472243_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Sakal Sandhya",
+      "start_time": "12:15 PM",
+      "end_time": "03:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25529313_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Paglu 2",
-      "start_time": "04:30 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11444148_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Shakthi",
+      "start_time": "03:45 PM",
+      "end_time": "07:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25472253_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Duranta Prem",
-      "start_time": "07:30 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25528759_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Parbo Na Ami Chharte Toke",
+      "start_time": "07:15 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25471221_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mon Sudhu Toke Chai",
-      "start_time": "10:30 PM",
+      "show_name": "Haami",
+      "start_time": "10:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26838098_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15728854_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

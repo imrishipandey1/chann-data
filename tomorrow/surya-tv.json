@@ -1,6 +1,6 @@
 {
   "channel_name": "Surya TV",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
       "show_name": "Chattambi Paaru",
@@ -75,10 +75,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30587120_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughing Villa",
+      "show_name": "Celluloid",
       "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21522481_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Amrithadhara",
+      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27991780_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20523662_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -95,14 +101,8 @@
     {
       "show_name": "Veera Hanuman",
       "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30304595_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Nariman",
-      "start_time": "08:30 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13454122_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30304595_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -143,14 +143,8 @@
     {
       "show_name": "Hridayam",
       "start_time": "02:30 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23297216_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Praja",
-      "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20743385_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23297216_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Veera Hanuman",
