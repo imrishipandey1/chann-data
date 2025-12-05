@@ -1,0 +1,37 @@
+name: Download Images
+
+on:
+  workflow_dispatch:   # run manually
+  schedule:
+    - cron: "0 5 * * *"   # OPTIONAL: runs daily at 05:00 UTC
+
+jobs:
+  download-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests Pillow tqdm
+
+      - name: Run Image Downloader
+        run: |
+          python3 download_images_parallel.py
+
+      - name: Commit & Push Updated Images + JSON
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add downloaded-images today/*.json tomorrow/*.json
+          git commit -m "Auto-update downloaded images & JSON" || echo "No changes"
+          git push
