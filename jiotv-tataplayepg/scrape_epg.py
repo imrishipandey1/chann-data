@@ -5,10 +5,8 @@ and write one JSON per channel for today and tomorrow (IST) into:
   today/{channel-slug}.json
   tomorrow/{channel-slug}.json
 
-If no schedule is found for both days → DO NOT create JSON files.
-
-Also writes jiotv-tataplayepg/missing_channels.log listing channels that
-were not found in either EPG or had no programmes for both days.
+If no schedule is found for a given day => DO NOT save JSON for that day.
+If no schedule found for both days => skip both + log missing.
 
 Requirements: requests
 """
@@ -20,7 +18,7 @@ import json
 from datetime import datetime, timedelta, timezone
 import requests
 import xml.etree.ElementTree as ET
-from typing import Dict, List, Tuple
+from typing import Dict, List
 
 # ---------- CONFIG ----------
 BASE_DIR = "jiotv-tataplayepg"
@@ -33,7 +31,6 @@ JIO_URL = "https://avkb.short.gy/jioepg.xml.gz"
 TATA_URL = "https://avkb.short.gy/tsepg.xml.gz"
 # ----------------------------
 
-# IST timezone (UTC+5:30)
 IST = timezone(timedelta(hours=5, minutes=30))
 
 
@@ -58,30 +55,29 @@ def download_and_parse_gz_xml(url: str) -> ET.Element:
     data = resp.content
     with gzip.GzipFile(fileobj=io.BytesIO(data)) as f:
         xml_bytes = f.read()
-    root = ET.fromstring(xml_bytes)
-    return root
+    return ET.fromstring(xml_bytes)
 
 
 def extract_channels(root: ET.Element) -> Dict[str, str]:
     mapping = {}
     for ch in root.findall(".//channel"):
-        ch_id = ch.get("id") or ch.get("utid") or ch.get("channel") or ""
-        display_name = None
+        ch_id = ch.get("id") or ""
+        name = None
         for child in ch:
-            tag = child.tag.lower()
-            if "display" in tag or "name" in tag:
+            t = child.tag.lower()
+            if "display" in t or "name" in t:
                 txt = (child.text or "").strip()
                 if txt:
-                    display_name = txt
+                    name = txt
                     break
-        if not display_name:
+        if not name:
             for child in ch:
                 txt = (child.text or "").strip()
                 if txt:
-                    display_name = txt
+                    name = txt
                     break
-        if ch_id and display_name:
-            mapping[ch_id] = display_name
+        if ch_id and name:
+            mapping[ch_id] = name
     return mapping
 
 
@@ -92,39 +88,40 @@ def parse_programmes(root: ET.Element) -> List[Dict]:
         start_attr = prog.get("start", "")
         stop_attr = prog.get("stop", "")
 
-        def parse_dt(s: str):
+        def parse_dt(s):
             m = re.match(r"(\d{14})", s.strip())
             if not m:
                 return None
             dt = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
             return dt.replace(tzinfo=timezone.utc)
 
-        start_dt = parse_dt(start_attr)
-        stop_dt = parse_dt(stop_attr)
+        sdt = parse_dt(start_attr)
+        edt = parse_dt(stop_attr)
 
         title = ""
-        icon_url = ""
+        icon = ""
 
         for child in prog:
-            tag = child.tag.lower()
-            if tag.endswith("title") and (child.text and child.text.strip()):
-                title = (child.text or "").strip()
-            if tag.endswith("icon"):
-                icon_url = child.get("src") or child.get("href") or ""
+            tg = child.tag.lower()
+            if tg.endswith("title") and (child.text and child.text.strip()):
+                title = child.text.strip()
+            if tg.endswith("icon"):
+                icon = child.get("src") or child.get("href") or ""
 
-        if not icon_url:
-            icon_elem = prog.find(".//icon")
-            if icon_elem is not None:
-                icon_url = icon_elem.get("src") or icon_elem.get("href") or ""
+        if not icon:
+            icon_el = prog.find(".//icon")
+            if icon_el is not None:
+                icon = icon_el.get("src") or icon_el.get("href") or ""
 
-        if ch and start_dt and stop_dt:
+        if ch and sdt and edt:
             items.append({
                 "channel_id": ch,
-                "start_utc": start_dt,
-                "stop_utc": stop_dt,
+                "start_utc": sdt,
+                "stop_utc": edt,
                 "title": title,
-                "icon": icon_url
+                "icon": icon
             })
+
     return items
 
 
@@ -135,29 +132,29 @@ def group_by_channel(programmes: List[Dict]) -> Dict[str, List[Dict]]:
     return d
 
 
-def to_ist(dt_utc: datetime) -> datetime:
-    return dt_utc.astimezone(IST)
+def to_ist(dt):
+    return dt.astimezone(IST)
 
 
-def format_date(dt_ist: datetime) -> str:
-    return dt_ist.strftime("%B %d, %Y")
+def format_date(dt):
+    return dt.strftime("%B %d, %Y")
 
 
-def format_time_12h(dt_ist: datetime) -> str:
-    return dt_ist.strftime("%I:%M %p").lstrip("0") if dt_ist.strftime("%I").startswith("0") else dt_ist.strftime("%I:%M %p")
+def format_time(dt):
+    return dt.strftime("%I:%M %p").lstrip("0") if dt.strftime("%I").startswith("0") else dt.strftime("%I:%M %p")
 
 
-def build_schedule_for_day(channel_progs: List[Dict], day_date: datetime.date) -> List[Dict]:
+def build_schedule_for_day(channel_progs, date):
     out = []
     for p in channel_progs:
-        s_ist = to_ist(p["start_utc"])
-        e_ist = to_ist(p["stop_utc"])
-        if s_ist.date() == day_date:
+        s = to_ist(p["start_utc"])
+        e = to_ist(p["stop_utc"])
+        if s.date() == date:
             out.append({
-                "show_name": p["title"] or "",
-                "start_time": format_time_12h(s_ist),
-                "end_time": format_time_12h(e_ist),
-                "show_logo": p["icon"] or ""
+                "show_name": p["title"],
+                "start_time": format_time(s),
+                "end_time": format_time(e),
+                "show_logo": p["icon"]
             })
     out.sort(key=lambda x: datetime.strptime(x["start_time"], "%I:%M %p"))
     return out
@@ -167,84 +164,89 @@ def main():
     ensure_dirs()
 
     if not os.path.exists(FILTER_FILE):
-        print(f"Filter file not found: {FILTER_FILE}")
+        print("filter_list.txt missing")
         return
 
-    with open(FILTER_FILE, "r", encoding="utf-8") as f:
-        filters = [line.strip() for line in f if line.strip()]
+    filters = [x.strip() for x in open(FILTER_FILE, "r", encoding="utf-8") if x.strip()]
+    filter_map = {f.lower(): f for f in filters}
 
-    lower_filters = {f.lower(): f for f in filters}
-
-    print("Downloading JioTV EPG...")
+    print("Downloading EPGs...")
     jio_root = download_and_parse_gz_xml(JIO_URL)
-
-    print("Downloading Tata EPG...")
     tata_root = download_and_parse_gz_xml(TATA_URL)
 
     print("Extracting channels...")
-    jio_channels = extract_channels(jio_root)
-    tata_channels = extract_channels(tata_root)
+    jio_ch = extract_channels(jio_root)
+    tata_ch = extract_channels(tata_root)
 
-    jio_name_to_id = {v.lower(): k for k, v in jio_channels.items()}
-    tata_name_to_id = {v.lower(): k for k, v in tata_channels.items()}
+    jio_map = {v.lower(): k for k, v in jio_ch.items()}
+    tata_map = {v.lower(): k for k, v in tata_ch.items()}
 
     print("Parsing programmes...")
-    jio_programmes = parse_programmes(jio_root)
-    tata_programmes = parse_programmes(tata_root)
+    jio_prog = group_by_channel(parse_programmes(jio_root))
+    tata_prog = group_by_channel(parse_programmes(tata_root))
 
-    jio_by_channel = group_by_channel(jio_programmes)
-    tata_by_channel = group_by_channel(tata_programmes)
+    today = datetime.now(IST).date()
+    tomorrow = today + timedelta(days=1)
 
-    now_ist = datetime.now(IST)
-    today_date = now_ist.date()
-    tomorrow_date = (now_ist + timedelta(days=1)).date()
+    missing = []
 
-    missing_lines = []
+    for filt_lower, filt_original in filter_map.items():
 
-    for filt_lower, filt_original in lower_filters.items():
+        # determine channel_id
         ch_id = None
         source = None
 
-        if filt_lower in jio_name_to_id:
-            ch_id = jio_name_to_id[filt_lower]
+        if filt_lower in jio_map:
+            ch_id = jio_map[filt_lower]
             source = "jio"
-        elif filt_lower in tata_name_to_id:
-            ch_id = tata_name_to_id[filt_lower]
+        elif filt_lower in tata_map:
+            ch_id = tata_map[filt_lower]
             source = "tata"
         else:
-            missing_lines.append(f"{filt_original} - Channel not found in JioTV or Tata")
-            continue  # NO JSON should be created
-        
-
-        channel_progs = jio_by_channel.get(ch_id, []) if source == "jio" else tata_by_channel.get(ch_id, [])
-
-        schedule_today = build_schedule_for_day(channel_progs, today_date)
-        schedule_tomorrow = build_schedule_for_day(channel_progs, tomorrow_date)
-
-        # ❗ SKIP saving files if both schedules empty
-        if not schedule_today and not schedule_tomorrow:
-            missing_lines.append(f"{filt_original} - Found in {source} but no programmes for today & tomorrow")
+            missing.append(f"{filt_original} - Channel not found in JioTV or Tata")
             continue
 
-        # Save schedule files (only if non-empty)
-        for day_dir, day_date, schedule in (
-            (TODAY_DIR, today_date, schedule_today),
-            (TOMORROW_DIR, tomorrow_date, schedule_tomorrow)
-        ):
-            outpath = os.path.join(day_dir, f"{slugify(filt_original)}.json")
+        progs = jio_prog.get(ch_id, []) if source == "jio" else tata_prog.get(ch_id, [])
+
+        sch_today = build_schedule_for_day(progs, today)
+        sch_tomorrow = build_schedule_for_day(progs, tomorrow)
+
+        # NEW FIX: Skip saving if empty for that day
+        nothing_today = len(sch_today) == 0
+        nothing_tomorrow = len(sch_tomorrow) == 0
+
+        # if both empty → skip completely + log
+        if nothing_today and nothing_tomorrow:
+            missing.append(f"{filt_original} - Found in {source} but no programmes for today & tomorrow")
+            continue
+
+        # Save TODAY only if not empty
+        if not nothing_today:
+            path = os.path.join(TODAY_DIR, f"{slugify(filt_original)}.json")
             payload = {
                 "channel_name": filt_original,
-                "date": format_date(datetime.combine(day_date, datetime.min.time())),
-                "schedule": schedule
+                "date": format_date(datetime.combine(today, datetime.min.time())),
+                "schedule": sch_today
             }
-            with open(outpath, "w", encoding="utf-8") as fh:
-                json.dump(payload, fh, indent=2, ensure_ascii=False)
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(payload, f, indent=2, ensure_ascii=False)
 
-    # Write missing channel log
+        # Save TOMORROW only if not empty
+        if not nothing_tomorrow:
+            path = os.path.join(TOMORROW_DIR, f"{slugify(filt_original)}.json")
+            payload = {
+                "channel_name": filt_original,
+                "date": format_date(datetime.combine(tomorrow, datetime.min.time())),
+                "schedule": sch_tomorrow
+            }
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(payload, f, indent=2, ensure_ascii=False)
+
+    # Write missing log
     with open(MISSING_LOG, "w", encoding="utf-8") as f:
-        f.write("\n".join(missing_lines))
+        f.write("\n".join(missing))
 
-    print("Done.")
+    print("Done. No empty schedule will be saved.")
 
 
 if __name__ == "__main__":
