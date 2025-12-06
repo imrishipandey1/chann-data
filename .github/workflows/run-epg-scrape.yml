@@ -1,0 +1,39 @@
+name: Run TV EPG Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 5 * * *'  # daily at 05:30 UTC (adjust if you want different)
+
+permissions:
+  contents: write  # allow committing updated files
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run EPG scraper
+        run: |
+          python jiotv-tataplayepg/scrape_epg.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jiotv-tataplayepg/today/ jiotv-tataplayepg/tomorrow/ jiotv-tataplayepg/missing_channels.log || true
+          git diff --staged --quiet || (git commit -m "Update EPG JSONs and missing_channels.log" && git push)
