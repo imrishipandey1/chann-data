@@ -1,240 +1,222 @@
 {
   "channel_name": "DD Bangla",
-  "date": "December 06, 2025",
+  "date": "December 07, 2025",
   "schedule": [
     {
       "show_name": "Entertainment Programme",
-      "start_time": "12:15 AM",
+      "start_time": "12:30 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p27264283_b_h9_aa_746edef3cd.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27264283_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Classical Music",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p11092864_b_h9_aa_eb7aa9b817.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11092864_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Signature Image & Tune",
       "start_time": "06:00 AM",
       "end_time": "06:01 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080696_b_h9_aa_b19b81ebd0.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080696_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Devotional Song",
       "start_time": "06:01 AM",
       "end_time": "06:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29032606_b_h9_aa_22570716b4.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29032606_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Subho Janmadin",
       "start_time": "06:15 AM",
       "end_time": "06:20 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080719_b_h9_aa_7ce7ecbb82.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080719_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Amrita Katha",
       "start_time": "06:20 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p26740997_b_h9_ab_919e95b366.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26740997_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Light Classical Music",
       "start_time": "06:30 AM",
       "end_time": "06:45 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29079899_b_h9_aa_107f546e2c.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079899_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bhalo Thakun",
       "start_time": "06:45 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29079043_b_h9_ab_0d02881866.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079043_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",
       "start_time": "07:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080414_b_h9_aa_9d8b1d7550.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080414_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080453_b_h9_aa_73f321b426.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ankur",
+      "show_name": "Roopkatha",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29078388_b_h9_aa_f378f4c2bb.webp"
-    },
-    {
-      "show_name": "Close-Up",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29079348_b_h9_aa_1241fba8ee.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080376_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shantiniketan Theke",
+      "show_name": "KTB:Bharat Hain Hum",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080682_b_h9_aa_815f6f7b73.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169308_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080414_b_h9_aa_9d8b1d7550.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080414_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad: 5 Minute-E-15 Ti Khabor",
       "start_time": "11:00 AM",
       "end_time": "11:05 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080433_b_h9_aa_58926efb56.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080433_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",
       "start_time": "11:05 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080414_b_h9_aa_9d8b1d7550.webp"
-    },
-    {
-      "show_name": "Sambad Ek Najare",
-      "start_time": "12:00 PM",
       "end_time": "12:02 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080470_b_h9_aa_36a7f2cb74.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080414_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tomay Gaan Sonabo",
+      "show_name": "Ghare Baire",
       "start_time": "12:02 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/default_880x660_c51365f14d.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079671_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
       "start_time": "01:00 PM",
       "end_time": "01:02 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080470_b_h9_aa_36a7f2cb74.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khela Aar Khela",
+      "show_name": "Classical Dance",
       "start_time": "01:02 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29079830_b_h9_aa_ad5270af13.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039100_b_h9_ai.jpg?lock=880x660"
     },
     {
-      "show_name": "Aparajito",
+      "show_name": "Sahitya Sanskriti",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29078489_b_h9_ab_e18e6b20e1.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080403_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080453_b_h9_aa_73f321b426.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhalobasar Rajprasade",
+      "show_name": "Mone Mone",
       "start_time": "02:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p30150763_v_h9_aa_298f843d37.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30855943_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
       "start_time": "05:00 PM",
       "end_time": "05:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080453_b_h9_aa_73f321b426.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bhalo Thakun",
       "start_time": "05:15 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29079043_b_h9_ab_0d02881866.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079043_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Uttorer Janala",
+      "show_name": "Khela Aar Khela",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080746_b_h9_aa_97a5a5241e.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079830_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
       "start_time": "06:00 PM",
       "end_time": "06:02 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080470_b_h9_aa_36a7f2cb74.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Geetimalya",
+      "show_name": "Sera Paribaar",
       "start_time": "06:02 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29079626_b_h9_aa_a962275346.webp"
-    },
-    {
-      "show_name": "Vaartavali",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p28889476_b_h9_aa_dfecffe2fb.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080582_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
       "start_time": "07:00 PM",
       "end_time": "07:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080453_b_h9_aa_73f321b426.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Khabrein",
       "start_time": "07:15 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p28950402_b_h9_aa_4d83e62fa3.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28950402_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chakra",
+      "show_name": "Kumari Maa",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p26123612_v_h9_aa_d66e7bd893.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528942_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
       "start_time": "08:00 PM",
       "end_time": "08:02 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080470_b_h9_aa_36a7f2cb74.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chakra",
+      "show_name": "Kumari Maa",
       "start_time": "08:02 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p26123612_v_h9_aa_d66e7bd893.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528942_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
       "start_time": "09:00 PM",
       "end_time": "09:05 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080453_b_h9_aa_73f321b426.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chakra",
+      "show_name": "Kumari Maa",
       "start_time": "09:05 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p26123612_v_h9_aa_d66e7bd893.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528942_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Prabaha",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080491_b_h9_aa_773d9f109f.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sahitya Sanskriti",
+      "show_name": "Saptarangi",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080403_b_h9_aa_4f05eb540e.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080538_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",
       "start_time": "11:00 PM",
       "end_time": "12:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/dd-bangla/tomorrow/p29080414_b_h9_aa_9d8b1d7550.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080414_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Ruslaan",
-      "start_time": "12:53 AM",
+      "show_name": "Yuvaraj",
+      "start_time": "12:47 AM",
       "end_time": "03:03 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p27256086_v_h9_aa_084b8d3e9f.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29326510_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Great Indian Butterfly",
+      "show_name": "Filler",
       "start_time": "03:03 AM",
-      "end_time": "04:54 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p175361_v_h9_aa_142a150d47.webp"
+      "end_time": "03:59 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30523077_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Yajamana",
-      "start_time": "04:54 AM",
-      "end_time": "04:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p16661715_b_h9_ad_306178b8d0.webp"
+      "show_name": "City of Gold",
+      "start_time": "03:59 AM",
+      "end_time": "05:42 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8208164_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Yajamana",
-      "start_time": "04:55 AM",
-      "end_time": "07:25 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p16661715_b_h9_ad_306178b8d0.webp"
+      "show_name": "Amaran",
+      "start_time": "05:42 AM",
+      "end_time": "09:46 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28588555_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Vikrant Rona",
-      "start_time": "07:25 AM",
-      "end_time": "10:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p22613526_v_h9_aa_8e05092e8c.webp"
+      "show_name": "Meri Taqat Mera Faisla",
+      "start_time": "09:46 AM",
+      "end_time": "12:39 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9998756_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Raja Hindustani",
-      "start_time": "10:40 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p70859_v_h9_ae_97064e0eb2.webp"
+      "show_name": "Sangharsh Aur Vijay",
+      "start_time": "12:39 PM",
+      "end_time": "02:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8706614_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Siren",
-      "start_time": "02:00 PM",
-      "end_time": "05:35 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p26729839_v_h9_aa_bfe7c31b52.webp"
+      "show_name": "Vijay Raghavan",
+      "start_time": "02:35 PM",
+      "end_time": "05:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29028691_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mardaani 2",
-      "start_time": "05:35 PM",
+      "show_name": "Dumdaar Khiladi",
+      "start_time": "05:10 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p17456460_v_h9_aa_1c6207d24f.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26658168_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Family Star",
+      "show_name": "Hanu Man",
       "start_time": "07:50 PM",
-      "end_time": "10:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p26950708_b_h9_ac_e06be61fb4.webp"
+      "end_time": "10:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26329219_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Pogaru",
-      "start_time": "10:50 PM",
+      "show_name": "Yashoda",
+      "start_time": "10:45 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/today/p20103670_b_h9_af_513ee14af9.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23338613_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

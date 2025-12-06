@@ -1,66 +1,72 @@
 {
   "channel_name": "Colors Gujarati Cinema",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Mara Sayaba Ni Chundadi",
+      "show_name": "Narmada Tara Vahi Jata Paani",
       "start_time": "12:00 AM",
-      "end_time": "12:45 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p22542988_b_h9_ab_43460eaa82.webp"
+      "end_time": "12:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23194459_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Prithviraj Sanyukta",
-      "start_time": "12:45 AM",
-      "end_time": "02:50 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p28973915_b_h9_ab_f4e2a9d1e6.webp"
+      "show_name": "Sejal Sumaro",
+      "start_time": "12:35 AM",
+      "end_time": "02:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28973941_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Deshi Beats",
-      "start_time": "02:50 AM",
-      "end_time": "05:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p28907508_b_h9_aa_3aea695401.webp"
+      "start_time": "02:25 AM",
+      "end_time": "05:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907508_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khoradani Laaj Wahune Haath",
-      "start_time": "05:40 AM",
+      "show_name": "Kul Deepave Dikri",
+      "start_time": "05:45 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/default_880x660_c51365f14d.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29242425_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Deshi Beats",
       "start_time": "08:00 AM",
-      "end_time": "10:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p28907508_b_h9_aa_3aea695401.webp"
+      "end_time": "09:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907508_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Parshuram",
-      "start_time": "10:15 AM",
-      "end_time": "01:20 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p12476950_b_h9_aa_7e118ce515.webp"
+      "show_name": "Raj Kunwar",
+      "start_time": "09:55 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28810132_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "VAGYA PRITYU NA DHOL",
-      "start_time": "01:20 PM",
-      "end_time": "04:20 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p22513159_b_h9_ab_d171597d0a.webp"
+      "show_name": "Halo Aapna Malak Maa",
+      "start_time": "12:30 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23021858_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Raakh Na Ramakda",
-      "start_time": "04:20 PM",
+      "show_name": "Ranuja Na Raja Ramdev",
+      "start_time": "03:30 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12764532_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gujarat Gatha",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p20447204_b_h9_aa_8c13d7a484.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20935916_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dada Ho Dikri",
+      "show_name": "Goral Garaasani",
       "start_time": "07:00 PM",
       "end_time": "09:35 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/default_880x660_c51365f14d.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20761652_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Narmada Tara Vahi Jata Paani",
+      "show_name": "Sant Tulsidas",
       "start_time": "09:35 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-gujarati-cinema/today/p23194459_b_h9_aa_f8f3f47ccd.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11474053_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

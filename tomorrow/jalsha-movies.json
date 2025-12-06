@@ -1,66 +1,66 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 06, 2025",
+  "date": "December 07, 2025",
   "schedule": [
     {
-      "show_name": "Haami",
+      "show_name": "Ki Kore Toke Bolbo",
       "start_time": "12:00 AM",
-      "end_time": "12:45 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p15728854_b_h9_ab_88ff46d798.webp"
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528934_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jiyo Kaka",
-      "start_time": "12:45 AM",
-      "end_time": "02:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25528846_b_h9_ab_7aac2be5ee.webp"
+      "show_name": "Ghare and Baire",
+      "start_time": "01:05 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19084002_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Khola Hawa",
-      "start_time": "02:55 AM",
+      "show_name": "Antony Kobiyal",
+      "start_time": "03:05 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p24464630_b_h9_aa_79a0693bea.webp"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Premi No.1",
+      "show_name": "Ramleela",
       "start_time": "05:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p29821416_b_h9_aa_3fa3fc1f66.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29788327_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Flat No. 609",
+      "show_name": "Awsoriri",
       "start_time": "08:00 AM",
       "end_time": "10:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p16230420_b_h9_aa_5cc5da9842.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17473699_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Amanush",
+      "show_name": "Parbo Na Ami Chharte Toke",
       "start_time": "10:15 AM",
-      "end_time": "01:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p7901155_b_h9_ae_19c799126f.webp"
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25471221_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rangbaaz",
-      "start_time": "01:15 PM",
-      "end_time": "04:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p23089701_b_h9_aa_c316615d8a.webp"
+      "show_name": "Mon Mane Na",
+      "start_time": "01:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25341577_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ananda Ashram",
-      "start_time": "04:15 PM",
+      "show_name": "Herogiri",
+      "start_time": "04:00 PM",
       "end_time": "07:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25511246_b_h9_ac_8e41f66ce4.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11683276_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Miss Call",
+      "show_name": "Jio Pagla",
       "start_time": "07:15 PM",
-      "end_time": "10:15 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p26201117_v_h9_aa_65080b1d72.webp"
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17993632_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ki Kore Toke Bolbo",
-      "start_time": "10:15 PM",
+      "show_name": "Love Express",
+      "start_time": "10:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/jalsha-movies/tomorrow/p25528934_b_h9_aa_213b047036.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19202057_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

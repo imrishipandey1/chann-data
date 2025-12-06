@@ -1,84 +1,66 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Style",
-      "start_time": "01:03 AM",
-      "end_time": "03:34 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p9421806_v_h9_ab_10dba18964.webp"
+      "show_name": "Befikre",
+      "start_time": "12:50 AM",
+      "end_time": "02:52 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Comedy Station",
-      "start_time": "03:34 AM",
-      "end_time": "03:47 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p24461634_b_h9_aa_b4dbd77517.webp"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "03:47 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p24461634_b_h9_aa_b4dbd77517.webp"
+      "show_name": "Toxic Shark",
+      "start_time": "02:52 AM",
+      "end_time": "04:07 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14258731_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "04:00 AM",
-      "end_time": "04:11 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "04:07 AM",
+      "end_time": "06:06 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "04:11 AM",
-      "end_time": "05:28 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "06:06 AM",
+      "end_time": "08:06 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "05:28 AM",
-      "end_time": "07:29 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "08:06 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "07:29 AM",
-      "end_time": "08:58 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "10:30 AM",
+      "end_time": "01:28 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "08:58 AM",
-      "end_time": "11:36 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "01:28 PM",
+      "end_time": "04:59 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:36 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "02:00 PM",
-      "end_time": "04:45 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "04:45 PM",
+      "start_time": "04:59 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
       "start_time": "07:50 PM",
-      "end_time": "10:33 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "end_time": "10:54 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:33 PM",
-      "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/sony-max/today/p809737_b_h9_af_74c932f8c9.webp"
+      "start_time": "10:54 PM",
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

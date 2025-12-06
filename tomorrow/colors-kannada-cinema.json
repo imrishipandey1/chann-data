@@ -1,198 +1,156 @@
 {
   "channel_name": "Colors Kannada",
-  "date": "December 06, 2025",
+  "date": "December 07, 2025",
   "schedule": [
-    {
-      "show_name": "Sri Gandhada Gudi",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p31372046_b_h9_ab_49f9861c3b.webp"
-    },
     {
       "show_name": "Muddu Sose",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29992770_b_h9_ab_d7e814509e.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992770_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Shiva Shakthi",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p25776891_b_h9_ab_9645fbd504.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25776891_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Shantam Paapam",
+      "show_name": "Shantham Paapam",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29533811_b_h9_aa_f53968a951.webp"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Prema Kavya",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p30849429_b_h9_ab_4e0123f399.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30849429_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Yajamana",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29329040_b_h9_ab_2ac0e1f45b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29329040_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Bhagya Lakshmi",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p26122045_b_h9_ai_3f52844a77.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20400180_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Muddu Sose",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29992770_b_h9_ab_d7e814509e.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992770_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sri Gandhada Gudi",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p31372046_b_h9_ab_49f9861c3b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Bhargavi LLB",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29626705_b_h9_ab_c6943d01aa.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29626705_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Silli Lalli",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p23688532_b_h9_ab_08a0eaa46e.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23688532_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Tenali Rama",
+      "show_name": "Bigg Boss Kannada",
       "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p14335607_b_h9_aa_9a2b2fc7e3.webp"
-    },
-    {
-      "show_name": "Tenali Rama",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p14335607_b_h9_aa_9a2b2fc7e3.webp"
-    },
-    {
-      "show_name": "Maharshi Darshana",
-      "start_time": "07:30 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p10195969_b_h9_ab_39b4bda211.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Yajamana",
+      "show_name": "Bigg Boss Kannada",
       "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29329040_b_h9_ab_2ac0e1f45b.webp"
-    },
-    {
-      "show_name": "Sri Gandhada Gudi",
-      "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p31372046_b_h9_ab_49f9861c3b.webp"
-    },
-    {
-      "show_name": "Prema Kavya",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p30849429_b_h9_ab_4e0123f399.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhagya Lakshmi",
+      "show_name": "Bigg Boss Kannada",
       "start_time": "10:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p26122045_b_h9_ai_3f52844a77.webp"
-    },
-    {
-      "show_name": "Muddu Sose",
-      "start_time": "10:30 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29992770_b_h9_ab_d7e814509e.webp"
-    },
-    {
-      "show_name": "Nandagokula",
-      "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p30380524_b_h9_aa_de81aa2410.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhargavi LLB",
+      "show_name": "Bigg Boss Kannada",
       "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29626705_b_h9_ab_c6943d01aa.webp"
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss Kannada",
-      "start_time": "12:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p23699481_b_h9_ah_6241898629.webp"
-    },
-    {
-      "show_name": "Abhi",
-      "start_time": "01:30 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/default_880x660_c51365f14d.webp"
+      "start_time": "01:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss Kannada",
-      "start_time": "04:30 PM",
+      "start_time": "02:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "04:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p23699481_b_h9_ah_6241898629.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
       "show_name": "Yajamana",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29329040_b_h9_ab_2ac0e1f45b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29329040_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Prema Kavya",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p30849429_b_h9_ab_4e0123f399.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30849429_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Bhagya Lakshmi",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p20400180_b_h9_ab_8b8240adf1.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20400180_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Muddu Sose",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29992770_b_h9_ab_d7e814509e.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992770_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sri Gandhada Gudi",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p31372046_b_h9_ab_49f9861c3b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Bhargavi LLB",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p29626705_b_h9_ab_c6943d01aa.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29626705_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "09:00 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p23699481_b_h9_ah_6241898629.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
       "show_name": "Bigg Boss Kannada",
       "start_time": "11:00 PM",
       "end_time": "01:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-kannada-cinema/tomorrow/p23699481_b_h9_ah_6241898629.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     }
   ]
 }

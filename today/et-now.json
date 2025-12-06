@@ -1,18 +1,18 @@
 {
   "channel_name": "ET Now",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
       "show_name": "ET NOW Roundtable - Citi Exclusive",
       "start_time": "05:30 AM",
       "end_time": "05:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/et-now/today/default_880x660_c51365f14d.webp"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "ET NOW Roundtable - Citi Exclusive",
       "start_time": "05:30 PM",
       "end_time": "05:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/et-now/today/default_880x660_c51365f14d.webp"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     }
   ]
 }

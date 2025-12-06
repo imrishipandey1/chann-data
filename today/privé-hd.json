@@ -1,108 +1,96 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 05, 2025",
+  "date": "December 06, 2025",
   "schedule": [
     {
-      "show_name": "Untraceable",
-      "start_time": "12:09 AM",
-      "end_time": "01:43 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p171751_v_h9_ak_23508cc067.webp"
+      "show_name": "Vincent N Roxxy",
+      "start_time": "12:39 AM",
+      "end_time": "02:09 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13963103_v_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Underworld: Rise of the Lycans",
-      "start_time": "01:43 AM",
-      "end_time": "02:56 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p187411_v_h9_aa_a362839dd4.webp"
-    },
-    {
-      "show_name": "Dance With Me",
-      "start_time": "02:56 AM",
-      "end_time": "03:50 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p28189878_b_h9_aa_5b40f68d0f.webp"
+      "show_name": "Rescue Dawn",
+      "start_time": "02:09 AM",
+      "end_time": "04:07 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p163879_v_h9_ap.jpg?lock=880x660"
     },
     {
       "show_name": "Dance With Me",
-      "start_time": "03:50 AM",
-      "end_time": "04:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p28189878_b_h9_aa_5b40f68d0f.webp"
+      "start_time": "04:07 AM",
+      "end_time": "05:36 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19074508_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dance With Me",
-      "start_time": "04:40 AM",
-      "end_time": "05:10 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p28189878_b_h9_aa_5b40f68d0f.webp"
+      "show_name": "Chef vs Fridge",
+      "start_time": "05:36 AM",
+      "end_time": "06:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Escape of Shark",
-      "start_time": "05:10 AM",
-      "end_time": "06:16 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p24774383_b_h9_aa_794c8b7881.webp"
+      "show_name": "Rescue Dawn",
+      "start_time": "06:15 AM",
+      "end_time": "08:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p163879_v_h9_ap.jpg?lock=880x660"
     },
     {
-      "show_name": "Rememory",
-      "start_time": "06:16 AM",
-      "end_time": "08:20 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p14426918_v_h9_aa_60c0a33c07.webp"
+      "show_name": "Backstabbing for Beginners",
+      "start_time": "08:25 AM",
+      "end_time": "10:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13824259_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hardball",
-      "start_time": "08:20 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p28310_v_h9_aa_8f4d0e3109.webp"
-    },
-    {
-      "show_name": "China Salesman",
-      "start_time": "10:00 AM",
+      "show_name": "Jeepers Creepers 2",
+      "start_time": "10:10 AM",
       "end_time": "11:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p15151872_v_h9_aa_59b7cf7c61.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p32291_v_h9_at.jpg?lock=880x660"
     },
     {
-      "show_name": "World's Greatest Dad",
+      "show_name": "Rob-B-Hood",
       "start_time": "11:40 AM",
-      "end_time": "01:10 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p194088_v_h9_ah_93f59882c3.webp"
+      "end_time": "01:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p178015_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Sniper",
-      "start_time": "01:10 PM",
-      "end_time": "02:35 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p25141530_v_h9_ab_c5c79ad3fb.webp"
-    },
-    {
-      "show_name": "Extremely Wicked, Shockingly Evil and Vile",
-      "start_time": "02:35 PM",
-      "end_time": "04:20 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p16520757_v_h9_aa_3d59ad5734.webp"
-    },
-    {
-      "show_name": "The Nice Guys",
-      "start_time": "04:20 PM",
-      "end_time": "06:10 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p12356386_v_h9_al_86a2584cec.webp"
-    },
-    {
-      "show_name": "Dead In A Week: Or Your Money Back",
-      "start_time": "06:10 PM",
-      "end_time": "07:35 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p16050552_v_h9_ac_ae6ce530c8.webp"
-    },
-    {
-      "show_name": "Jurassic Attack",
-      "start_time": "07:35 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p9831454_v_h9_ah_5cf174981a.webp"
-    },
-    {
-      "show_name": "American Animals",
-      "start_time": "09:00 PM",
-      "end_time": "10:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p15132757_v_h9_ab_ef51a990a6.webp"
+      "show_name": "Mulan Legend",
+      "start_time": "01:40 PM",
+      "end_time": "03:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22018026_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "A Bad Moms Christmas",
-      "start_time": "10:50 PM",
-      "end_time": "12:25 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/privé-hd/today/p13661830_v_h9_ac_236a845cfb.webp"
+      "start_time": "03:15 PM",
+      "end_time": "04:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13661830_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pressure",
+      "start_time": "04:50 PM",
+      "end_time": "06:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11770958_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jurassic Attack",
+      "start_time": "06:20 PM",
+      "end_time": "07:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9831454_v_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Poseidon Rex",
+      "start_time": "07:45 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10663597_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bad Moms",
+      "start_time": "09:00 PM",
+      "end_time": "10:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12706834_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pelé: Birth of a Legend",
+      "start_time": "10:40 PM",
+      "end_time": "12:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12650713_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }
