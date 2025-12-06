@@ -5,6 +5,8 @@ and write one JSON per channel for today and tomorrow (IST) into:
   today/{channel-slug}.json
   tomorrow/{channel-slug}.json
 
+If no schedule is found for both days → DO NOT create JSON files.
+
 Also writes jiotv-tataplayepg/missing_channels.log listing channels that
 were not found in either EPG or had no programmes for both days.
 
@@ -211,23 +213,24 @@ def main():
             source = "tata"
         else:
             missing_lines.append(f"{filt_original} - Channel not found in JioTV or Tata")
-            for day_dir, day_date in ((TODAY_DIR, today_date), (TOMORROW_DIR, tomorrow_date)):
-                outpath = os.path.join(day_dir, f"{slugify(filt_original)}.json")
-                payload = {
-                    "channel_name": filt_original,
-                    "date": format_date(datetime.combine(day_date, datetime.min.time())),
-                    "schedule": []
-                }
-                with open(outpath, "w", encoding="utf-8") as fh:
-                    json.dump(payload, fh, indent=2, ensure_ascii=False)
-            continue
+            continue  # NO JSON should be created
+        
 
         channel_progs = jio_by_channel.get(ch_id, []) if source == "jio" else tata_by_channel.get(ch_id, [])
 
         schedule_today = build_schedule_for_day(channel_progs, today_date)
         schedule_tomorrow = build_schedule_for_day(channel_progs, tomorrow_date)
 
-        for day_dir, day_date, schedule in ((TODAY_DIR, today_date, schedule_today), (TOMORROW_DIR, tomorrow_date, schedule_tomorrow)):
+        # ❗ SKIP saving files if both schedules empty
+        if not schedule_today and not schedule_tomorrow:
+            missing_lines.append(f"{filt_original} - Found in {source} but no programmes for today & tomorrow")
+            continue
+
+        # Save schedule files (only if non-empty)
+        for day_dir, day_date, schedule in (
+            (TODAY_DIR, today_date, schedule_today),
+            (TOMORROW_DIR, tomorrow_date, schedule_tomorrow)
+        ):
             outpath = os.path.join(day_dir, f"{slugify(filt_original)}.json")
             payload = {
                 "channel_name": filt_original,
@@ -237,14 +240,9 @@ def main():
             with open(outpath, "w", encoding="utf-8") as fh:
                 json.dump(payload, fh, indent=2, ensure_ascii=False)
 
-        if not schedule_today and not schedule_tomorrow:
-            missing_lines.append(f"{filt_original} - Found in {source} but no programmes for today & tomorrow")
-
+    # Write missing channel log
     with open(MISSING_LOG, "w", encoding="utf-8") as f:
-        if missing_lines:
-            f.write("\n".join(missing_lines))
-        else:
-            f.write("")
+        f.write("\n".join(missing_lines))
 
     print("Done.")
 
