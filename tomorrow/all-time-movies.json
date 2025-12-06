@@ -1,0 +1,72 @@
+{
+  "channel_name": "All Time Movies",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Kempe Gowda",
+      "start_time": "12:17 AM",
+      "end_time": "02:03 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10522121_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mere Pyare Prime Minister",
+      "start_time": "02:03 AM",
+      "end_time": "03:36 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17002622_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hello Naan Pei Pesuren",
+      "start_time": "03:36 AM",
+      "end_time": "05:04 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12759844_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Teleshopping",
+      "start_time": "05:04 AM",
+      "end_time": "06:34 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p501178_b_h9_am.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bullet Rani",
+      "start_time": "06:34 AM",
+      "end_time": "08:39 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15406039_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kovilpatti Veeralakshmi",
+      "start_time": "08:39 AM",
+      "end_time": "10:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10953970_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ek Rishtaa: The Bond of Love",
+      "start_time": "10:48 AM",
+      "end_time": "02:19 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p72790_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Brahmotsavam",
+      "start_time": "02:19 PM",
+      "end_time": "04:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12886629_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Intlo Deyyam Nakem Bhayam",
+      "start_time": "04:40 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "I",
+      "start_time": "07:00 PM",
+      "end_time": "10:19 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11398392_v_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Autonagar Surya",
+      "start_time": "10:19 PM",
+      "end_time": "12:43 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10866442_b_h9_af.jpg?lock=880x660"
+    }
+  ]
+}

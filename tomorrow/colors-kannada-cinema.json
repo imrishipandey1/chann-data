@@ -1,0 +1,156 @@
+{
+  "channel_name": "Colors Kannada",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Muddu Sose",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992770_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shiva Shakthi",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25776891_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shantham Paapam",
+      "start_time": "02:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Prema Kavya",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30849429_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yajamana",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29329040_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhagya Lakshmi",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26122045_b_h9_ai.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Muddu Sose",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992770_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sri Gandhada Gudi",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhargavi LLB",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29626705_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Silli Lalli",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23688532_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "06:30 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "08:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "11:30 AM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "01:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "02:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "04:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yajamana",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29329040_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prema Kavya",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30849429_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhagya Lakshmi",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26122045_b_h9_ai.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Muddu Sose",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29992770_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sri Gandhada Gudi",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhargavi LLB",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29626705_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "09:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "11:00 PM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
+    }
+  ]
+}

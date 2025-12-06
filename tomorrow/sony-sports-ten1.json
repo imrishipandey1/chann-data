@@ -1,0 +1,114 @@
+{
+  "channel_name": "Sony Sports Ten 1",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "2023: New Zealand vs. England, 2nd Test; Test Cricket",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: India A vs. Oman; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: Super Four: India vs. Sri Lanka; Asia Cup Highlights",
+      "start_time": "01:30 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Compaq Cup 2009: Sri Lanka vs. India, Final; One-Day International Cricket",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Live - UFC 322: Della Maddalena vs. Makhachev - Prelims",
+      "start_time": "06:30 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31457060_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "UFC 323: Dvalishvili vs. Yan 2",
+      "start_time": "08:30 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31515680_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "UFC 323; Ultimate Guide To UFC",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23345069_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "5th Test: England vs. India; Test Cricket",
+      "start_time": "04:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Live - Hamburger SV vs. Werder Bremen; Bundesliga Soccer",
+      "start_time": "08:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p3589962_b_h9_cz.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Live - Borussia Dortmund vs. TSG 1899 Hoffenheim; Bundesliga Soccer",
+      "start_time": "10:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p3589962_b_h9_cz.jpg?lock=880x660"
+    }
+  ]
+}

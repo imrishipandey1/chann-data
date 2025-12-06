@@ -1,0 +1,108 @@
+{
+  "channel_name": "ETV Plus",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Cash 2",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28643900_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Anubavinchu Raja",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28643553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "02:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031750_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saragala Pallaki",
+      "start_time": "04:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11310106_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yoga Sutra",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29624738_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shani Mahimalu",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29266986_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sadguru Sai",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23676446_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jaatiratnalu Remix",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28778902_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jeevana Jyothy",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29121724_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sandade Sandadi",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14476809_b_h9_am.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Muddula Mavayya",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14047793_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Where Is The Party",
+      "start_time": "03:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23761511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jaatiratnalu Remix",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28778902_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Sisters",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29932624_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chitram",
+      "start_time": "06:30 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14221803_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Cash 2",
+      "start_time": "09:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28643900_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yegire Pavurama",
+      "start_time": "10:30 PM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14959901_b_h9_ab.jpg?lock=880x660"
+    }
+  ]
+}

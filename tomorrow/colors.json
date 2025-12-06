@@ -1,0 +1,102 @@
+{
+  "channel_name": "Colors",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "01:02 AM",
+      "end_time": "02:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "02:15 AM",
+      "end_time": "03:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "03:35 AM",
+      "end_time": "04:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "04:50 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tuu Juliet Jatt Di",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31644915_b_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "06:30 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8866018_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "09:30 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "12:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Balika Vadhu",
+      "start_time": "01:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7843450_b_h9_ao.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30286479_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Noyontara",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30286479_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tuu Juliet Jatt Di",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31644915_b_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "07:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss",
+      "start_time": "09:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30923972_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "11:00 PM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
+    }
+  ]
+}

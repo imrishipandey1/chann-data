@@ -1,0 +1,108 @@
+{
+  "channel_name": "&flix HD",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Journey to the East",
+      "start_time": "01:45 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22557907_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "03:05 AM",
+      "end_time": "03:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "03:55 AM",
+      "end_time": "04:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chef vs Fridge",
+      "start_time": "04:45 AM",
+      "end_time": "05:08 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tai Chi Hero",
+      "start_time": "05:08 AM",
+      "end_time": "07:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9880473_v_h9_am.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mega Crocodile",
+      "start_time": "07:10 AM",
+      "end_time": "08:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20942067_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Maggie Moore(s)",
+      "start_time": "08:45 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24254453_v_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Vanguard",
+      "start_time": "10:30 AM",
+      "end_time": "12:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18965213_v_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Coma",
+      "start_time": "12:20 PM",
+      "end_time": "02:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17533913_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Grown Ups",
+      "start_time": "02:10 PM",
+      "end_time": "03:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7937506_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Higher Power",
+      "start_time": "03:45 PM",
+      "end_time": "05:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15294642_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Spread",
+      "start_time": "05:15 PM",
+      "end_time": "06:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p3495452_v_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Hardball",
+      "start_time": "06:45 PM",
+      "end_time": "08:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28310_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Nowhere to Hide",
+      "start_time": "08:35 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15344729_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Just Talk Sneakers",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28355704_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Just Talk Sneakers",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28355704_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Matchless Mulan",
+      "start_time": "11:00 PM",
+      "end_time": "12:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19742000_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "channel_name": "Star Bharat",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "02:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India: F.I.R",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21623276_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India: Naya Adhyay",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622283_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Haathi Ghoda Paal Ki Jai Kanhaiya Laal Ki",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20843380_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Haathi Ghoda Paal Ki Jai Kanhaiya Laal Ki",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20843380_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jag Jaanani Maa Vaishnodevi - Kahani Matarani Ki",
+      "start_time": "07:00 AM",
+      "end_time": "07:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26588256_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "RadhaKrishn",
+      "start_time": "07:10 AM",
+      "end_time": "07:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Siya Ke Ram",
+      "start_time": "07:20 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13525534_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kaal Bhairav Rahasya",
+      "start_time": "07:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14743434_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India - India Fights Back",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16840403_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India: Naya Adhyay",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622283_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India: Naya Adhyay",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622283_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paapnaashini Ganga",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23061828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paapnaashini Ganga",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23061828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paapnaashini Ganga",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23061828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paapnaashini Ganga",
+      "start_time": "08:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23061828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paapnaashini Ganga",
+      "start_time": "09:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23061828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India: Naya Adhyay",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622283_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhaan India: Naya Adhyay",
+      "start_time": "11:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622283_b_h9_ae.jpg?lock=880x660"
+    }
+  ]
+}

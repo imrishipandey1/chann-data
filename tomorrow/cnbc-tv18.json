@@ -1,0 +1,270 @@
+{
+  "channel_name": "CNBC TV18",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Overdrive",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617444_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Managing Asia",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27803050_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "On Assignment",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10615396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Executive Decisions",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31591348_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Executive Decisions",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31591348_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "American Greed",
+      "start_time": "02:30 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9053858_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC Explains",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15582002_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "On Assignment",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10615396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Executive Decisions",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31591348_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "On The Record",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28429372_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "American Greed",
+      "start_time": "05:30 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9053858_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC Explains",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15582002_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "On Assignment",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10615396_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Executive Decisions",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31591348_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Leadership Language",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30424604_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Finding Alpha",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30852104_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Editors' Roundtable",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27809644_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Let's Talk Money",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27791135_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Global Lens",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30356873_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "RBI Monetary Policy",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28492420_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Storyboard18",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27803137_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Young Turks Reloaded",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28416882_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Overdrive",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617444_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Putin In India",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Ceo Sentimeter",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31316788_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Storyboard18",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27803137_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Newsmaker",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27791370_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Labour Codes Go Live",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "IQ Curtain Raiser",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Commodity Champions",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616977_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Finding Alpha",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30852104_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Young Turks Reloaded",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28416882_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Let's Talk Money",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27791135_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Leadership Language",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30424604_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Global Lens",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30356873_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Commodity Champions",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616977_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Overdrive",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617444_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "RBI Monetary Policy",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28492420_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Putin In India",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Young Turks Reloaded",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28416882_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Editors' Roundtable",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27809644_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Media Dialogues With Storyboard18",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27791202_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Global Lens",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30356873_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CNBC-TV18 Finding Alpha",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30852104_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
+}
