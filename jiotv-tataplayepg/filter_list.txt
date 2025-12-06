@@ -1,10 +1,10 @@
-pogo-telugu.json
-pogo-tamil.json
-good-times.json
-food-food.json
-km-news.json
-animal-planet-hindi.json
-brave-tv.json
-dabangg.json
-big-tv.json
-national-tv-india.json
+Pogo Telugu
+Pogo Tamil
+GOOD TiMES
+Food Food
+KM News
+Animal Planet Hindi
+BRAVE TV
+Dabangg
+Big TV
+National Tv India
