@@ -1,54 +1,66 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
-      "show_name": "Kodathi Samaksham Balan Vakeel",
-      "start_time": "01:12 AM",
-      "end_time": "04:15 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p16613431_b_h9_aa_da64053c6a.webp"
+      "show_name": "Gaslight",
+      "start_time": "01:20 AM",
+      "end_time": "03:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24464546_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Yodha",
-      "start_time": "04:15 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p8775649_v_h9_ac_f4cd14b4fb.webp"
+      "show_name": "Satya Gang",
+      "start_time": "03:25 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20073749_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tiger Zinda Hai",
-      "start_time": "06:30 AM",
-      "end_time": "09:55 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p14825610_v_h9_aa_3f055c79e4.webp"
+      "show_name": "Crazy Singh",
+      "start_time": "05:00 AM",
+      "end_time": "06:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20127795_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Dhruva",
-      "start_time": "09:55 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p13562770_b_h9_af_c45347b58c.webp"
+      "show_name": "Asli Fighter",
+      "start_time": "06:40 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12951901_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Etharkkum Thunindhavan",
-      "start_time": "01:00 PM",
-      "end_time": "04:10 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p21726639_b_h9_am_1030a70bc5.webp"
+      "show_name": "Gopichand Chanakya",
+      "start_time": "09:00 AM",
+      "end_time": "12:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17431849_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Veera Simha Reddy",
-      "start_time": "04:10 PM",
+      "show_name": "Tanhaji: The Unsung Warrior",
+      "start_time": "12:05 PM",
+      "end_time": "02:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17705623_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yudh Ek Jung",
+      "start_time": "02:25 PM",
+      "end_time": "05:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12491318_b_h9_ah.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Custody",
+      "start_time": "05:25 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p23604017_b_h9_aa_befe2e65d2.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24654798_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Thammudu",
+      "show_name": "Bhagavanth Kesari",
       "start_time": "07:50 PM",
-      "end_time": "10:50 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p30572056_b_h9_aa_0eabb49222.webp"
+      "end_time": "10:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25741743_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Gabbar Is Back",
-      "start_time": "10:50 PM",
-      "end_time": "01:20 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/colors-cineplex/tomorrow/p11732437_b_h9_ae_98ee86a08e.webp"
+      "show_name": "Big Brother",
+      "start_time": "10:35 PM",
+      "end_time": "01:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17773614_b_h9_ac.jpg?lock=880x660"
     }
   ]
 }

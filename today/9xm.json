@@ -1,5 +1,300 @@
 {
-  "channel_name": "Unknown Channel",
-  "date": "December 06, 2025",
-  "schedule": []
+  "channel_name": "9XM",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Raat Bhar",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726511_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726546_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726546_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726546_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726546_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726546_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Fit - Hits",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726546_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Bazillion Views",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726538_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Super Swag",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726567_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Shayarism",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30510330_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9xm Shayarism",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30510330_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "09:00 PM",
+      "end_time": "09:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "09:15 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "9XM Music Idhar Hai",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
 }

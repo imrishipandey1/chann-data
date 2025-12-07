@@ -1,60 +1,60 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
+      "show_name": "Saat Pheron Ke Saaton Vachan",
+      "start_time": "12:40 AM",
+      "end_time": "02:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169093_b_h9_aa.jpg?lock=880x660"
+    },
+    {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:41 AM",
-      "end_time": "02:41 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29168989_b_h9_aa_25e1564421.webp"
+      "start_time": "02:48 AM",
+      "end_time": "03:32 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:41 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29168929_b_h9_aa_ac377689ba.webp"
+      "start_time": "03:32 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "05:00 AM",
-      "end_time": "06:37 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29168929_b_h9_aa_ac377689ba.webp"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Bindu",
-      "start_time": "06:37 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29202669_b_h9_aa_d2603d1626.webp"
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Hum Haien Jethani",
-      "start_time": "09:30 AM",
-      "end_time": "12:06 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/default_880x660_c51365f14d.webp"
+      "show_name": "Movie",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Sasural Ka Deewana",
-      "start_time": "12:06 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29449888_b_h9_aa_5142e5fcc6.webp"
+      "show_name": "Movie",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Bitiya Damad",
-      "start_time": "03:30 PM",
-      "end_time": "06:25 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p29271065_b_h9_aa_020627e8e6.webp"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Badki Didi 2",
-      "start_time": "06:25 PM",
-      "end_time": "09:02 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p31373274_b_h9_aa_d13664512f.webp"
-    },
-    {
-      "show_name": "Raja Babu",
-      "start_time": "09:02 PM",
-      "end_time": "12:40 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/b4u-bhojpuri/tomorrow/p11717104_b_h9_ar_4ebdb8b88d.webp"
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]
 }

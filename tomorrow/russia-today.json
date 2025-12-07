@@ -1,54 +1,54 @@
 {
   "channel_name": "RT",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "RT Programming",
       "start_time": "12:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "03:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "06:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "12:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "06:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "RT Programming",
       "start_time": "09:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/russia-today/today/p23113682_b_h9_aa_78779bd851.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23113682_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

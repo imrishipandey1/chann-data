@@ -1,5 +1,294 @@
 {
-  "channel_name": "Unknown Channel",
-  "date": "December 06, 2025",
-  "schedule": []
+  "channel_name": "Zee 24 Kalak",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Prime Time Report",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069376_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prime Time Report",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069376_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prime Time News",
+      "start_time": "02:00 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907356_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069737_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "03:30 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069737_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prime Time News",
+      "start_time": "04:30 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907356_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Janta Ni Vat",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069737_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aarti",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8469275_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Maha Aarti",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22893539_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sur Vandana",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069392_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sur Vandana",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069392_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sur Vandana",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069392_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhakti Vandna",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068674_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhakti Vandna",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068674_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29376309_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Morning Prime Time",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28877762_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Khabar @ 10",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069657_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Reels Ni Ramzat",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069550_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sawar Na Mota Samachar",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069435_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29376309_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bapore 12na Takore",
+      "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068578_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bapore 12na Takore",
+      "start_time": "12:30 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068578_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhan Gujarat",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069495_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gujarati Reels",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069786_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2 Vagya Na Mota Samachar",
+      "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068618_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Super Hit Geet",
+      "start_time": "02:30 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069406_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "3 Vagye Mahanagar Ni Vat",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068599_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gujarati Geet",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068693_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gujarati Geet",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068693_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "5 Vagye Tamara Shaher Ni Vat",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29068564_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Reels Ni Ramzat",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069550_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29376309_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Yashgatha Gujarat Ni",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28856005_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fatafat Samachar",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29376309_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samachar Gujarat",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069517_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Control Room",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069840_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral No Vantol",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29156685_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News Top 100",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29376322_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prime Time Report",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069376_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News Top 100",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29376322_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral Khabar",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Savdhan Gujarat",
+      "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069495_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Viral No Vantol",
+      "start_time": "11:30 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29156685_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
 }

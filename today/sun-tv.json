@@ -1,5 +1,138 @@
 {
-  "channel_name": "Unknown Channel",
-  "date": "December 06, 2025",
-  "schedule": []
+  "channel_name": "Sun TV",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Nagaichuvai Gallatta",
+      "start_time": "12:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10417982_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Thirai Thendral",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11396020_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sugamana Ragangal",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10121260_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhakthi Padalgal",
+      "start_time": "05:00 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7980679_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kandha Guru Kavasam",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15735082_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aalaya Vazhipadu",
+      "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9443796_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Nalla Kaalam Pirakuthu",
+      "start_time": "06:30 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23114898_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Deiva Dharisanam",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8652659_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28827086_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kalyanamaalai",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p756947_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Varuthapdatha Sangam",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29730613_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sun Natchathira Kondattam",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22229206_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Santhosh Subramaniam",
+      "start_time": "09:30 AM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p180271_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ranjithame",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24405979_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Top Cooku Dupe Cooku",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27423999_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Vaikundapuram",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17483292_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28827086_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sandakozhi 2",
+      "start_time": "06:30 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16097040_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ethirneechal Thodargiradhu",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29836655_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aadukalam",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28739749_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Malli",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29837257_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Top Cooku Dupe Cooku",
+      "start_time": "11:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27423999_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
 }

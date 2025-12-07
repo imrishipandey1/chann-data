@@ -1,72 +1,78 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
-      "show_name": "Kempe Gowda",
-      "start_time": "12:17 AM",
-      "end_time": "02:03 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p10522121_v_h9_aa_6f4ba73684.webp"
+      "show_name": "Jackson Durai",
+      "start_time": "12:43 AM",
+      "end_time": "02:38 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13034777_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Mere Pyare Prime Minister",
-      "start_time": "02:03 AM",
-      "end_time": "03:36 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p17002622_b_h9_aa_615f641c1c.webp"
+      "show_name": "Burma",
+      "start_time": "02:38 AM",
+      "end_time": "03:53 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12025336_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Hello Naan Pei Pesuren",
-      "start_time": "03:36 AM",
-      "end_time": "05:04 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p12759844_b_h9_ab_8859c95c65.webp"
+      "show_name": "Yeh Kaisi Anhoni",
+      "start_time": "03:53 AM",
+      "end_time": "04:59 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19461638_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Teleshopping",
-      "start_time": "05:04 AM",
-      "end_time": "06:34 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p501178_b_h9_am_4d419d3864.webp"
+      "start_time": "04:59 AM",
+      "end_time": "06:29 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p501178_b_h9_am.jpg?lock=880x660"
     },
     {
-      "show_name": "Bullet Rani",
-      "start_time": "06:34 AM",
-      "end_time": "08:39 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p15406039_v_h9_aa_22d9755b22.webp"
+      "show_name": "Saravanan Irukka Bayamaen",
+      "start_time": "06:29 AM",
+      "end_time": "08:38 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14132631_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kovilpatti Veeralakshmi",
-      "start_time": "08:39 AM",
-      "end_time": "10:48 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p10953970_b_h9_ab_de5ce4e3a2.webp"
+      "show_name": "Phool Aur Kaante",
+      "start_time": "08:38 AM",
+      "end_time": "11:54 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p177843_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ek Rishtaa: The Bond of Love",
-      "start_time": "10:48 AM",
-      "end_time": "02:19 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p72790_b_h9_af_76f526c86d.webp"
+      "show_name": "Naagmati",
+      "start_time": "11:54 AM",
+      "end_time": "02:01 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25791875_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Brahmotsavam",
-      "start_time": "02:19 PM",
-      "end_time": "04:40 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p12886629_b_h9_ac_0d6dde22c8.webp"
+      "show_name": "Raju Gari Gadhi",
+      "start_time": "02:01 PM",
+      "end_time": "04:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12278522_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Intlo Deyyam Nakem Bhayam",
-      "start_time": "04:40 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/default_880x660_c51365f14d.webp"
+      "show_name": "Jaya Janaki Nayaka",
+      "start_time": "04:20 PM",
+      "end_time": "06:58 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14408699_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "I",
-      "start_time": "07:00 PM",
-      "end_time": "10:19 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p11398392_v_h9_ad_9d9c5cf1e4.webp"
+      "show_name": "Ism",
+      "start_time": "06:58 PM",
+      "end_time": "08:51 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13390660_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Autonagar Surya",
-      "start_time": "10:19 PM",
-      "end_time": "12:43 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/all-time-movies/tomorrow/p10866442_b_h9_af_63d9a0cb9f.webp"
+      "show_name": "Velaiilla Pattadhari",
+      "start_time": "08:51 PM",
+      "end_time": "11:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12463508_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paisa",
+      "start_time": "11:15 PM",
+      "end_time": "01:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17132225_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

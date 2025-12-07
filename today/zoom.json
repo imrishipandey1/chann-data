@@ -1,5 +1,84 @@
 {
-  "channel_name": "Unknown Channel",
-  "date": "December 06, 2025",
-  "schedule": []
+  "channel_name": "Zoom",
+  "date": "December 07, 2025",
+  "schedule": [
+    {
+      "show_name": "Love Cocktail",
+      "start_time": "12:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25963217_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "NIGHTOUT",
+      "start_time": "02:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570159_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beetey Lamhey",
+      "start_time": "05:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569518_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "SUNRISE HITS",
+      "start_time": "08:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570350_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Likes Bajao",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12519462_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "PYAAR HITS",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570230_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "ZOOMBASTIC TOP 10",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570384_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "REQUEST WALA SHOW",
+      "start_time": "01:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570269_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "PLUG PLAY KARAOKE",
+      "start_time": "03:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570204_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Boht Hard",
+      "start_time": "04:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569580_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "REQUEST WALA SHOW",
+      "start_time": "05:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28570269_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "My Dil Goes Zoom",
+      "start_time": "07:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30717229_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beetey Lamhey",
+      "start_time": "10:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569518_b_h9_aa.jpg?lock=880x660"
+    }
+  ]
 }

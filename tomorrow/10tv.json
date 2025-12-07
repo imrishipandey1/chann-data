@@ -1,336 +1,342 @@
 {
   "channel_name": "10TV",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "Recorded News",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109038_b_h9_aa_542813203b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109038_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nonstop 90",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109009_b_h9_ab_cbe5c6df32.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109009_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Recorded News",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109038_b_h9_aa_542813203b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109038_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "10 Max",
+      "show_name": "World This Week",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108747_b_h9_aa_4d71a889a2.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039169_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Recorded News",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109038_b_h9_aa_542813203b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109038_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Patas News",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109013_b_h9_aa_8576350e29.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109013_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Recorded News",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109038_b_h9_aa_542813203b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109038_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Special Focus",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109072_b_h9_aa_2249e4983a.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109072_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Recorded News",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109038_b_h9_aa_542813203b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109038_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "10 Max",
+      "show_name": "Big Story",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108747_b_h9_aa_4d71a889a2.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27640956_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Recorded News",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109038_b_h9_aa_542813203b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109038_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Patas News",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109013_b_h9_aa_8576350e29.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109013_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "6 AM News",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108863_b_h9_ad_eb7c23701a.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108863_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Matti Manishi",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108993_b_h9_aa_cc4ee5b2d2.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108993_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "7 AM News",
       "start_time": "07:00 AM",
       "end_time": "07:20 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p9331212_b_h9_aa_6dd6bcaf60.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9331212_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Good News",
       "start_time": "07:20 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108958_b_h9_ab_dec99351ec.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108958_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Special Focus",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109072_b_h9_aa_2249e4983a.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109072_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Super fast 100",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109143_b_h9_ab_30886870ac.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109143_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Patas News",
       "start_time": "08:30 AM",
       "end_time": "08:57 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109013_b_h9_aa_8576350e29.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109013_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "08:57 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "9 AM News",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108907_b_h9_aa_ba4759a0f1.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108907_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "10 Max",
+      "show_name": "Big Story",
       "start_time": "09:30 AM",
       "end_time": "09:57 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108747_b_h9_aa_4d71a889a2.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27640956_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "09:57 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "10 AM News",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p28730951_b_h9_aa_8d6504b093.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28730951_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Adrustam Live",
       "start_time": "10:30 AM",
       "end_time": "10:57 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p30047123_b_h9_aa_b8c38536fc.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30047123_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "10:57 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "11 AM News",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29110570_b_h9_aa_137f09ecdc.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29110570_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Special / News",
       "start_time": "11:30 AM",
       "end_time": "11:57 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29249205_b_h9_aa_c26f06dd87.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29249205_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "11:57 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "12 PM News & World-20",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108781_b_h9_aa_d3f5e02c4a.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108781_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dream Home",
+      "show_name": "Oorantha Tom Tom",
       "start_time": "12:30 PM",
       "end_time": "12:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108938_b_h9_ab_ec57473279.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31668953_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "12:57 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Lunch Hour News",
       "start_time": "01:00 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108976_b_h9_aa_f2b39c6b9b.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108976_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "WLD-NAT-ET-20",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109186_b_h9_aa_7345c355e2.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109186_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Special Focus",
       "start_time": "02:30 PM",
       "end_time": "02:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109072_b_h9_aa_2249e4983a.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109072_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "02:57 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "3 PM News & National-20",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108829_b_h9_aa_8c7a61800f.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108829_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "World This Week",
+      "show_name": "Special / Talk Of The Town",
       "start_time": "03:30 PM",
       "end_time": "03:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29039169_b_h9_aa_37d230e934.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31668943_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "03:57 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "4 PM News",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29110601_b_h9_aa_0e503648a0.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29110601_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Oorantha Tom Tom",
+      "show_name": "Mana Ooru Mana Vartalu",
       "start_time": "04:30 PM",
       "end_time": "04:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p31668953_b_h9_aa_e2a5474c42.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24467875_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Minutes 12 Headlines",
       "start_time": "04:57 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108819_b_h9_ab_4b9ea35dc5.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "5 PM News",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29110614_b_h9_aa_f1c0383fe1.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29110614_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Weekend Talk Of The Town",
+      "show_name": "Special Debate",
       "start_time": "05:30 PM",
       "end_time": "05:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p30701723_b_h9_aa_5af1916aaa.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13915131_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 10",
       "start_time": "05:57 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29341221_b_h9_aa_06a23cbc52.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29341221_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Star Show",
+      "show_name": "Talk of the Town",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29991885_b_h9_aa_85574b61e0.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27674050_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Weekend Podcast With",
+      "show_name": "Prime Time Debate / Solid News",
       "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109025_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gossips Garage",
+      "start_time": "07:30 PM",
       "end_time": "07:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p31669043_b_h9_aa_762c7d7929.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108969_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "8 PM 360 Degrees",
       "start_time": "07:57 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29249165_b_h9_aa_b4120fa8ef.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29249165_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Patas News",
       "start_time": "08:30 PM",
       "end_time": "08:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109013_b_h9_aa_8576350e29.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109013_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nonstop 90",
       "start_time": "08:57 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109009_b_h9_ab_cbe5c6df32.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109009_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Special Focus",
       "start_time": "09:30 PM",
       "end_time": "09:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29109072_b_h9_aa_2249e4983a.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29109072_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mega Prime Time",
+      "show_name": "FIR",
       "start_time": "09:57 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p28931577_b_h9_aa_ecacc3a9f3.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108952_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Big Story",
+      "show_name": "10 Max",
       "start_time": "10:30 PM",
       "end_time": "10:57 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p27640956_b_h9_ad_7fc2877b10.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "10 Tv News",
       "start_time": "10:57 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p29108757_b_h9_aa_6217c2c2b9.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108757_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Oorantha Tom Tom",
+      "show_name": "Gossips Garage",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/10tv/tomorrow/p31668953_b_h9_aa_e2a5474c42.webp"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108969_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }
