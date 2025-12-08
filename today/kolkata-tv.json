@@ -1,6 +1,6 @@
 {
   "channel_name": "Kolkata TV",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "Chaturtho Stamva",
@@ -9,10 +9,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935255_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Stadium Bulletin",
+      "show_name": "Bharat Amar Bharatborsha",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935602_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935266_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sangbad Saradin",
@@ -27,10 +27,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bharat Amar Bharatborsha",
+      "show_name": "Sangbad Saradin",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935266_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Amar Sahar",
@@ -213,16 +213,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935528_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sangbad Saradin",
+      "show_name": "Narod Narod",
       "start_time": "06:26 PM",
       "end_time": "06:56 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935557_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sangbad Saradin",
+      "show_name": "Bangla Bolchhe",
       "start_time": "06:56 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935570_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sera 100",
@@ -249,22 +249,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935602_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sangbad Saradin",
+      "show_name": "Politics",
       "start_time": "09:30 PM",
       "end_time": "09:59 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9025402_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Sangbad Saradin",
+      "show_name": "Chaturtho Stamva",
       "start_time": "09:59 PM",
       "end_time": "10:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935255_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sangbad Saradin",
+      "show_name": "AJKE",
       "start_time": "10:20 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935621_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ponero Ponero Panch",

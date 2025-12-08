@@ -1,6 +1,6 @@
 {
   "channel_name": "NTV",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "NTV Special",
@@ -111,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Indo Nepal Rudraksha",
+      "show_name": "Chairman Desk",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19339672_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19339532_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "News 360",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p10172227_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Real City 2.0",
+      "show_name": "B-Alert",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29232063_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231872_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News Online",
@@ -135,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "N Career / Focus",
+      "show_name": "Off the Record",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29232028_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p455815_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "News Online",
@@ -243,10 +243,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chairman Desk",
+      "show_name": "B-Alert",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19339532_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29231872_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Prime Time News",

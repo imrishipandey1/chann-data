@@ -1,36 +1,24 @@
 {
   "channel_name": "CNBC TV18",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Ceo Sentimeter",
+      "show_name": "The Exchange",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31316788_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617612_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "American Greed",
+      "show_name": "Power Lunch",
       "start_time": "12:30 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p185958_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617478_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "On Assignment",
+      "show_name": "Closing Bell",
       "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10615394_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Delivering Alpha 2025",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29472182_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Swift Effect",
-      "start_time": "02:30 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28742004_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616618_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Rundown",
@@ -45,8 +33,14 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617524_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Squawk Box",
+      "show_name": "Closing Bell",
       "start_time": "06:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616618_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Squawk Box",
+      "start_time": "07:00 AM",
       "end_time": "07:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27617524_b_h9_aa.jpg?lock=880x660"
     },
@@ -105,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617351_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Your Stocks",
+      "show_name": "MF Corner",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617838_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617329_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "NSE Closing Bell",
@@ -141,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "CNBC-TV18 Special",
+      "show_name": "The Investing Edge",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617739_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Reporter's Diary",

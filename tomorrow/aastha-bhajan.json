@@ -1,12 +1,24 @@
 {
   "channel_name": "Aastha Bhajan",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Pujya Rameshbhai Oza",
+      "show_name": "Kishanbhaiya Sirsawale",
       "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10728207_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aastha Bhajan Special",
+      "start_time": "12:30 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aastha Bhajan Special",
+      "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Aastha Bhajan Special",

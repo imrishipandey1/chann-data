@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee Uttar Pradesh Uttarakhand",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "Debate",
@@ -99,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28712449_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "88 Shahar 88 Khabar",
+      "show_name": "100 Shahar 100 Khabar",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29049836_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p12655661_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ground Reporter",
@@ -135,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p12655661_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News Bulletin",
+      "show_name": "Bada Shahar Badi Khabar",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29034888_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29049839_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Encounter",
@@ -171,16 +171,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28712449_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News Bulletin",
+      "show_name": "Do Ka Dangal",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29034888_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29049946_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Viral / 88 Shahar 88 Khabar",
+      "show_name": "100 Shahar 100 Khabar",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29050030_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p12655661_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News @Noon",
@@ -267,10 +267,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29345226_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Badi Khabrein",
+      "show_name": "Aapki Khabar Aapka Shahar",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29362458_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30891546_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Encounter",

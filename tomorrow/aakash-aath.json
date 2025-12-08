@@ -1,42 +1,54 @@
 {
   "channel_name": "Aakash Aath",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Police Files",
-      "start_time": "12:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26698518_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Joy Bijoy",
+      "start_time": "12:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27094108_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Akashe Superstar",
-      "start_time": "02:00 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Hridmajhare",
       "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "04:00 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26687431_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Adi Shakti Adyapeeth",
+      "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27292881_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30538894_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Police Files",
+      "show_name": "Khonar Kahini",
       "start_time": "05:00 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26698518_b_h9_ab.jpg?lock=880x660"
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jai Ma Santoshi",
+      "show_name": "Radhuni",
+      "start_time": "05:30 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26687431_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Om Sai Ram",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26682118_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28627242_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sri Sri Anandamoyee Maa",
+      "show_name": "Khonar Kahini",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26687727_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Good Morning Aakash",
@@ -45,64 +57,64 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26769646_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Anuradha",
+      "show_name": "Adi Shakti Adyapeeth",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26769458_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30538894_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Adalat O Ekti Mei",
+      "show_name": "Khonar Kahini",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26669306_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sri Sri Anandamoyee Maa",
+      "show_name": "Om Sai Ram",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26687727_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28627242_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Swayamsidha",
+      "show_name": "Akashe Superstar",
       "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26699285_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Anuradha",
-      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26769458_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Adalat O Ekti Mei",
-      "start_time": "12:00 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26669306_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Police Files",
-      "start_time": "12:30 PM",
+      "start_time": "12:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26698518_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26698540_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Radhuni",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26687428_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26687431_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Akashe Superstar",
       "start_time": "02:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aakash Barta",
       "start_time": "03:00 PM",
-      "end_time": "06:00 PM",
+      "end_time": "03:05 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26769306_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prashna",
+      "start_time": "03:05 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27094219_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Radhuni",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26687431_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aakash Barta",
@@ -111,40 +123,34 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26769306_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Sri Sri Anandamoyee Maa",
+      "show_name": "Om Sai Ram",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26687727_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28627242_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Swayamsidha",
+      "show_name": "Adi Shakti Adyapeeth",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26699285_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30538894_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Anuradha",
+      "show_name": "Khonar Kahini",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26769458_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Adalat O Ekti Mei",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26669306_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Police Files",
-      "start_time": "08:30 PM",
+      "start_time": "08:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26698518_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26698540_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Akashe Superstar",
       "start_time": "09:30 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aakash Barta",
@@ -155,8 +161,8 @@
     {
       "show_name": "Police Files",
       "start_time": "11:00 PM",
-      "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26698518_b_h9_ab.jpg?lock=880x660"
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26698540_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

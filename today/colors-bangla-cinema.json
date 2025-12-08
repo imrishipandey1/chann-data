@@ -1,18 +1,18 @@
 {
   "channel_name": "Colors Bangla Cinema",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
-      "show_name": "Naga Panchami",
+      "show_name": "Premi",
       "start_time": "12:00 AM",
-      "end_time": "01:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17404035_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24776101_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gorosthaney Sabdhan",
-      "start_time": "01:15 AM",
+      "show_name": "Toke Chhara Banchbo Na",
+      "start_time": "01:05 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23719595_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
@@ -21,46 +21,46 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Bangshadhar",
+      "show_name": "Ora Charjon",
       "start_time": "04:00 AM",
-      "end_time": "07:15 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "end_time": "06:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14784251_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sathi Amar",
-      "start_time": "07:15 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26714758_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Tomake Chai",
+      "start_time": "06:50 AM",
+      "end_time": "09:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29010359_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Le Halua Le",
-      "start_time": "10:00 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11232713_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Champion",
+      "start_time": "09:20 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29879306_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bandhan",
-      "start_time": "01:00 PM",
+      "show_name": "Premer Kahini",
+      "start_time": "12:40 PM",
       "end_time": "03:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p130837_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11159364_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pratibad",
+      "show_name": "Nayak - The Real Hero",
       "start_time": "03:40 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25000686_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24400853_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Poran Jaye Jolia Re",
+      "show_name": "Sedin Dekha Hoyechilo",
       "start_time": "07:00 PM",
-      "end_time": "09:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11540338_v_h9_aa.jpg?lock=880x660"
+      "end_time": "10:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24589930_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Premi",
-      "start_time": "09:55 PM",
+      "show_name": "Jhinuk Mala",
+      "start_time": "10:10 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24776101_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14811930_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

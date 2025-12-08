@@ -1,78 +1,66 @@
 {
   "channel_name": "ET Now",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "SUC Weekend",
+      "show_name": "Beat the Street",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29741123_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "BTS - Ajay Srivastava + Varun Saboo",
+      "show_name": "India Tonight",
       "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715624_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Masterclass - Vallabh Bhansh",
-      "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715637_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242464_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "BTS - Mark Matthews + Herald Van",
+      "show_name": "Startup Central",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715645_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242495_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "South Central - Andhra Summit Special",
+      "show_name": "Your Trades",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715711_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242506_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Battleground Bihar - The Verdict",
+      "show_name": "India Development Debate",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715835_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19231444_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Hangouts",
+      "show_name": "Beat the Street",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31605442_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "ET NOW Special",
+      "show_name": "The Money Show",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25506351_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242505_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Battleground Bihar - The Verdict",
+      "show_name": "Big Voices",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715835_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24473293_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "BTS - Ajay Srivastava + Varun Saboo",
+      "show_name": "Startup Central",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715624_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242495_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Masterclass - Vallabh Bhansh",
+      "show_name": "India Tonight",
       "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715637_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "BTS - Mark Matthews + Herald Van",
-      "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31715645_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242464_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Beat the Street",
@@ -141,22 +129,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19242405_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "BUDGET 2024 - Special",
+      "show_name": "Beat the Street",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29714557_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242393_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "News Now",
+      "show_name": "Talent Superheroes",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19242492_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26997110_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Money Show",
       "start_time": "05:00 PM",
-      "end_time": "06:00 PM",
+      "end_time": "05:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19242505_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News Now",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19242492_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Startup Central",

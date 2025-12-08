@@ -1,6 +1,6 @@
 {
   "channel_name": "NTV",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
       "show_name": "NTV Special",
@@ -111,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chairman Desk",
+      "show_name": "Storyboard",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19339532_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617579_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "News 360",

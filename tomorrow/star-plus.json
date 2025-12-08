@@ -1,6 +1,6 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
       "show_name": "Jhanak",
@@ -21,16 +21,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p21192003_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Grihapravesh: Ek Nayi Shuruwat",
+      "show_name": "Pandya Store",
       "start_time": "02:00 AM",
-      "end_time": "02:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26742497_b_h9_ab.jpg?lock=880x660"
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19382793_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Pandya Store",
-      "start_time": "02:20 AM",
+      "show_name": "Yeh Rishta Kya Kehlata Hai",
+      "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19382793_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21192003_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ghum Hai Kisikey Pyaar Meiin",
@@ -42,7 +42,7 @@
       "show_name": "Mahabharat",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18281037_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21403704_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Anupamaa",

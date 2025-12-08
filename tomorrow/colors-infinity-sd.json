@@ -1,64 +1,58 @@
 {
   "channel_name": "Colors Infinity",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Chesapeake Shore",
+      "show_name": "The Blacklist",
       "start_time": "12:00 AM",
       "end_time": "12:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31856794_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20395090_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The White Lotus",
+      "show_name": "The Blacklist",
       "start_time": "12:40 AM",
-      "end_time": "01:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29046684_b_h9_ab.jpg?lock=880x660"
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20395090_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The White Lotus",
-      "start_time": "01:25 AM",
-      "end_time": "02:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29046684_b_h9_ab.jpg?lock=880x660"
+      "show_name": "The Blacklist",
+      "start_time": "01:30 AM",
+      "end_time": "02:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20395090_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Industry",
-      "start_time": "02:20 AM",
+      "show_name": "The Blacklist",
+      "start_time": "02:10 AM",
+      "end_time": "02:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20395090_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Blacklist",
+      "start_time": "02:50 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18808319_b_h9_aq.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Alex Rider",
+      "show_name": "The Blacklist",
       "start_time": "03:30 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18378677_b_h9_ad.jpg?lock=880x660"
+      "end_time": "04:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Sopranos",
-      "start_time": "04:30 AM",
-      "end_time": "05:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7894126_b_h9_ah.jpg?lock=880x660"
+      "start_time": "04:20 AM",
+      "end_time": "05:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7894127_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "The Sopranos",
-      "start_time": "05:15 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7894126_b_h9_ah.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Sopranos",
-      "start_time": "05:30 AM",
+      "start_time": "05:10 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7894126_b_h9_ah.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p7894127_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Atypical",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14273937_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Atypical",
-      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p14273937_b_h9_aa.jpg?lock=880x660"
     },

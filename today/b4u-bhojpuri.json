@@ -1,60 +1,72 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
+      "show_name": "Saat Pheron Ke Saaton Vachan",
+      "start_time": "12:40 AM",
+      "end_time": "02:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169093_b_h9_aa.jpg?lock=880x660"
+    },
+    {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:41 AM",
-      "end_time": "02:41 AM",
+      "start_time": "02:48 AM",
+      "end_time": "03:32 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:41 AM",
+      "start_time": "03:32 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:37 AM",
+      "end_time": "06:47 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bindu",
-      "start_time": "06:37 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29202669_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Collector Sahab",
+      "start_time": "06:47 AM",
+      "end_time": "09:28 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29333140_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hum Haien Jethani",
-      "start_time": "09:30 AM",
-      "end_time": "12:06 PM",
+      "show_name": "Maa Baap Ka Batwara",
+      "start_time": "09:28 AM",
+      "end_time": "12:13 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29367549_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rani Beti Raj Karegi",
+      "start_time": "12:13 PM",
+      "end_time": "02:57 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29360131_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ghar Ki Malkin",
+      "start_time": "02:57 PM",
+      "end_time": "05:32 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29333134_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ameero Ka Dahej",
+      "start_time": "05:32 PM",
+      "end_time": "08:04 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30352874_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Chorni Saas Ki Jhuthi Bahu",
+      "start_time": "08:04 PM",
+      "end_time": "10:58 PM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Sasural Ka Deewana",
-      "start_time": "12:06 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29449888_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Bitiya Damad",
-      "start_time": "03:30 PM",
-      "end_time": "06:25 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29271065_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Badki Didi 2",
-      "start_time": "06:25 PM",
-      "end_time": "09:02 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31373274_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Raja Babu",
-      "start_time": "09:02 PM",
-      "end_time": "12:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11717104_b_h9_ar.jpg?lock=880x660"
+      "show_name": "Kasam Paida Karne Wale Ki",
+      "start_time": "10:58 PM",
+      "end_time": "01:39 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     }
   ]
 }

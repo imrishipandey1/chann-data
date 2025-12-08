@@ -1,7 +1,55 @@
 {
   "channel_name": "ABP Majha",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "02:00 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divasbharatlya Baatmya",
+      "start_time": "05:00 AM",
+      "end_time": "05:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Divyang Bulletin",
+      "start_time": "05:45 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26464383_b_h9_ac.jpg?lock=880x660"
+    },
     {
       "show_name": "100 Headlines",
       "start_time": "06:00 AM",

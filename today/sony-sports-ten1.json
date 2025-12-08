@@ -1,114 +1,192 @@
 {
   "channel_name": "Sony Sports Ten 1",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
-      "show_name": "2023: New Zealand vs. England, 2nd Test; Test Cricket",
+      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: India A vs. Oman; Asia Cup Rising Stars Cricket Highlights",
+      "show_name": "First Semifinal: Bangladesh A vs. India A; Asia Cup Rising Stars Cricket Highlights",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: Super Four: India vs. Sri Lanka; Asia Cup Highlights",
+      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
       "start_time": "01:30 AM",
       "end_time": "02:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
+      "show_name": "3rd T20: New Zealand vs Australia; T20 Cricket",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
+      "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
-      "start_time": "03:00 AM",
+      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
+      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "1st ODI: New Zealand v West Indies; One-Day International Cricket",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: Super Four: Sri Lanka vs. Bangladesh; Asia Cup Highlights",
+      "start_time": "05:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "UFC 311 Makhachev vs Tsarukyan",
+      "start_time": "06:00 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29490994_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Compaq Cup 2009: Sri Lanka vs. India, Final; One-Day International Cricket",
-      "start_time": "04:00 AM",
-      "end_time": "06:00 AM",
+      "show_name": "3rd ODI: New Zealand vs West Indies; One-Day International Cricket",
+      "start_time": "07:30 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "08:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tsarukyan vs Hooker; UFC Fight Night",
+      "start_time": "09:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9734813_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "3rd ODI: New Zealand vs West Indies; One-Day International Cricket",
+      "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: Super Four: Sri Lanka vs. Bangladesh; Asia Cup Highlights",
+      "start_time": "11:30 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "UFC 311 Makhachev vs Tsarukyan",
+      "start_time": "12:30 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29490994_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "01:30 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "UFC 318: Holloway vs. Poirier 3",
+      "start_time": "02:30 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30304276_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "03:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "1st T20: New Zealand vs. Pakistan; T20 Cricket",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "05:00 PM",
+      "end_time": "05:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "1st ODI: New Zealand v West Indies; One-Day International Cricket",
+      "start_time": "05:30 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2nd ODI: New Zealand vs West Indies; One-Day International Cricket",
+      "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "3rd ODI: New Zealand vs West Indies; One-Day International Cricket",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live - UFC 322: Della Maddalena vs. Makhachev - Prelims",
-      "start_time": "06:30 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31457060_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "UFC 323: Dvalishvili vs. Yan 2",
-      "start_time": "08:30 AM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31515680_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "UFC 323; Ultimate Guide To UFC",
-      "start_time": "12:30 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23345069_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
-      "start_time": "02:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
-      "start_time": "03:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "5th Test: England vs. India; Test Cricket",
-      "start_time": "04:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
-      "start_time": "06:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "West Indies v New Zealand: 1st Test Review; Test Cricket",
       "start_time": "07:00 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live - Hamburger SV vs. Werder Bremen; Bundesliga Soccer",
+      "show_name": "2025: India A vs Pakistan A; Asia Cup Rising Stars Cricket Highlights",
       "start_time": "08:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p3589962_b_h9_cz.jpg?lock=880x660"
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live - Borussia Dortmund vs. TSG 1899 Hoffenheim; Bundesliga Soccer",
-      "start_time": "10:00 PM",
+      "show_name": "2025: India A vs. Oman; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "08:30 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Final: Bangladesh A vs. Pakistan Shaheens; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "09:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: Final: India vs Pakistan; Asia Cup Highlights",
+      "start_time": "10:30 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tsarukyan vs Hooker; UFC Fight Night",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p3589962_b_h9_cz.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9734813_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

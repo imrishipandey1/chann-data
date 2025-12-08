@@ -1,6 +1,6 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "Jhanak",
@@ -57,14 +57,8 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p21192003_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahabharat: Ek Dharmayudh",
-      "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31541294_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Udne Ki Aasha",
-      "start_time": "08:30 AM",
+      "start_time": "08:00 AM",
       "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26841305_b_h9_aa.jpg?lock=880x660"
     },
@@ -99,14 +93,14 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p18094070_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Grihapravesh: Ek Nayi Shuruwat",
+      "show_name": "Yeh Rishta Kya Kehlata Hai",
       "start_time": "11:30 AM",
-      "end_time": "11:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26742497_b_h9_ab.jpg?lock=880x660"
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21192003_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Pandya Store",
-      "start_time": "11:50 AM",
+      "start_time": "12:00 PM",
       "end_time": "01:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19382793_b_h9_ab.jpg?lock=880x660"
     },
@@ -129,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahabharat: Ek Dharmayudh",
+      "show_name": "Shehzaadi... Hai Tu Dil Ki",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31541294_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31875863_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aarti Anjali Awasthi",

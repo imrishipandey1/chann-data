@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee News",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "News Bulletin",
@@ -141,10 +141,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30521310_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Damdar 100",
+      "show_name": "Top 5",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31415258_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29714485_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "12 Ka Agenda",
@@ -165,10 +165,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p664613_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News Radar",
+      "show_name": "Badi Khabar",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16860864_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11875802_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2 Baje 2 Min 2 Khabar",
@@ -177,10 +177,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27566299_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Zee Special",
+      "show_name": "News Bulletin",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19013484_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Trishul",
@@ -267,16 +267,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p11112905_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "News Radar",
+      "show_name": "Badi Khabar",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16860864_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11875802_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Top 100",
+      "show_name": "Badi Khabar",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30150211_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11875802_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Daily News & Analysis",
