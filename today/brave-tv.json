@@ -1,78 +1,78 @@
 {
   "channel_name": "BRAVE TV",
-  "date": "December 07, 2025",
+  "date": "December 08, 2025",
   "schedule": [
     {
       "show_name": "Bringing the best in television.",
       "start_time": "12:00 AM",
       "end_time": "2:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "2:00 AM",
       "end_time": "4:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "4:00 AM",
       "end_time": "6:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "6:00 AM",
       "end_time": "8:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "8:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "10:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "12:00 PM",
       "end_time": "2:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "2:00 PM",
       "end_time": "4:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "4:00 PM",
       "end_time": "6:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "6:00 PM",
       "end_time": "8:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
       "start_time": "8:00 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "end_time": "10:00 PM",
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     },
     {
       "show_name": "Bringing the best in television.",
-      "start_time": "11:00 PM",
+      "start_time": "10:00 PM",
       "end_time": "11:59 PM",
-      "show_logo": "https://intvschedule.com/wp-content/uploads/downloaded-images/brave-tv/today/5836d249d74e4decdc0db3c591a04b24_f0c0efb31a.webp"
+      "show_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5836d249d74e4decdc0db3c591a04b24.jpg"
     }
   ]
 }
