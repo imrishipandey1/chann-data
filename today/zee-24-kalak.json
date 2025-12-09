@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee 24 Kalak",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
       "show_name": "Prime Time Report",
@@ -15,10 +15,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Savdhan Gujarat",
+      "show_name": "Prime Time Report",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069495_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069376_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Viral Khabar",
@@ -33,10 +33,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28907356_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Savdhan Gujarat",
+      "show_name": "Janta Ni Vat",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069495_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069737_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Viral Khabar",
@@ -51,10 +51,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29069737_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Savdhan Gujarat",
+      "show_name": "Viral Khabar",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069495_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18694243_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Prime Time News",
@@ -129,10 +129,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29069657_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Control Room",
+      "show_name": "Reels Ni Ramzat",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069840_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29069550_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sawar Na Mota Samachar",

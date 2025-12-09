@@ -1,172 +1,166 @@
 {
   "channel_name": "DD Punjabi",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Tare Zamin Te",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946304_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Yaadan Di Khushboo",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946376_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Sanjh Suran Di",
-      "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
+      "start_time": "12:00 AM",
+      "end_time": "12:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28945750_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Nakhra Tera 2013",
-      "start_time": "02:00 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28945444_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Dastak",
+      "start_time": "12:50 AM",
+      "end_time": "01:37 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907921_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kavishree/Dhadiwarran",
+      "show_name": "Mauj Baharan 2017",
+      "start_time": "01:37 AM",
+      "end_time": "02:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945354_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Teri Meri Tu Tu Main Main",
+      "start_time": "02:40 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907586_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Dhadi Varan / Kavshri",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28945273_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944351_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aasa Di Vaar",
       "start_time": "04:00 AM",
-      "end_time": "05:30 AM",
+      "end_time": "05:23 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28907770_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "So Than Sohawa",
-      "start_time": "05:30 AM",
-      "end_time": "05:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946258_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Shabad Kirtan",
-      "start_time": "05:45 AM",
-      "end_time": "06:15 AM",
+      "start_time": "05:23 AM",
+      "end_time": "05:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28907960_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shabad Vichar",
-      "start_time": "06:15 AM",
-      "end_time": "06:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9589446_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Sach Diyan Gallan",
+      "start_time": "05:45 AM",
+      "end_time": "06:13 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28907974_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhakti Sangeet",
-      "start_time": "06:40 AM",
+      "show_name": "Darbar Vichar",
+      "start_time": "06:13 AM",
+      "end_time": "06:36 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944233_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Begampura",
+      "start_time": "06:36 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28931625_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Bhakti Sangeet",
-      "start_time": "07:00 AM",
-      "end_time": "07:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28931625_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Sanskrit News",
-      "start_time": "07:15 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28802726_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28943881_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sachi Bani",
-      "start_time": "07:30 AM",
-      "end_time": "07:55 AM",
+      "start_time": "07:00 AM",
+      "end_time": "07:32 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28907930_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ajj Da Vichar",
+      "show_name": "Sehat Zaroori Hai",
+      "start_time": "07:32 AM",
+      "end_time": "07:43 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28946184_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhakti Sangeet",
+      "start_time": "07:43 AM",
+      "end_time": "07:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28931625_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Online Study Classes 3rd To 5th",
       "start_time": "07:55 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28943772_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zaika",
+      "show_name": "Sehat Zaroori Hai",
       "start_time": "08:00 AM",
-      "end_time": "08:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
+      "end_time": "08:16 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28946184_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "So Than Sohawa",
-      "start_time": "08:15 AM",
-      "end_time": "08:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946258_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Online Study Classes 3rd To 5th",
+      "start_time": "08:16 AM",
+      "end_time": "08:37 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gallan Te Geet",
-      "start_time": "08:40 AM",
-      "end_time": "09:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944502_b_h9_aa.jpg?lock=880x660"
+      "show_name": "DD Archive Songs",
+      "start_time": "08:37 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944251_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zaika",
-      "start_time": "09:15 AM",
-      "end_time": "09:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "DD Punjabi Rocks",
-      "start_time": "09:35 AM",
+      "show_name": "Online Study Classes 3rd To 5th",
+      "start_time": "09:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944301_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Zaika",
-      "start_time": "10:00 AM",
-      "end_time": "10:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Hanerian Gallian",
-      "start_time": "10:10 AM",
-      "end_time": "10:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944667_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aur Ek Kahani",
-      "start_time": "10:35 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28943849_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945470_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sanjh Suran Di",
-      "start_time": "11:00 AM",
+      "start_time": "10:00 AM",
+      "end_time": "10:11 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945750_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mathematics",
+      "start_time": "10:11 AM",
+      "end_time": "10:43 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28416050_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Science",
+      "start_time": "10:43 AM",
+      "end_time": "11:09 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28488953_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sanjh Suran Di",
+      "start_time": "11:09 AM",
       "end_time": "12:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28945750_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teri Meri Tu Tu Main Main",
+      "show_name": "Punjabi",
       "start_time": "12:00 PM",
-      "end_time": "12:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28907586_b_h9_aa.jpg?lock=880x660"
+      "end_time": "12:08 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945621_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gali Gali Vanjara",
-      "start_time": "12:15 PM",
-      "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944441_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Mathematics",
+      "start_time": "12:08 PM",
+      "end_time": "12:37 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28416050_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Patiala Darpan",
-      "start_time": "12:30 PM",
+      "show_name": "Mera Pind Mere Khet",
+      "start_time": "12:37 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28945511_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zaika",
+      "show_name": "Hulle Hulare",
       "start_time": "01:00 PM",
-      "end_time": "01:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:11 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944706_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Gallan Te Geet",
-      "start_time": "01:10 PM",
+      "start_time": "01:11 PM",
       "end_time": "02:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28944502_b_h9_aa.jpg?lock=880x660"
     },
@@ -177,10 +171,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28944706_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ik Miaan Do Talwaaran",
+      "show_name": "Sci-Physics",
       "start_time": "02:30 PM",
+      "end_time": "02:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28946154_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Science-Chemistry",
+      "start_time": "02:45 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944736_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28946123_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News Headlines",
@@ -189,16 +189,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19013496_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Vigyan Prasar",
+      "show_name": "Rachna",
       "start_time": "03:05 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28932196_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945638_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rubaroo",
+      "show_name": "Navi Udari",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28945717_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945460_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DDK Chandigarh",
@@ -207,106 +207,100 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28944273_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zaika",
+      "show_name": "Mera Pind Mere Khet",
       "start_time": "05:00 PM",
-      "end_time": "05:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
+      "end_time": "05:07 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shabad Kirtan",
-      "start_time": "05:05 PM",
+      "show_name": "Savi Dharti",
+      "start_time": "05:07 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28907960_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28946089_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mera Pind Mere Khet",
       "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
+      "end_time": "06:02 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Public Time",
-      "start_time": "06:00 PM",
+      "show_name": "Yaadan Di Khushboo",
+      "start_time": "06:02 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28945611_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28946376_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zaika",
+      "show_name": "Mera Pind Mere Khet",
       "start_time": "06:30 PM",
       "end_time": "06:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Songs",
+      "show_name": "Gali Gali Wanjara",
       "start_time": "06:45 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28386741_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944467_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Geet Dhamal",
+      "show_name": "Jarah Wale",
       "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944564_b_h9_aa.jpg?lock=880x660"
+      "end_time": "07:32 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944757_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jodian Jag Thodian",
-      "start_time": "07:30 PM",
+      "show_name": "DD Archive Songs",
+      "start_time": "07:32 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944779_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944251_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Vehre Sajna De",
+      "show_name": "Ek Ardass",
       "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946335_b_h9_aa.jpg?lock=880x660"
+      "end_time": "08:56 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944406_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "DD Archive Songs",
+      "start_time": "08:56 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944251_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Hulle Hulare",
-      "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28944706_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ik Miaan Do Talwaaran",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944736_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Gallan Te Geet",
+      "show_name": "Mera Pind Mere Khet",
       "start_time": "09:30 PM",
       "end_time": "09:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944502_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zaika",
+      "show_name": "Gali Gali Wanjara",
       "start_time": "09:45 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28946396_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944467_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Startup Champions 2.0",
+      "show_name": "Gallan Jeevan Diyan",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25219684_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28944487_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gallan Te Geet",
+      "show_name": "Mera Pind Mere Khet",
       "start_time": "10:30 PM",
-      "end_time": "11:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28944502_b_h9_aa.jpg?lock=880x660"
+      "end_time": "11:43 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teri Meri Tu Tu Main Main",
-      "start_time": "11:10 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28907586_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aur Ek Kahani",
-      "start_time": "11:30 PM",
+      "show_name": "Mera Pind Mere Khet",
+      "start_time": "11:43 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28943849_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28945365_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

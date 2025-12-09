@@ -1,78 +1,78 @@
 {
   "channel_name": "Zee TV",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "12:00 AM",
-      "end_time": "12:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31048787_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Jaane Anjaane Hum Mile",
-      "start_time": "12:20 AM",
+      "start_time": "12:22 AM",
       "end_time": "12:44 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28718993_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "12:44 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30559141_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tum Se Tum Tak",
+      "start_time": "01:00 AM",
       "end_time": "01:26 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30559141_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
       "start_time": "01:26 AM",
-      "end_time": "01:49 AM",
+      "end_time": "01:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31048787_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Vasudha",
-      "start_time": "01:49 AM",
-      "end_time": "02:12 AM",
+      "start_time": "01:50 AM",
+      "end_time": "02:15 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28249714_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "02:12 AM",
-      "end_time": "02:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28306552_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Jagriti",
+      "start_time": "02:15 AM",
+      "end_time": "02:42 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28249633_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Saru",
-      "start_time": "02:35 AM",
-      "end_time": "03:02 AM",
+      "start_time": "02:42 AM",
+      "end_time": "03:08 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30187745_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "03:02 AM",
-      "end_time": "03:31 AM",
+      "start_time": "03:08 AM",
+      "end_time": "03:34 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31048787_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Vasudha",
-      "start_time": "03:31 AM",
+      "start_time": "03:34 AM",
       "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28249714_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Baba Ramdev Ka Yog",
+      "show_name": "Baba Ramdev",
       "start_time": "04:00 AM",
-      "end_time": "04:52 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8521168_b_h9_aa.jpg?lock=880x660"
+      "end_time": "04:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p582356_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tum Se Tum Tak",
-      "start_time": "04:52 AM",
+      "start_time": "04:48 AM",
       "end_time": "05:14 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30559141_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jagriti - Ek Nayi Subah",
+      "show_name": "Jagriti",
       "start_time": "05:14 AM",
       "end_time": "05:37 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28306552_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28249633_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Vasudha",
@@ -231,10 +231,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28249714_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jagadhatri",
+      "show_name": "Jagaddhatri",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28145718_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25089762_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
@@ -251,7 +251,7 @@
     {
       "show_name": "Vasudha",
       "start_time": "11:30 PM",
-      "end_time": "12:22 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28249714_b_h9_aa.jpg?lock=880x660"
     }
   ]

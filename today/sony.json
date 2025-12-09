@@ -1,36 +1,36 @@
 {
   "channel_name": "SET",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
       "show_name": "Best of Crime Patrol",
       "start_time": "12:30 AM",
-      "end_time": "02:20 AM",
+      "end_time": "02:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
-      "start_time": "02:20 AM",
-      "end_time": "03:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28249520_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Crime Patrol: 48 Hours",
-      "start_time": "03:40 AM",
-      "end_time": "04:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25120427_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
+      "start_time": "02:00 AM",
+      "end_time": "02:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29096437_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
-      "start_time": "04:20 AM",
-      "end_time": "05:00 AM",
+      "start_time": "02:40 AM",
+      "end_time": "03:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28249520_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
-      "start_time": "05:00 AM",
+      "start_time": "03:20 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28249520_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "04:00 AM",
       "end_time": "05:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28249520_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -60,19 +60,19 @@
       "show_name": "Best of the Kapil Sharma Show",
       "start_time": "09:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15920963_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25170506_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Best of the Kapil Sharma Show",
       "start_time": "10:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25170506_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15920963_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "show_name": "Crime Patrol 2.0",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28249520_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30794823_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -81,16 +81,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol",
+      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
       "start_time": "02:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Best of Crime Patrol",
-      "start_time": "03:00 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29096437_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Best of Crime Patrol",
@@ -99,10 +93,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol - Crime Patrol Dial 100",
+      "show_name": "Crime Patrol: 48 Hours",
       "start_time": "06:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28249520_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25120427_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mere Sai - Shraddha Aur Saburi",
@@ -135,10 +129,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30861487_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Best of Crime Patrol - Crime Patrol Satark",
+      "show_name": "Best of Crime Patrol",
       "start_time": "10:30 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Best of Crime Patrol",
+      "start_time": "11:30 PM",
       "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29096437_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15835872_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

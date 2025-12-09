@@ -1,10 +1,10 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Movie",
-      "start_time": "01:12 AM",
+      "start_time": "12:09 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },

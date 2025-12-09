@@ -1,54 +1,60 @@
 {
   "channel_name": "B4U Movies",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Nakshatra",
-      "start_time": "01:35 AM",
-      "end_time": "04:04 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8577808_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Jaane Jigar",
+      "start_time": "01:00 AM",
+      "end_time": "01:01 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Kaun Kare Kurbanie",
-      "start_time": "04:04 AM",
-      "end_time": "05:58 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8357577_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Jaane Jigar",
+      "start_time": "01:01 AM",
+      "end_time": "04:10 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Kahani Kismat Ki",
-      "start_time": "05:58 AM",
-      "end_time": "08:33 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10659453_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Krishna Arjun",
+      "start_time": "04:10 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p137649_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Main Intequam Loonga",
-      "start_time": "08:33 AM",
-      "end_time": "11:52 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8735404_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Ram Balram",
-      "start_time": "11:52 AM",
-      "end_time": "03:23 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8158964_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Rajput",
-      "start_time": "03:23 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8329033_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Nafrat Ki Aandhi",
-      "start_time": "07:00 PM",
-      "end_time": "10:29 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10442679_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Mera Karam Mera Dharam",
-      "start_time": "10:29 PM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9161987_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

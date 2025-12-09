@@ -1,6 +1,6 @@
 {
   "channel_name": "ABP News",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Special Report",
@@ -83,20 +83,26 @@
     {
       "show_name": "Special Report",
       "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
+      "end_time": "06:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News At 7",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29718293_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Bhaagya Ki Baat",
+      "start_time": "06:45 AM",
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27111811_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News At 7",
+      "show_name": "Namaste Bharat",
+      "start_time": "07:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22094288_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Namaste Bharat",
       "start_time": "07:30 AM",
       "end_time": "07:52 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29718293_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22094288_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "8 Minute 80 Khabar",
@@ -141,16 +147,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p23371458_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khabar Pakki Hai",
+      "show_name": "ABP Reporter",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29681638_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22094011_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Khabar Pakki Hai",
+      "show_name": "ABP Reporter",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29681638_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22094011_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Khabar Din Bhar",
@@ -159,28 +165,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p253167_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khabar Fatafat",
+      "show_name": "Khabar Din Bhar",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28714614_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p253167_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "1 Khabar 1 Minute",
+      "show_name": "Khabar Din Bhar",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30856603_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p253167_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "1 Khabar 1 Minute",
+      "show_name": "Khabar Din Bhar",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30856603_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p253167_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khabar Fatafat",
+      "show_name": "Khabar Din Bhar",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28714614_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p253167_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Saas Bahu Aur Saazish",
@@ -201,40 +207,40 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p253168_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Khabar Gawah Hain",
+      "show_name": "Matribhumi",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30856609_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8256861_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khabar Gawah Hain",
+      "show_name": "Matribhumi",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30856609_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8256861_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahadangal",
+      "show_name": "Hunkar",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28602862_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22094149_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahadangal",
+      "show_name": "Hunkar",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28602862_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22094149_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "ABP Report",
+      "show_name": "Political Powercentre",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30577174_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27869769_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABP Report",
+      "show_name": "Political Powercentre",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30577174_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27869769_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Seedha Sawaal",
@@ -257,32 +263,26 @@
     {
       "show_name": "Bharat Ki Baat",
       "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
+      "end_time": "09:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22094111_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Janhit",
-      "start_time": "09:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28602869_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Janhit",
+      "show_name": "24 Ghante 24 Reporter",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28602869_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p542990_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "News @ 10",
+      "show_name": "24 Ghante 24 Reporter",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23333632_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p542990_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "News @ 10",
+      "show_name": "Special Report",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23333632_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sansani",

@@ -1,18 +1,42 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Jumanji: The Next Level",
-      "start_time": "12:17 AM",
-      "end_time": "02:08 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15446613_v_h9_ae.jpg?lock=880x660"
+      "show_name": "Aaviri",
+      "start_time": "01:21 AM",
+      "end_time": "03:03 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29697037_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Main Hoon Sarfira Jigarwala",
-      "start_time": "02:08 AM",
+      "show_name": "Comedy Station",
+      "start_time": "03:03 AM",
+      "end_time": "03:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Comedy Station",
+      "start_time": "03:15 AM",
+      "end_time": "03:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Comedy Station",
+      "start_time": "03:25 AM",
+      "end_time": "03:33 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Extraaa Storiez",
+      "start_time": "03:33 AM",
+      "end_time": "03:54 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Extraaa Storiez",
+      "start_time": "03:54 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
@@ -47,7 +71,7 @@
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
-      "end_time": "01:23 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]

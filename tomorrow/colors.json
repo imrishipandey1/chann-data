@@ -1,28 +1,34 @@
 {
   "channel_name": "Colors",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "12:00 AM",
-      "end_time": "01:30 AM",
+      "start_time": "12:05 AM",
+      "end_time": "01:29 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "01:30 AM",
-      "end_time": "03:00 AM",
+      "start_time": "01:29 AM",
+      "end_time": "02:53 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "03:00 AM",
-      "end_time": "04:30 AM",
+      "start_time": "02:53 AM",
+      "end_time": "04:17 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "04:30 AM",
+      "start_time": "04:17 AM",
+      "end_time": "05:33 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "05:33 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
@@ -47,18 +53,18 @@
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
       "start_time": "09:00 AM",
-      "end_time": "10:00 AM",
+      "end_time": "10:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "10:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "11:30 AM",
+      "start_time": "12:00 PM",
       "end_time": "01:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29231919_b_h9_ab.jpg?lock=880x660"
     },

@@ -1,18 +1,18 @@
 {
   "channel_name": "History TV18 HD",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "The UnBelievable With Dan Aykroyd",
+      "show_name": "Life After People",
       "start_time": "12:20 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28511659_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30347948_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Lost Worlds",
+      "show_name": "Born to be Wild",
       "start_time": "01:00 AM",
       "end_time": "01:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9187603_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20956175_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Forged in Fire: Beat the Judges",
@@ -33,10 +33,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27299006_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Daksineshwar - Legends of Kali",
+      "show_name": "Al Murray: Why Does Everyone Hate the British Empire?",
       "start_time": "03:00 AM",
       "end_time": "03:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29403245_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25826537_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Food That Built the World",
@@ -51,10 +51,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p20598828_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Roads Unknown: India",
+      "show_name": "Royal India with Samira",
       "start_time": "05:00 AM",
       "end_time": "05:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30344130_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17484934_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ancient Aliens",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p16800414_b_h9_ai.jpg?lock=880x660"
     },
     {
-      "show_name": "Shipping Wars",
+      "show_name": "Tour D' Royale",
       "start_time": "06:00 AM",
       "end_time": "06:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10775456_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29296147_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The UnBelievable With Dan Aykroyd",
@@ -87,22 +87,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26327442_b_h9_ar.jpg?lock=880x660"
     },
     {
-      "show_name": "India: Marvels & Mysteries With William Dalrymple",
+      "show_name": "Nature Gone Wild",
       "start_time": "07:44 AM",
       "end_time": "08:04 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28602416_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19224279_b_h9_aj.jpg?lock=880x660"
     },
     {
-      "show_name": "Shipping Wars",
+      "show_name": "A Taste of Travel",
       "start_time": "08:04 AM",
       "end_time": "08:24 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10775456_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16445770_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "American Pickers",
       "start_time": "08:24 AM",
       "end_time": "09:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13122849_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13122837_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Einstein Challenge",
@@ -141,10 +141,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25563379_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Food Tech",
+      "show_name": "The Food That Built the World",
       "start_time": "12:00 PM",
       "end_time": "12:46 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7893292_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26498142_b_h9_ai.jpg?lock=880x660"
     },
     {
       "show_name": "Pawn Stars",
@@ -183,10 +183,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28600953_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "History's Greatest Heists With Pierce Brosnan",
+      "show_name": "Life After People",
       "start_time": "03:02 PM",
       "end_time": "03:46 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23773399_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30347948_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Forged in Fire: Knife or Death",
@@ -195,10 +195,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15281042_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Forged in Fire: Knife or Death",
+      "show_name": "History's Greatest Escapes With Morgan Freeman",
       "start_time": "04:30 PM",
       "end_time": "05:14 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15934118_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27610698_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "OMG! Yeh Mera India",
@@ -213,16 +213,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p12402611_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "A Taste of Travel",
+      "show_name": "Food Tech",
       "start_time": "06:00 PM",
-      "end_time": "06:25 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16445770_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Shipping Wars",
-      "start_time": "06:25 PM",
       "end_time": "06:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10775456_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p7893292_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Storage Wars",
@@ -252,13 +246,13 @@
       "show_name": "OMG! Yeh Mera India",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28818691_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28600946_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Forged in Fire: Knife or Death",
       "start_time": "09:00 PM",
       "end_time": "09:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15281042_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15934118_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Pawn Stars: Best Of",
@@ -273,16 +267,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30061961_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The UnBelievable With Dan Aykroyd",
+      "show_name": "American Pickers",
       "start_time": "10:40 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28511659_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17647629_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Forged in Fire",
+      "show_name": "Forged in Fire: Beat the Judges",
       "start_time": "11:30 PM",
       "end_time": "12:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25563379_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18415131_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

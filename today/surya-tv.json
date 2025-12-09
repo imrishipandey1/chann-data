@@ -1,6 +1,6 @@
 {
   "channel_name": "Surya TV",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
       "show_name": "Chattambi Paaru",
@@ -51,16 +51,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p21354645_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Mangalyam Thanthunanena",
+      "show_name": "Swayamvarapanthal",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26800025_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29593561_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Swayamvarapanthal",
+      "show_name": "Constable Manju",
       "start_time": "04:30 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29593561_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28958080_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Prema Pooja",
@@ -75,16 +75,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30587120_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Celluloid",
+      "show_name": "Laughing Villa",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21522481_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Miracle in Rosary",
-      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12947578_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27991780_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -105,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30304595_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Charulatha: The Twins",
+      "show_name": "Bhagya Devatha",
       "start_time": "08:30 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10741326_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14364721_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -159,10 +153,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29018885_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Annan Thambi",
+      "show_name": "Kilukkam Kilukilukkam",
       "start_time": "03:30 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15157835_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Peythozhiyathe",

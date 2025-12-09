@@ -1,7 +1,13 @@
 {
   "channel_name": "Colors Kannada",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
+    {
+      "show_name": "Sri Gandhada Gudi",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
+    },
     {
       "show_name": "Muddu Sose",
       "start_time": "01:00 AM",
@@ -117,16 +123,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30380524_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bigg Boss Kannada",
+      "show_name": "Bhargavi LLB",
       "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29626705_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "12:00 PM",
       "end_time": "01:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Shantham Paapam",
+      "show_name": "Shantam Paapam",
       "start_time": "01:30 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29731915_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Shantam Paapam",
@@ -141,8 +153,14 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31372046_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Bigg Boss Kannada",
+      "show_name": "Nandagokula",
       "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30380524_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bigg Boss Kannada",
+      "start_time": "04:30 PM",
       "end_time": "06:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23699481_b_h9_ah.jpg?lock=880x660"
     },

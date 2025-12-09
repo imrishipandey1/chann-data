@@ -1,24 +1,24 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Jackson Durai",
-      "start_time": "12:43 AM",
-      "end_time": "02:38 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13034777_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Marainthirunthu Paarkum Marmam Enna",
+      "start_time": "01:12 AM",
+      "end_time": "02:44 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29240391_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Burma",
-      "start_time": "02:38 AM",
-      "end_time": "03:53 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12025336_b_h9_ac.jpg?lock=880x660"
+      "show_name": "Directer Cut",
+      "start_time": "02:44 AM",
+      "end_time": "02:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039007_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Yeh Kaisi Anhoni",
-      "start_time": "03:53 AM",
+      "show_name": "Issaq",
+      "start_time": "02:45 AM",
       "end_time": "04:59 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19461638_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p12563929_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Teleshopping",
@@ -27,52 +27,46 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p501178_b_h9_am.jpg?lock=880x660"
     },
     {
-      "show_name": "Saravanan Irukka Bayamaen",
+      "show_name": "Madha Mathu Manasi",
       "start_time": "06:29 AM",
-      "end_time": "08:38 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14132631_b_h9_aa.jpg?lock=880x660"
+      "end_time": "08:34 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14921572_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Phool Aur Kaante",
-      "start_time": "08:38 AM",
-      "end_time": "11:54 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p177843_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Lal Badshah",
+      "start_time": "08:34 AM",
+      "end_time": "11:50 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Naagmati",
-      "start_time": "11:54 AM",
-      "end_time": "02:01 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25791875_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Seetimaarr",
+      "start_time": "11:50 AM",
+      "end_time": "02:09 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21962648_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Raju Gari Gadhi",
-      "start_time": "02:01 PM",
-      "end_time": "04:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12278522_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Rajadhi Raja",
+      "start_time": "02:09 PM",
+      "end_time": "04:24 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21370816_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jaya Janaki Nayaka",
-      "start_time": "04:20 PM",
-      "end_time": "06:58 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14408699_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Maruthu",
+      "start_time": "04:24 PM",
+      "end_time": "06:59 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12906588_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Ism",
-      "start_time": "06:58 PM",
-      "end_time": "08:51 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13390660_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Poojai",
+      "start_time": "06:59 PM",
+      "end_time": "09:54 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11188899_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Velaiilla Pattadhari",
-      "start_time": "08:51 PM",
-      "end_time": "11:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12463508_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Paisa",
-      "start_time": "11:15 PM",
-      "end_time": "01:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17132225_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Baasha",
+      "start_time": "09:54 PM",
+      "end_time": "12:09 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10048677_b_h9_ad.jpg?lock=880x660"
     }
   ]
 }

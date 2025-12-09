@@ -1,12 +1,36 @@
 {
   "channel_name": "ETV Plus",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Fun Raja Fun",
+      "show_name": "Swathi Chinukulu",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21508418_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Samrat Ashoka",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031723_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Manasu Mamatha",
       "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Yamaleela",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31322069_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sridevi Drama Company",
+      "start_time": "02:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31271460_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27031750_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Saragala Pallaki",
@@ -33,16 +57,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p23676446_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Soundarya Lahari",
+      "show_name": "Jabardast",
       "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29267014_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29173787_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Manchirojulu Vachai",
+      "show_name": "Vachadayyo Swamy",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27121873_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28890893_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sumangali",
@@ -81,10 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31322069_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shri Rajeshwari Vilas Coffee Club",
+      "show_name": "Ugadi",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15785495_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29105347_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Sridevi Drama Company",
@@ -93,16 +117,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27031750_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jabardast",
+      "show_name": "House Full Show",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29173787_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Anna Thammudu",
+      "show_name": "Ajeyudu",
       "start_time": "09:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14319058_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

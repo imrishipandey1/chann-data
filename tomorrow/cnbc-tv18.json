@@ -1,6 +1,6 @@
 {
   "channel_name": "CNBC TV18",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "The Exchange",
@@ -99,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617351_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "MF Corner",
+      "show_name": "Your Stocks",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617329_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617838_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "NSE Closing Bell",
@@ -111,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "NSE Closing Bell",
+      "show_name": "Investment Guide",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617242_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "After The Bell",
@@ -135,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Investing Edge",
+      "show_name": "CNBC-TV18 Special",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617739_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Reporter's Diary",

@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Gujarati Cinema",
-  "date": "December 08, 2025",
+  "date": "December 09, 2025",
   "schedule": [
     {
-      "show_name": "Kachi Mati Na Kodiya",
+      "show_name": "Kanku Pagla",
       "start_time": "12:00 AM",
       "end_time": "12:10 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26578574_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Preet Kare Ae Jaane",
+      "show_name": "Saajan Haiye Sambhare",
       "start_time": "12:10 AM",
-      "end_time": "02:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28810097_b_h9_ab.jpg?lock=880x660"
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22564599_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Desi Beats",
-      "start_time": "02:10 AM",
-      "end_time": "05:25 AM",
+      "start_time": "02:30 AM",
+      "end_time": "05:10 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Aanganiya Sajavo Raaj",
-      "start_time": "05:25 AM",
+      "show_name": "Hu Tu Ne Ramtudi",
+      "start_time": "05:10 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24807574_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17229781_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Desi Beats",
       "start_time": "08:00 AM",
-      "end_time": "10:35 AM",
+      "end_time": "10:55 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Sathiya Puravo Ho Raj",
-      "start_time": "10:35 AM",
-      "end_time": "01:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20247826_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Alakh Niranjan",
+      "start_time": "10:55 AM",
+      "end_time": "01:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18901314_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kesuda No Rang",
-      "start_time": "01:35 PM",
-      "end_time": "04:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p156484_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Bhagat Narsih Mahta",
+      "start_time": "01:45 PM",
+      "end_time": "04:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23575002_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahisagar Na Saugandh",
-      "start_time": "04:15 PM",
+      "show_name": "Marad No Mandvo",
+      "start_time": "04:20 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21349333_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22728108_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Vaav",
+      "show_name": "Lakho Vanzaro",
       "start_time": "07:00 PM",
-      "end_time": "09:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19757849_v_h9_aa.jpg?lock=880x660"
+      "end_time": "09:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30021494_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kanku Pagla",
-      "start_time": "09:20 PM",
+      "show_name": "Maa Vina Suno Sansar",
+      "start_time": "09:40 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26578574_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17651715_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }
