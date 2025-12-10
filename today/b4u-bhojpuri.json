@@ -1,16 +1,16 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:39 AM",
-      "end_time": "02:39 AM",
+      "start_time": "01:19 AM",
+      "end_time": "02:18 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:39 AM",
+      "start_time": "02:18 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
@@ -21,46 +21,46 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Meri Saas Pehle Aap",
+      "show_name": "Aisa Pati Mujhe De Bhagwan",
       "start_time": "07:00 AM",
-      "end_time": "09:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29367605_b_h9_aa.jpg?lock=880x660"
+      "end_time": "09:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29346254_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sasural Ke Gulam",
-      "start_time": "09:25 AM",
+      "show_name": "Naihar Sasural",
+      "start_time": "09:35 AM",
       "end_time": "12:09 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29346238_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31469759_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hum Haien Jethani",
+      "show_name": "Chattori Bahu",
       "start_time": "12:09 PM",
-      "end_time": "02:47 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "end_time": "03:07 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29367634_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Cycle Wali Didi",
-      "start_time": "02:47 PM",
-      "end_time": "05:31 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31316942_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Devrani Jethani",
+      "start_time": "03:07 PM",
+      "end_time": "05:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29284118_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Duaah Biyah",
-      "start_time": "05:31 PM",
-      "end_time": "08:09 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29346307_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Bhar Da Aacharva Hamar Ae Chhathi Maiya",
+      "start_time": "05:35 PM",
+      "end_time": "08:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29346440_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dulhan Aur Dahej",
-      "start_time": "08:09 PM",
-      "end_time": "10:46 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30144590_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Masoom Housewife",
+      "start_time": "08:10 PM",
+      "end_time": "11:12 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30642106_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kachche Dhaage",
-      "start_time": "10:46 PM",
-      "end_time": "01:19 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22565013_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Preetam Pyare",
+      "start_time": "11:12 PM",
+      "end_time": "01:21 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29433318_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

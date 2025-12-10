@@ -1,6 +1,6 @@
 {
   "channel_name": "ETV Plus",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Swathi Chinukulu",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Avunu Valliddaru Godava Paddaaru",
+      "show_name": "Srikanaka Mahalaxmi Lucky Draw Event",
       "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17337123_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28654978_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sumangali",
@@ -105,10 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31322069_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mantri Gari Viyyankudu",
+      "show_name": "Neti Siddhartha",
       "start_time": "03:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27948252_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14601149_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sridevi Drama Company",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31432806_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Agni Gundam",
+      "show_name": "Premalo Pavani Kalyan",
       "start_time": "09:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14340424_v_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14695914_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

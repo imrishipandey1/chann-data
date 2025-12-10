@@ -1,12 +1,12 @@
 {
   "channel_name": "Alankar",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Ete Dusta Tame Kebethu Hela",
+      "show_name": "Gana Duskarma",
       "start_time": "01:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29030055_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29879373_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Stars Choice",
@@ -27,10 +27,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hasiba Puni Mo Suna Sansar",
+      "show_name": "Pahili Raja",
       "start_time": "07:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29562736_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29119426_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "MORNING SHOW",
@@ -39,22 +39,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28820632_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hela Mate Prema Jara",
+      "show_name": "Ishq Puni Thare",
       "start_time": "11:00 AM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29267117_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29029444_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Lagaam",
+      "show_name": "Love Master",
       "start_time": "02:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30360055_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29029465_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kichhi Khata Kichhi Mitha",
+      "show_name": "Kie Daba Takkar",
       "start_time": "05:00 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30197306_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29029615_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tele Shopping",
@@ -63,7 +63,7 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "E Sindura 100 Janmara",
+      "show_name": "Bhulija Jaha Bhul Heichi",
       "start_time": "08:00 PM",
       "end_time": "01:00 AM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"

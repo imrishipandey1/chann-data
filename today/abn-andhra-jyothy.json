@@ -1,6 +1,6 @@
 {
   "channel_name": "ABN Andhra Jyothy",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Midnight News Live",
@@ -75,10 +75,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29144198_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Speed News Live",
+      "show_name": "Speed News",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28889144_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29388114_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chitrajyothy",
@@ -99,16 +99,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191614_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN#BREAK@FAST Live",
+      "show_name": "Abn # Break @ Fast",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29190714_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30915370_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN#BREAK@FAST Live",
+      "show_name": "Abn # Break @ Fast",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29190714_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30915370_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "ABN @ 9 AM Live",
@@ -117,28 +117,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29190704_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN @ 9 AM Live",
+      "show_name": "Abn Business",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29190704_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "ABN Prime Time Live",
+      "show_name": "ABN News",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191141_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Spotlight Live",
+      "show_name": "Spotlight",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191386_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28722002_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN News",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "ABN Signature",
@@ -147,22 +147,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191156_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "News At Noon Live",
+      "show_name": "ABN News",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191689_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News At Noon Live",
+      "show_name": "ABN News",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191689_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN Lunch Box Live",
+      "show_name": "ABN News",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191106_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "ADVT RJR Herbal (Slot)",
@@ -171,46 +171,46 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191306_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN News",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN Bits Live",
+      "show_name": "Abn Business",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191029_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN News",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tech Today",
+      "show_name": "ABN News",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21724310_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "ABN News Live",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "ABN Express (Local to Global) Live",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29191086_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "Spotlight",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28722002_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "ABN News",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Inside",
@@ -219,40 +219,40 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191614_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN News",
       "start_time": "06:00 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN News",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Live",
+      "show_name": "The Debate",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191468_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26741135_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Live",
+      "show_name": "The Debate",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191468_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26741135_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "The Debate Live",
+      "show_name": "The Debate",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191468_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26741135_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN Signature Live",
+      "show_name": "ABN Signature",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191168_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191156_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "News Dine @ Nine Live",
@@ -267,10 +267,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191709_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Citylights Live",
+      "show_name": "Red Alert",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191357_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p10892113_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Chitrajyothy",
@@ -279,10 +279,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191334_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "ABN News Live",
+      "show_name": "ABN News",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191130_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29191125_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rapid Fire",

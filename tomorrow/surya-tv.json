@@ -1,6 +1,6 @@
 {
   "channel_name": "Surya TV",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Chattambi Paaru",
@@ -99,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30304595_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Police Maman",
+      "show_name": "Nirnayam",
       "start_time": "08:30 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20920339_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18421422_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -153,10 +153,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29018885_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Kettyolaanu Ente Malakha",
+      "show_name": "Kangaroo",
       "start_time": "03:30 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26561123_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20662493_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Peythozhiyathe",

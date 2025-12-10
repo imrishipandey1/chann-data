@@ -1,6 +1,6 @@
 {
   "channel_name": "Kolkata TV",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Chaturtho Stamva",
@@ -225,10 +225,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935570_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sera 10",
+      "show_name": "Sera 100",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28950690_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28619695_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Sangbad Saradin",

@@ -1,6 +1,6 @@
 {
   "channel_name": "Sun TV",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Nagaichuvai Gallatta",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29836359_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Durga",
+      "show_name": "Engal Aasan",
       "start_time": "03:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14202821_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11352871_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "News",

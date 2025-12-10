@@ -1,60 +1,60 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Thadam",
+      "show_name": "Amaran",
       "start_time": "01:10 AM",
-      "end_time": "03:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16634397_b_h9_ab.jpg?lock=880x660"
+      "end_time": "04:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28588555_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Mere Baap Pehle Aap",
-      "start_time": "03:20 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8239215_b_h9_ac.jpg?lock=880x660"
+      "show_name": "Pankh",
+      "start_time": "04:10 AM",
+      "end_time": "05:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8416745_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Gaslight",
-      "start_time": "06:00 AM",
-      "end_time": "08:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24464546_b_h9_af.jpg?lock=880x660"
+      "show_name": "Gully Rowdy",
+      "start_time": "05:30 AM",
+      "end_time": "07:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20647249_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Subham",
-      "start_time": "08:10 AM",
-      "end_time": "10:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30175542_v_h9_aa.jpg?lock=880x660"
+      "show_name": "L2: Empuraan",
+      "start_time": "07:25 AM",
+      "end_time": "11:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29792031_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Munjya",
-      "start_time": "10:55 AM",
-      "end_time": "01:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27543903_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Main Hoon Surya Singham 2",
+      "start_time": "11:20 AM",
+      "end_time": "02:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10994450_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Surya's Saturday",
-      "start_time": "01:15 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28023930_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Baaghi 3",
+      "start_time": "02:20 PM",
+      "end_time": "05:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17542689_b_h9_ag.jpg?lock=880x660"
     },
     {
-      "show_name": "Shershaah",
-      "start_time": "05:00 PM",
+      "show_name": "Guardian",
+      "start_time": "05:45 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20487415_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27754892_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Alluri",
+      "show_name": "Mega Star God Father",
       "start_time": "07:50 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23022277_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23063414_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Power Unlimited",
+      "show_name": "Mawali Raaj",
       "start_time": "10:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13063660_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30026240_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Jhanak",
@@ -107,20 +107,20 @@
     {
       "show_name": "Ghum Hai Kisikey Pyaar Meiin",
       "start_time": "01:30 PM",
-      "end_time": "06:30 PM",
+      "end_time": "06:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p18882414_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "To Be Announced",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p514472_b_h9_dp.jpg?lock=880x660"
+      "show_name": "Maana Ke Hum Yaar Nahi",
+      "start_time": "06:50 PM",
+      "end_time": "07:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Maana Ke Hum Yaar Nahi",
-      "start_time": "07:00 PM",
+      "show_name": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "start_time": "07:10 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Shehzaadi... Hai Tu Dil Ki",

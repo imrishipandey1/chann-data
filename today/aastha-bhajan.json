@@ -1,6 +1,6 @@
 {
   "channel_name": "Aastha Bhajan",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
       "show_name": "Kishanbhaiya Sirsawale",
@@ -33,16 +33,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p868408_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Giri Bapu",
+      "show_name": "Aastha Bhajan Special",
       "start_time": "03:00 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8536276_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Pujya Sanjeev Krishna Thakurji",
+      "show_name": "Aastha Bhajan Special",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Jinchandraji Maharaj",
@@ -149,12 +149,6 @@
     {
       "show_name": "Aastha Bhajan Special",
       "start_time": "01:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aastha Bhajan Special",
-      "start_time": "04:00 PM",
       "end_time": "07:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
     },

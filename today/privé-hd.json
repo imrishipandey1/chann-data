@@ -1,76 +1,76 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
-      "show_name": "Return of Wu Kong",
-      "start_time": "12:33 AM",
-      "end_time": "01:56 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19853018_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Alien Invasion",
+      "start_time": "12:16 AM",
+      "end_time": "01:44 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29876401_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Matchless Mulan",
-      "start_time": "01:56 AM",
-      "end_time": "03:26 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19742000_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Huge Shark",
+      "start_time": "01:44 AM",
+      "end_time": "02:53 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24088821_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "03:26 AM",
-      "end_time": "05:23 AM",
+      "start_time": "02:53 AM",
+      "end_time": "04:59 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dance With Me",
-      "start_time": "05:23 AM",
-      "end_time": "06:08 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19074508_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Underworld: Rise of the Lycans",
+      "start_time": "04:59 AM",
+      "end_time": "06:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p187411_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "06:08 AM",
-      "end_time": "08:00 AM",
+      "start_time": "06:12 AM",
+      "end_time": "07:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "08:00 AM",
-      "end_time": "09:40 AM",
+      "start_time": "07:40 AM",
+      "end_time": "09:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "09:40 AM",
-      "end_time": "11:15 AM",
+      "start_time": "09:20 AM",
+      "end_time": "10:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:15 AM",
-      "end_time": "01:20 PM",
+      "start_time": "10:50 AM",
+      "end_time": "12:35 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "01:20 PM",
-      "end_time": "02:55 PM",
+      "start_time": "12:35 PM",
+      "end_time": "02:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "02:55 PM",
-      "end_time": "04:20 PM",
+      "start_time": "02:10 PM",
+      "end_time": "04:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "04:20 PM",
-      "end_time": "06:00 PM",
+      "start_time": "04:10 PM",
+      "end_time": "06:05 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "06:00 PM",
+      "start_time": "06:05 PM",
       "end_time": "07:40 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
@@ -83,13 +83,13 @@
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
-      "end_time": "10:45 PM",
+      "end_time": "10:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:45 PM",
-      "end_time": "12:20 AM",
+      "start_time": "10:30 PM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]

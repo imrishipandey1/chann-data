@@ -1,42 +1,18 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 09, 2025",
+  "date": "December 10, 2025",
   "schedule": [
     {
-      "show_name": "Aaviri",
-      "start_time": "01:21 AM",
-      "end_time": "03:03 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29697037_b_h9_ac.jpg?lock=880x660"
+      "show_name": "Sukhee",
+      "start_time": "12:51 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25694558_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Comedy Station",
-      "start_time": "03:03 AM",
-      "end_time": "03:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "03:15 AM",
-      "end_time": "03:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "03:25 AM",
-      "end_time": "03:33 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Extraaa Storiez",
-      "start_time": "03:33 AM",
-      "end_time": "03:54 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Extraaa Storiez",
-      "start_time": "03:54 AM",
+      "show_name": "Resident Evil: Extinction",
+      "start_time": "03:05 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p168193_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
@@ -71,7 +47,7 @@
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
-      "end_time": "12:00 AM",
+      "end_time": "12:27 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660"
     }
   ]

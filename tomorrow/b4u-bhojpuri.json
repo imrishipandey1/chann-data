@@ -1,22 +1,16 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:19 AM",
-      "end_time": "02:18 AM",
+      "start_time": "01:21 AM",
+      "end_time": "02:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:18 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "05:00 AM",
+      "start_time": "02:20 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
