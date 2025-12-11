@@ -1,18 +1,18 @@
 {
   "channel_name": "Aakash Aath",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Angaar",
+      "show_name": "Bolidan",
       "start_time": "12:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9923123_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15225432_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Akashe Superstar",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Radhuni",
@@ -30,7 +30,7 @@
       "show_name": "Khonar Kahini",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485264_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Radhuni",
@@ -48,7 +48,7 @@
       "show_name": "Khonar Kahini",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485264_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Good Morning Aakash",
@@ -66,7 +66,7 @@
       "show_name": "Khonar Kahini",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485264_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Om Sai Ram",
@@ -78,7 +78,7 @@
       "show_name": "Akashe Superstar",
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Police Files",
@@ -96,7 +96,7 @@
       "show_name": "Akashe Superstar",
       "start_time": "02:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Aakash Barta",
@@ -105,10 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26769306_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Bolidan",
+      "show_name": "Purushottam",
       "start_time": "03:05 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15225432_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p10042881_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Radhuni",
@@ -138,7 +138,7 @@
       "show_name": "Khonar Kahini",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30485266_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30485264_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Police Files",
@@ -150,7 +150,7 @@
       "show_name": "Akashe Superstar",
       "start_time": "09:30 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26680385_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26680379_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Aakash Barta",

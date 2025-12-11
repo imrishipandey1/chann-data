@@ -1,10 +1,10 @@
 {
   "channel_name": "MTV",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Night Out",
-      "start_time": "12:40 AM",
+      "start_time": "12:30 AM",
       "end_time": "02:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p13802744_b_h9_aa.jpg?lock=880x660"
     },
@@ -45,7 +45,7 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13798836_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Roadies",
+      "show_name": "Roadies Real Heroes",
       "start_time": "11:00 AM",
       "end_time": "11:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23738766_b_h9_aa.jpg?lock=880x660"
@@ -65,38 +65,32 @@
     {
       "show_name": "Roadies",
       "start_time": "02:00 PM",
-      "end_time": "03:20 PM",
+      "end_time": "03:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Roadies",
-      "start_time": "03:20 PM",
-      "end_time": "04:45 PM",
+      "start_time": "03:50 PM",
+      "end_time": "06:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "04:45 PM",
-      "end_time": "06:20 PM",
+      "start_time": "06:00 PM",
+      "end_time": "07:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27085844_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Splitsvilla",
-      "start_time": "06:20 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27085844_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Splitsvilla",
-      "start_time": "08:00 PM",
+      "start_time": "07:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24104681_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27085844_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Splitsvilla",
+      "show_name": "Roadies Real Heroes",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23739137_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23738766_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Date 2 Remember",

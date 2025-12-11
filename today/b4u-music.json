@@ -1,16 +1,16 @@
 {
   "channel_name": "B4U Music",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Bajao",
       "start_time": "12:00 AM",
-      "end_time": "02:00 AM",
+      "end_time": "01:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p209190_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bajao",
-      "start_time": "02:00 AM",
+      "start_time": "01:00 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p209190_b_h9_aa.jpg?lock=880x660"
     },
@@ -78,25 +78,25 @@
       "show_name": "BOOM BOX",
       "start_time": "04:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "BOOM BOX",
       "start_time": "05:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "BOOM BOX",
       "start_time": "06:00 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "BOOM BOX",
       "start_time": "07:00 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8233593_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "SOLID HITS",

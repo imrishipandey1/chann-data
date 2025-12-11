@@ -1,6 +1,6 @@
 {
   "channel_name": "NTV",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "NTV Special",
@@ -114,7 +114,7 @@
       "show_name": "Storyboard",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617579_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617579_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News 360",
@@ -258,7 +258,7 @@
       "show_name": "Storyboard",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617579_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617579_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News 360",

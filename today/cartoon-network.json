@@ -1,6 +1,6 @@
 {
   "channel_name": "Cartoon Network",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Courage the Cowardly Dog",
@@ -191,8 +191,14 @@
     {
       "show_name": "My Hero Academia",
       "start_time": "11:00 PM",
-      "end_time": "12:00 AM",
+      "end_time": "11:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p12793542_b_h9_aj.jpg?lock=880x660"
+    },
+    {
+      "show_name": "My Hero Academia: World Heroes' Mission",
+      "start_time": "11:30 PM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20531600_v_h9_ab.jpg?lock=880x660"
     }
   ]
 }

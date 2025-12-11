@@ -1,18 +1,24 @@
 {
   "channel_name": "Sony AATH",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Teleshopping",
+      "show_name": "CID",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Crime Patrol",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22352387_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23847536_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Crime Patrol",
       "start_time": "02:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9596798_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23847536_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nut Boltu",
@@ -21,22 +27,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22654625_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teleshopping",
+      "show_name": "Movie",
       "start_time": "05:00 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22352387_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Teleshopping",
+      "show_name": "Nix",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22352387_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13225379_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teleshopping",
+      "show_name": "Nix",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22352387_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13225379_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nut Boltu",
@@ -54,19 +60,19 @@
       "show_name": "Gopal Bhar",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22654478_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11899458_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Gopal Bhar",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22654478_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11899458_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Gopal Bhar",
       "start_time": "10:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22654478_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11899458_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Gultemama",
@@ -179,7 +185,7 @@
     {
       "show_name": "CID",
       "start_time": "11:00 PM",
-      "end_time": "01:00 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
     }
   ]

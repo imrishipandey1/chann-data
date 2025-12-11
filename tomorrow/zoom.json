@@ -1,16 +1,10 @@
 {
   "channel_name": "Zoom",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Secrets No More",
-      "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31577958_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Love Cocktail",
-      "start_time": "01:00 AM",
+      "start_time": "12:00 AM",
       "end_time": "02:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25963217_b_h9_aa.jpg?lock=880x660"
     },
@@ -24,7 +18,7 @@
       "show_name": "Beetey Lamhey",
       "start_time": "05:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28569518_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22563863_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "SUNRISE HITS",
@@ -41,14 +35,8 @@
     {
       "show_name": "PYAAR HITS",
       "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30717220_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "ZOOMBASTIC TOP 10",
-      "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28570384_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30717220_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "REQUEST WALA SHOW",
@@ -66,7 +54,7 @@
       "show_name": "Boht Hard",
       "start_time": "04:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28569580_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17356488_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "REQUEST WALA SHOW",
@@ -89,8 +77,14 @@
     {
       "show_name": "Beetey Lamhey",
       "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22563863_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Secrets No More",
+      "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28569518_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31577958_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

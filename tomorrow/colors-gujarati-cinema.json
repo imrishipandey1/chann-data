@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Gujarati Cinema",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Mangal Fera",
+      "show_name": "Ashapura Mata Ni Chundari",
       "start_time": "12:00 AM",
-      "end_time": "12:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26539748_b_h9_aa.jpg?lock=880x660"
+      "end_time": "12:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30899253_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Baliyadev",
-      "start_time": "12:40 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18727805_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Chundadi Ni Laaj",
+      "start_time": "12:05 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17229937_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Desi Beats",
-      "start_time": "03:00 AM",
+      "start_time": "02:00 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Parka Padar Ni Gorande",
+      "show_name": "Retina Ratan",
       "start_time": "05:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19827716_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Desi Beats",
       "start_time": "08:00 AM",
-      "end_time": "10:05 AM",
+      "end_time": "10:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Mare Todle Betho Mor",
-      "start_time": "10:05 AM",
-      "end_time": "12:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18263038_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Vahre Aavo Ma Vaibhav Laxmi",
+      "start_time": "10:00 AM",
+      "end_time": "01:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23027274_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Parki Jani",
-      "start_time": "12:55 PM",
-      "end_time": "04:05 PM",
+      "show_name": "Ramdev Peer No Vivah",
+      "start_time": "01:15 PM",
+      "end_time": "04:15 PM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Shetal Ne Kanthe",
-      "start_time": "04:05 PM",
+      "show_name": "Chello Divas",
+      "start_time": "04:15 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14930853_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p12555415_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Dholi",
+      "show_name": "Dholo Mara Malak No",
       "start_time": "07:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23294043_b_h9_aa.jpg?lock=880x660"
+      "end_time": "09:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17906877_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ashapura Mata Ni Chundari",
-      "start_time": "09:30 PM",
+      "show_name": "Sant Surdas",
+      "start_time": "09:55 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30899253_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16513939_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel_name": "Sony Sports Ten 1",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Snippet",
@@ -9,40 +9,40 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30279686_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Live - Club Brugge vs. Arsenal; UEFA Champions League Football",
+      "show_name": "Live - Celtic vs. AS Roma; UEFA Europa League Soccer",
       "start_time": "01:30 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p3616485_b_h9_bx.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p7942039_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: Group A: India vs Oman; Asia Cup Highlights",
+      "show_name": "2025: Group A: India vs Pakistan; Asia Cup Highlights",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "3rd Test: England vs. India; Test Cricket",
+      "show_name": "4th Test: England vs. India; Test Cricket",
       "start_time": "04:00 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: Super Four: India vs. Bangladesh; Asia Cup Highlights",
+      "show_name": "2025: Super Four: Pakistan vs. Bangladesh; Asia Cup Highlights",
       "start_time": "06:00 AM",
       "end_time": "07:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Club Brugge v Arsenal; UEFA Champions League Football",
+      "show_name": "Celtic vs AS Roma; UEFA Europa League Highlights",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8218144_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p7816710_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Athletic Club v Paris Saint-Germain; UEFA Champions League Football",
+      "show_name": "Internazionale - Liverpool; UEFA Champions League Highlights",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8218144_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p969763_b_h9_ar.jpg?lock=880x660"
     },
     {
       "show_name": "UFC Fight O'clock Alexander Volkanovski",
@@ -51,112 +51,40 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28936618_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: Super Four: Pakistan vs. Bangladesh; Asia Cup Highlights",
+      "show_name": "2025: India A vs. Oman; Asia Cup Rising Stars Cricket Highlights",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "England v India: 3rd ODI; One-Day International Cricket",
-      "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
-    },
-    {
-      "show_name": "New Zealand v India: 5th ODI; One-Day International Cricket",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Club Brugge v Arsenal; UEFA Champions League Football",
-      "start_time": "11:00 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8218144_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "MD 10 - Real Madrid vs Man City; UEFA Champions League Highlights",
-      "start_time": "11:30 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p969763_b_h9_ar.jpg?lock=880x660"
-    },
-    {
-      "show_name": "UFC Fight O'clock Alexander Volkanovski",
-      "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28936618_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "England v India: 3rd ODI; One-Day International Cricket",
-      "start_time": "01:00 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
-    },
-    {
-      "show_name": "2025: Super Four: Pakistan vs. Bangladesh; Asia Cup Highlights",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "2nd Test, Day 1: New Zealand vs. West Indies; Test Cricket",
-      "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "New Zealand v India: 5th ODI; One-Day International Cricket",
-      "start_time": "02:30 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Club Brugge v Arsenal; UEFA Champions League Football",
-      "start_time": "03:30 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8218144_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Athletic Club v Paris Saint-Germain; UEFA Champions League Football",
-      "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8218144_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "5th T20: England v India; Women's T20 Cricket",
-      "start_time": "04:30 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15533178_b_h9_af.jpg?lock=880x660"
-    },
-    {
-      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
-      "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "England v India: 3rd ODI; One-Day International Cricket",
-      "start_time": "05:30 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660"
+      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "09:30 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bayern Munich vs Sporting CP; UEFA Champions League Highlights",
-      "start_time": "06:00 PM",
+      "show_name": "Live - Sports Programme",
+      "start_time": "10:30 AM",
+      "end_time": "02:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27199374_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
+      "start_time": "02:15 PM",
+      "end_time": "02:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Live - Sports Programme",
+      "start_time": "02:45 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p969763_b_h9_ar.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27199374_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: Super Four: India vs. Bangladesh; Asia Cup Highlights",
+      "show_name": "India vs. United Arab Emirates; ACC Men's U19 Asia Cup",
       "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Internazionale - Liverpool; UEFA Champions League Highlights",
-      "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p969763_b_h9_ar.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28888731_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2nd Test, Day 1: New Zealand vs. West Indies; Test Cricket",
@@ -171,10 +99,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30448259_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: India A vs. United Arab Emirates; Asia Cup Rising Stars Cricket Highlights",
+      "show_name": "India vs. United Arab Emirates; ACC Men's U19 Asia Cup",
       "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28888731_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Pakistan vs Malaysia; ACC Men's U19 Asia Cup",
+      "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31664595_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28888731_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "2nd Test, Day 1: New Zealand vs. West Indies; Test Cricket",
@@ -183,22 +117,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "2025: Super Four: India vs. Bangladesh; Asia Cup Highlights",
+      "show_name": "2025: Super Four: Pakistan vs. Bangladesh; Asia Cup Highlights",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25737921_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Snippet",
+      "show_name": "Compaq Cup 2009: New Zealand vs India, 2nd Match; Cricket Highlights",
       "start_time": "11:00 PM",
-      "end_time": "11:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30279686_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Live - Dinamo Zagreb vs. Real Betis; UEFA Europa League Soccer",
-      "start_time": "11:15 PM",
-      "end_time": "01:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7942039_b_h9_af.jpg?lock=880x660"
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660"
     }
   ]
 }

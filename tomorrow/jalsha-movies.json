@@ -1,24 +1,24 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Suryavaanshi...The Family",
-      "start_time": "12:35 AM",
-      "end_time": "02:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29527483_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Daal Bati Churma Chacchori",
+      "start_time": "01:10 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528693_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ek Baazigar",
-      "start_time": "02:45 AM",
+      "show_name": "Jongole Mitin Mashi",
+      "start_time": "03:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29469746_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28502198_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bluff Master",
+      "show_name": "Chaya Manush",
       "start_time": "05:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17211547_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528652_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "1 Ishwar Katha",
@@ -27,40 +27,40 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28205013_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Pathbhola",
+      "show_name": "Tobu Aporichito",
       "start_time": "08:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25788509_b_h9_ab.jpg?lock=880x660"
+      "end_time": "10:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24640931_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Golmaal",
-      "start_time": "10:00 AM",
+      "show_name": "Aschhe Abar Shabor",
+      "start_time": "10:45 AM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25511165_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15250267_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bolo Na Tumi Amar",
+      "show_name": "Hari Pada Bandwala",
       "start_time": "01:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15376104_b_h9_ab.jpg?lock=880x660"
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25528799_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sangram",
-      "start_time": "04:30 PM",
-      "end_time": "07:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25529330_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Power",
+      "start_time": "04:00 PM",
+      "end_time": "07:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25472257_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Devaa",
-      "start_time": "07:45 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25471070_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Achena Atithi",
+      "start_time": "07:15 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11019620_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tumi Ashbe Bole",
-      "start_time": "11:00 PM",
-      "end_time": "01:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21597047_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Parbo Na Ami Chharte Toke",
+      "start_time": "10:30 PM",
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25471221_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

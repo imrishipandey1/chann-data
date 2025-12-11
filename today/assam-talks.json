@@ -1,6 +1,6 @@
 {
   "channel_name": "Assam Talks",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Prime @ 6",
@@ -123,16 +123,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30814338_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Assam Talent Hunt",
+      "show_name": "Hindi Bullet News",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31762725_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31762739_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Assam Talent Hunt",
+      "show_name": "Bixekh Adha Ghonta",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31762725_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31762753_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Breaking News",
@@ -243,28 +243,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26882668_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News & Views",
+      "show_name": "Bartaman",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814472_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30814170_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News & Views",
+      "show_name": "Bartaman",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814472_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30814170_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Prime Hour",
+      "show_name": "Prime Suspect",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814254_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30814485_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Prime Hour",
+      "show_name": "Prime Suspect",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814254_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30814485_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Prime @ Night",
@@ -285,10 +285,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29191773_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News & Views",
+      "show_name": "Bartaman",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814472_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30814170_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

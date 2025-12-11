@@ -1,6 +1,6 @@
 {
   "channel_name": "WION",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Top Stories",
@@ -129,10 +129,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "World of Africa",
+      "show_name": "Wion Wideangle",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23844056_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20728163_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Newspoint",
@@ -189,10 +189,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Top Stories",
+      "show_name": "Prime Crime",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18823437_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Top Stories",
@@ -237,10 +237,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p20728114_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Wion Wideangle",
+      "show_name": "Inside South Asia",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20728163_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23761109_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Race To Power",

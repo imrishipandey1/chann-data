@@ -1,72 +1,66 @@
 {
   "channel_name": "Colors Bangla Cinema",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Badsha: The Don",
+      "show_name": "Bindaas",
       "start_time": "12:00 AM",
-      "end_time": "01:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19527288_b_h9_ac.jpg?lock=880x660"
+      "end_time": "12:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15342936_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chopper",
-      "start_time": "01:35 AM",
+      "show_name": "Katmundu",
+      "start_time": "12:50 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29153033_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14472864_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "03:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
-      "show_name": "Taan",
+      "show_name": "Fight 1:1",
       "start_time": "04:00 AM",
-      "end_time": "05:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19763766_b_h9_aa.jpg?lock=880x660"
+      "end_time": "06:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29218027_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Krishna Bhakta Sudama",
-      "start_time": "05:45 AM",
-      "end_time": "07:35 AM",
+      "show_name": "Kali Sankar",
+      "start_time": "06:45 AM",
+      "end_time": "09:55 AM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Rang Be Rang",
-      "start_time": "07:35 AM",
-      "end_time": "09:50 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Mahaan",
+      "start_time": "09:55 AM",
+      "end_time": "01:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14939136_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Agni Pariksha",
-      "start_time": "09:50 AM",
-      "end_time": "12:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23945126_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Nater Guru",
+      "start_time": "01:05 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25536843_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sneher Protidan",
-      "start_time": "12:55 PM",
-      "end_time": "04:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15809288_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Hirak Jayanti",
-      "start_time": "04:05 PM",
+      "show_name": "Bidroho",
+      "start_time": "03:55 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15163152_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14705655_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Minister Phatakesto",
+      "show_name": "Chhoto Bou",
       "start_time": "07:00 PM",
-      "end_time": "09:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25054193_b_h9_aa.jpg?lock=880x660"
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12031530_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bindaas",
-      "start_time": "09:55 PM",
+      "show_name": "Dui Prithibi",
+      "start_time": "10:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15342936_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23079247_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

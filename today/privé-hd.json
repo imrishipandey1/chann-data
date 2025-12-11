@@ -1,95 +1,101 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Alien Invasion",
-      "start_time": "12:16 AM",
-      "end_time": "01:44 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29876401_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Escape of Shark",
+      "start_time": "12:09 AM",
+      "end_time": "01:16 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24774383_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Huge Shark",
-      "start_time": "01:44 AM",
-      "end_time": "02:53 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24088821_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Horror Shark",
+      "start_time": "01:16 AM",
+      "end_time": "02:32 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22621131_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "02:53 AM",
-      "end_time": "04:59 AM",
+      "start_time": "02:32 AM",
+      "end_time": "04:41 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Underworld: Rise of the Lycans",
-      "start_time": "04:59 AM",
-      "end_time": "06:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p187411_v_h9_aa.jpg?lock=880x660"
+      "show_name": "New Police Story",
+      "start_time": "04:41 AM",
+      "end_time": "06:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p165470_v_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "06:12 AM",
-      "end_time": "07:40 AM",
+      "start_time": "06:05 AM",
+      "end_time": "08:05 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "07:40 AM",
-      "end_time": "09:20 AM",
+      "start_time": "08:05 AM",
+      "end_time": "09:50 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "09:20 AM",
-      "end_time": "10:50 AM",
+      "start_time": "09:50 AM",
+      "end_time": "11:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:50 AM",
-      "end_time": "12:35 PM",
+      "start_time": "11:45 AM",
+      "end_time": "01:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "12:35 PM",
-      "end_time": "02:10 PM",
+      "start_time": "01:10 PM",
+      "end_time": "03:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "02:10 PM",
-      "end_time": "04:10 PM",
+      "start_time": "03:10 PM",
+      "end_time": "04:40 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "04:10 PM",
-      "end_time": "06:05 PM",
+      "start_time": "04:40 PM",
+      "end_time": "06:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "06:05 PM",
-      "end_time": "07:40 PM",
+      "start_time": "06:10 PM",
+      "end_time": "07:45 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "07:40 PM",
+      "start_time": "07:45 PM",
       "end_time": "09:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
-      "end_time": "10:30 PM",
+      "end_time": "10:35 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "10:30 PM",
-      "end_time": "12:00 AM",
+      "start_time": "10:35 PM",
+      "end_time": "11:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "11:45 PM",
+      "end_time": "01:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]

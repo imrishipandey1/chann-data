@@ -1,66 +1,42 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
-      "show_name": "Maanikya",
-      "start_time": "12:09 AM",
-      "end_time": "02:22 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10812806_v_h9_ac.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "02:00 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Directer Cut",
-      "start_time": "02:22 AM",
-      "end_time": "02:23 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29039007_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Yugandhar",
-      "start_time": "02:23 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8218437_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "10:00 AM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Teleshopping",
-      "start_time": "05:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p501178_b_h9_am.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "02:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Teri Meherbaniyan",
-      "start_time": "06:30 AM",
-      "end_time": "09:53 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p129211_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Mard",
-      "start_time": "09:53 AM",
-      "end_time": "01:38 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p164063_v_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Massu Engira Masilamani",
-      "start_time": "01:38 PM",
-      "end_time": "04:09 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14294757_b_h9_ag.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Naan Sigappu Manithan",
-      "start_time": "04:09 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10693082_v_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Pindam",
-      "start_time": "07:00 PM",
-      "end_time": "09:39 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26308992_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Raju Gari Gadhi 2",
-      "start_time": "09:39 PM",
+      "show_name": "Movie",
+      "start_time": "10:00 PM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14664428_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]
 }

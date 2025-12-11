@@ -1,6 +1,6 @@
 {
   "channel_name": "TLC",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Say Yes to the Dress",
@@ -33,22 +33,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p20101613_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Say Yes to the Dress",
+      "show_name": "Say Yes to the Dress UK",
       "start_time": "03:00 AM",
+      "end_time": "03:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress UK",
+      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "90 Day: The Single Life",
+      "show_name": "90 Day Fiancé: The Other Way",
       "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19507036_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Virgins",
-      "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30170388_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23894583_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Food Paradise",
@@ -153,10 +153,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Say Yes to the Dress",
+      "show_name": "Say Yes to the Dress UK",
       "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Say Yes to the Dress UK",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17777078_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "Cake Boss",
@@ -171,16 +177,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rental Redo",
+      "show_name": "Design Down Under",
       "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21299439_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Point of View: A Designer Profile",
-      "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20101613_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25336906_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Say Yes to the Dress UK",

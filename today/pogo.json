@@ -1,6 +1,6 @@
 {
   "channel_name": "Pogo",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Smaashhing Simmba",
@@ -177,22 +177,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Little Singham Aur Pyramids Ka Rehasya",
+      "show_name": "Krishna Aur Kans",
       "start_time": "01:30 PM",
-      "end_time": "02:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22128074_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Little Singham",
-      "start_time": "02:15 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16326968_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Little Singham Ke Rock N Roll Adventures",
-      "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22092704_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9577014_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Grizzy and the Lemmings",
@@ -237,10 +225,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p16715588_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Mighty Little Bheem: Festival of Colors",
+      "show_name": "Mighty Little Bheem",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18003263_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16715592_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mighty Little Bheem",
@@ -255,22 +243,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p16715588_b_h9_ah.jpg?lock=880x660"
     },
     {
-      "show_name": "Yam Yam Yamraj",
+      "show_name": "Ls.Comedy Dhan Dhana Dhan",
       "start_time": "08:30 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22121808_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Little Singham in Ajooba Gajooba",
+      "show_name": "Little Singham",
       "start_time": "09:30 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28954916_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Little Singham - Ajooba Gajooba Returns",
-      "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28954960_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16326968_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chhota Bheem",

@@ -1,66 +1,66 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:19 AM",
-      "end_time": "02:18 AM",
+      "start_time": "01:21 AM",
+      "end_time": "02:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:18 AM",
+      "start_time": "02:20 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "07:00 AM",
+      "end_time": "06:37 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aisa Pati Mujhe De Bhagwan",
-      "start_time": "07:00 AM",
-      "end_time": "09:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29346254_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Ghoonghat Wali Superstar",
+      "start_time": "06:37 AM",
+      "end_time": "09:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29986136_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Naihar Sasural",
-      "start_time": "09:35 AM",
-      "end_time": "12:09 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31469759_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Saas Ki Saas Banugi Main",
+      "start_time": "09:12 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29202719_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Chattori Bahu",
-      "start_time": "12:09 PM",
-      "end_time": "03:07 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29367634_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Badhaiya Baje More Angana",
+      "start_time": "12:00 PM",
+      "end_time": "02:41 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169087_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Devrani Jethani",
-      "start_time": "03:07 PM",
-      "end_time": "05:35 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29284118_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Gujarati Bahu",
+      "start_time": "02:41 PM",
+      "end_time": "05:29 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30745535_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhar Da Aacharva Hamar Ae Chhathi Maiya",
-      "start_time": "05:35 PM",
-      "end_time": "08:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29346440_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Hum Haien Jethani",
+      "start_time": "05:29 PM",
+      "end_time": "07:58 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Masoom Housewife",
-      "start_time": "08:10 PM",
-      "end_time": "11:12 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30642106_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Gawanwa Ke Saari",
+      "start_time": "07:58 PM",
+      "end_time": "10:33 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169052_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Preetam Pyare",
-      "start_time": "11:12 PM",
-      "end_time": "01:21 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29433318_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Shaadi Hoto Aisi",
+      "start_time": "10:33 PM",
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29510286_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

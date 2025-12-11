@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Bangla",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Jai Jagannath",
@@ -12,7 +12,7 @@
       "show_name": "Shiv Shakti",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhak Bamakhyapa",
@@ -24,19 +24,19 @@
       "show_name": "Shiv Shakti",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
       "show_name": "Swapnodana",
       "start_time": "03:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19655353_b_h9_ak.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19655343_b_h9_as.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
       "start_time": "05:00 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhak Bamakhyapa",
@@ -93,10 +93,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chandra Mallika",
+      "show_name": "Nawab Nandini",
       "start_time": "02:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27888761_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhak Bamakhyapa",
@@ -114,13 +120,13 @@
       "show_name": "Shiv Shakti",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24938242_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
       "show_name": "Swapnodana",
       "start_time": "08:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19655353_b_h9_ak.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19655343_b_h9_as.jpg?lock=880x660"
     },
     {
       "show_name": "Tumii Je Amar Maa",

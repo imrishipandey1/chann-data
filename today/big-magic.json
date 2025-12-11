@@ -1,22 +1,22 @@
 {
   "channel_name": "BIG Magic",
-  "date": "December 10, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "12:00 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15878762_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15878762_b_h9_aa.jpg?lock=880x660"
+      "end_time": "02:09 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Zindagi Ki Mehek",
-      "start_time": "02:00 AM",
+      "start_time": "02:09 AM",
       "end_time": "03:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p13320754_b_h9_ab.jpg?lock=880x660"
     },
@@ -29,12 +29,12 @@
     {
       "show_name": "Zindagi Ki Mehek",
       "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
+      "end_time": "05:05 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p13320754_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Paramavatar Shri Krishna",
-      "start_time": "05:00 AM",
+      "start_time": "05:05 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"
     },
@@ -42,25 +42,25 @@
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Teleshopping",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29884773_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27557177_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bhor Bhakti Songs",
@@ -84,13 +84,13 @@
       "show_name": "Baal Shiv",
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21430588_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20564403_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Baal Shiv",
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21430588_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20564403_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Dance India Dance",
@@ -108,19 +108,19 @@
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "02:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15878762_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "03:00 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15878762_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "04:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15878762_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Zindagi Ki Mehek",
@@ -150,31 +150,31 @@
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723391_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15878762_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     }
   ]
 }

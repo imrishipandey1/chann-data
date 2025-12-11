@@ -1,6 +1,6 @@
 {
   "channel_name": "Aaj Tak",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Non-Stop 100",
@@ -174,7 +174,7 @@
       "show_name": "Shatak Aajtak",
       "start_time": "10:55 AM",
       "end_time": "11:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13219581_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13219581_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Aur Ek Gyarah",
@@ -204,13 +204,13 @@
       "show_name": "Breaking News",
       "start_time": "12:10 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23662638_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23662638_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Breaking News",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23662638_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23662638_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Non-Stop 100",
@@ -294,7 +294,7 @@
       "show_name": "Vishesh",
       "start_time": "07:30 PM",
       "end_time": "07:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p311517_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p311517_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
