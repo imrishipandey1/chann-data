@@ -1,6 +1,6 @@
 {
   "channel_name": "KM News",
-  "date": "December 09, 2025",
+  "date": "December 11, 2025",
   "schedule": [
     {
       "show_name": "News",
@@ -102,12 +102,6 @@
       "show_name": "News",
       "start_time": "4:00 PM",
       "end_time": "5:00 PM",
-      "show_logo": ""
-    },
-    {
-      "show_name": "News",
-      "start_time": "5:00 PM",
-      "end_time": "6:00 PM",
       "show_logo": ""
     },
     {
