@@ -1,36 +1,18 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Dushmano Ka Dushman",
-      "start_time": "01:09 AM",
-      "end_time": "03:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14139337_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Pati Patni Aur Woh",
+      "start_time": "12:52 AM",
+      "end_time": "02:53 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17661756_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Comedy Station",
-      "start_time": "03:10 AM",
-      "end_time": "03:19 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "03:19 AM",
-      "end_time": "03:32 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "03:32 AM",
-      "end_time": "03:47 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Comedy Station",
-      "start_time": "03:47 AM",
+      "show_name": "Apradhi Kaun?",
+      "start_time": "02:53 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24461634_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15168346_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
@@ -65,7 +47,7 @@
     {
       "show_name": "Movie",
       "start_time": "09:00 PM",
-      "end_time": "01:08 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]

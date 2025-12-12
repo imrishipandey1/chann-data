@@ -1,46 +1,40 @@
 {
   "channel_name": "Zee TV",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "12:03 AM",
-      "end_time": "12:25 AM",
+      "start_time": "12:04 AM",
+      "end_time": "12:26 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31048787_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jaane Anjaane Hum Mile",
-      "start_time": "12:25 AM",
-      "end_time": "12:50 AM",
+      "start_time": "12:26 AM",
+      "end_time": "12:52 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28717999_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Tum Se Tum Tak",
-      "start_time": "12:50 AM",
-      "end_time": "01:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Tum Se Tum Tak",
-      "start_time": "01:15 AM",
-      "end_time": "01:35 AM",
+      "start_time": "12:52 AM",
+      "end_time": "01:36 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "01:35 AM",
-      "end_time": "01:59 AM",
+      "start_time": "01:36 AM",
+      "end_time": "02:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31048787_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Vasudha",
-      "start_time": "01:59 AM",
-      "end_time": "02:23 AM",
+      "start_time": "02:00 AM",
+      "end_time": "02:24 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28225153_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "02:23 AM",
+      "start_time": "02:24 AM",
       "end_time": "02:47 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28306541_b_h9_ab.jpg?lock=880x660"
     },
@@ -63,20 +57,20 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28225153_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Baba Ramdev",
+      "show_name": "Baba Ramdev Ka Yog",
       "start_time": "04:00 AM",
       "end_time": "04:49 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p582356_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8521168_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tum Se Tum Tak",
       "start_time": "04:49 AM",
-      "end_time": "05:12 AM",
+      "end_time": "05:13 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Jagriti - Ek Nayi Subah",
-      "start_time": "05:12 AM",
+      "start_time": "05:13 AM",
       "end_time": "05:37 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28306541_b_h9_ab.jpg?lock=880x660"
     },
@@ -114,7 +108,7 @@
       "show_name": "Jagadhatri",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28145718_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31685189_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
@@ -138,7 +132,7 @@
       "show_name": "Jagadhatri",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28145718_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31685189_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",
@@ -162,7 +156,7 @@
       "show_name": "Jagadhatri",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28145718_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31685189_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ganga Mai Ki Betiyaan",

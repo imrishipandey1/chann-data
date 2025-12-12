@@ -1,6 +1,6 @@
 {
   "channel_name": "Sony AATH",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "CID",
@@ -12,13 +12,13 @@
       "show_name": "Crime Patrol",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23847536_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9596798_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Crime Patrol",
       "start_time": "02:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23847536_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9596798_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Nut Boltu",

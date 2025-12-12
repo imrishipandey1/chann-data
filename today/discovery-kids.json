@@ -1,6 +1,6 @@
 {
   "channel_name": "Discovery Kids",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Kris Roll No 21",
@@ -30,7 +30,7 @@
       "show_name": "Smaashhing Simmba",
       "start_time": "01:00 AM",
       "end_time": "01:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27642204_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Smaashhing Simmba",
@@ -51,10 +51,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ls Sher Aur Savvasher Birthday Twist",
+      "show_name": "Smaashhing Simmba",
       "start_time": "01:48 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fukrey Boyzzz",
+      "start_time": "02:00 AM",
+      "end_time": "02:12 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fukrey Boyzzz",
+      "start_time": "02:12 AM",
+      "end_time": "02:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fukrey Boyzzz",
+      "start_time": "02:24 AM",
       "end_time": "02:36 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30911487_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
@@ -72,55 +90,79 @@
       "show_name": "Smaashhing Simmba",
       "start_time": "03:00 AM",
       "end_time": "03:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27642204_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
+      "show_name": "Baby Little Singham",
       "start_time": "03:12 AM",
-      "end_time": "03:24 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "end_time": "03:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "03:24 AM",
+      "show_name": "Baby Little Singham",
+      "start_time": "03:20 AM",
+      "end_time": "03:28 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baby Little Singham",
+      "start_time": "03:28 AM",
       "end_time": "03:36 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
+      "show_name": "Baby Little Singham",
       "start_time": "03:36 AM",
-      "end_time": "03:48 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "end_time": "03:44 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "03:48 AM",
+      "show_name": "Baby Little Singham",
+      "start_time": "03:44 AM",
+      "end_time": "03:52 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baby Little Singham",
+      "start_time": "03:52 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
+      "show_name": "Baby Little Singham",
       "start_time": "04:00 AM",
-      "end_time": "04:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "end_time": "04:08 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "04:12 AM",
+      "show_name": "Baby Little Singham",
+      "start_time": "04:08 AM",
+      "end_time": "04:16 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baby Little Singham",
+      "start_time": "04:16 AM",
       "end_time": "04:24 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
+      "show_name": "Baby Little Singham",
       "start_time": "04:24 AM",
-      "end_time": "04:36 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "end_time": "04:32 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Smaashhing Simmba",
-      "start_time": "04:36 AM",
+      "show_name": "Baby Little Singham",
+      "start_time": "04:32 AM",
+      "end_time": "04:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baby Little Singham",
+      "start_time": "04:40 AM",
       "end_time": "04:48 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23765022_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22518265_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Smaashhing Simmba",
@@ -198,253 +240,247 @@
       "show_name": "Titoo",
       "start_time": "07:40 AM",
       "end_time": "07:51 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "07:51 AM",
       "end_time": "08:02 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "08:02 AM",
       "end_time": "08:31 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
       "start_time": "08:31 AM",
       "end_time": "08:43 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
       "start_time": "08:43 AM",
       "end_time": "08:56 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22122121_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
       "start_time": "08:56 AM",
       "end_time": "09:23 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22122121_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
       "start_time": "09:23 AM",
       "end_time": "09:36 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22122121_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Fukrey Boyzzz",
+      "show_name": "Aasman Se Tapkey Pajama Island Mein Atke",
       "start_time": "09:36 AM",
-      "end_time": "09:47 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Fukrey Boyzzz",
-      "start_time": "09:47 AM",
-      "end_time": "09:58 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Fukrey Boyzzz",
-      "start_time": "09:58 AM",
-      "end_time": "10:11 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Fukrey Boyzzz",
-      "start_time": "10:11 AM",
       "end_time": "10:23 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21985584_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
       "start_time": "10:23 AM",
       "end_time": "10:34 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22122121_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "10:34 AM",
       "end_time": "11:01 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "11:01 AM",
       "end_time": "11:28 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "11:28 AM",
       "end_time": "11:39 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "11:39 AM",
       "end_time": "11:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "11:50 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "12:00 PM",
       "end_time": "12:11 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "12:11 PM",
       "end_time": "12:22 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "12:22 PM",
       "end_time": "12:34 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "12:34 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "01:00 PM",
       "end_time": "01:27 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "01:27 PM",
-      "end_time": "01:51 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26974798_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Titoo",
-      "start_time": "01:51 PM",
       "end_time": "02:03 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "02:03 PM",
-      "end_time": "03:15 PM",
+      "end_time": "02:27 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26974798_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Titoo",
+      "start_time": "02:27 PM",
+      "end_time": "02:51 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31074816_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Titoo",
+      "start_time": "02:51 PM",
+      "end_time": "03:03 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Titoo",
+      "start_time": "03:03 PM",
+      "end_time": "03:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "03:15 PM",
       "end_time": "03:25 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26974808_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27982063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "03:25 PM",
       "end_time": "03:54 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "03:54 PM",
       "end_time": "04:21 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "04:21 PM",
       "end_time": "04:33 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "04:33 PM",
       "end_time": "04:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "04:45 PM",
       "end_time": "04:57 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "04:57 PM",
       "end_time": "05:08 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "05:08 PM",
       "end_time": "05:19 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "05:19 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29329295_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "05:30 PM",
       "end_time": "05:41 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "05:41 PM",
       "end_time": "05:52 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "05:52 PM",
       "end_time": "06:03 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "06:03 PM",
       "end_time": "06:14 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "06:14 PM",
       "end_time": "06:25 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "06:25 PM",
       "end_time": "06:36 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "06:36 PM",
       "end_time": "07:03 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "07:03 PM",
       "end_time": "07:28 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
@@ -455,68 +491,44 @@
     {
       "show_name": "Titoo",
       "start_time": "07:51 PM",
-      "end_time": "08:02 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "end_time": "08:11 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31074816_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Titoo",
-      "start_time": "08:02 PM",
-      "end_time": "08:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Titoo",
-      "start_time": "08:15 PM",
-      "end_time": "08:47 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Titoo",
-      "start_time": "08:47 PM",
-      "end_time": "08:58 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Titoo",
-      "start_time": "08:58 PM",
-      "end_time": "09:09 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Titoo",
-      "start_time": "09:09 PM",
+      "show_name": "Zamana Titoo Ka",
+      "start_time": "08:11 PM",
       "end_time": "09:31 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26974798_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29333350_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "09:31 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "10:00 PM",
       "end_time": "10:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "10:10 PM",
       "end_time": "10:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "10:20 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
       "start_time": "10:30 PM",
       "end_time": "10:59 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Titoo",
@@ -534,25 +546,25 @@
       "show_name": "Titoo",
       "start_time": "11:20 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26978468_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26974798_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Fukrey Boyzzz",
+      "show_name": "Kris Roll No 21",
       "start_time": "11:30 PM",
       "end_time": "11:42 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28695010_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Fukrey Boyzzz",
       "start_time": "11:42 PM",
       "end_time": "11:54 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18822982_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kris Roll No 21",
+      "show_name": "Fukrey Boyzzz",
       "start_time": "11:54 PM",
       "end_time": "12:06 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23326510_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p18846877_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

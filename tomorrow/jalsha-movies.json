@@ -1,66 +1,60 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
-      "show_name": "Daal Bati Churma Chacchori",
-      "start_time": "01:10 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25528693_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Jekhane Bhooter Bhoy",
+      "start_time": "01:05 AM",
+      "end_time": "02:45 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Jongole Mitin Mashi",
-      "start_time": "03:00 AM",
+      "show_name": "Pati Parameshwar",
+      "start_time": "02:45 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28502198_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17979682_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chaya Manush",
+      "show_name": "Kaashmora",
       "start_time": "05:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25528652_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "1 Ishwar Katha",
-      "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28205013_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13412723_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tobu Aporichito",
+      "show_name": "Jekhane Bhooter Bhoy",
       "start_time": "08:00 AM",
-      "end_time": "10:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24640931_b_h9_ab.jpg?lock=880x660"
+      "end_time": "10:00 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Aschhe Abar Shabor",
-      "start_time": "10:45 AM",
+      "show_name": "Sindur Khela",
+      "start_time": "10:00 AM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15250267_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25470675_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hari Pada Bandwala",
+      "show_name": "Mon Je Kore Uru Uru",
       "start_time": "01:00 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25528799_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25470512_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Power",
+      "show_name": "Ghatak",
       "start_time": "04:00 PM",
-      "end_time": "07:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25472257_b_h9_aa.jpg?lock=880x660"
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25518157_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Achena Atithi",
-      "start_time": "07:15 PM",
+      "show_name": "Aamar Mayer Shapath",
+      "start_time": "07:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11019620_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13248816_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Parbo Na Ami Chharte Toke",
+      "show_name": "Shudhu Tomari Jonyo",
       "start_time": "10:30 PM",
-      "end_time": "01:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25471221_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25511224_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

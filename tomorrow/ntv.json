@@ -1,25 +1,7 @@
 {
   "channel_name": "NTV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
-    {
-      "show_name": "NTV Special",
-      "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19339799_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19339799_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "NTV Special",
-      "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19339799_b_h9_aa.jpg?lock=880x660"
-    },
     {
       "show_name": "NTV Special",
       "start_time": "02:00 AM",
@@ -281,7 +263,7 @@
     {
       "show_name": "Movie Mixture",
       "start_time": "11:30 PM",
-      "end_time": "02:00 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10172241_b_h9_aa.jpg?lock=880x660"
     }
   ]

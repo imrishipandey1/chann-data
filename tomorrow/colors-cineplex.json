@@ -1,66 +1,72 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
-      "show_name": "Mawali Raaj",
-      "start_time": "12:00 AM",
-      "end_time": "01:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30026240_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Yodha",
-      "start_time": "01:20 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8775649_v_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Son Of Devil",
-      "start_time": "04:00 AM",
-      "end_time": "05:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28956791_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Great Indian Butterfly",
-      "start_time": "05:20 AM",
-      "end_time": "06:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p175361_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Hum",
-      "start_time": "06:45 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p33518_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Kaala Karikalan",
-      "start_time": "10:30 AM",
-      "end_time": "01:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15570992_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Darbar",
-      "start_time": "01:20 PM",
-      "end_time": "04:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17705607_b_h9_af.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Kabali",
-      "start_time": "04:40 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21280524_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Taqdeer",
-      "start_time": "07:50 PM",
-      "end_time": "09:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30061721_v_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Ragada",
-      "start_time": "09:50 PM",
-      "end_time": "12:00 AM",
+      "start_time": "12:00 AM",
+      "end_time": "12:20 AM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Asli Fighter",
+      "start_time": "12:20 AM",
+      "end_time": "02:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12951901_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Indra Shakti",
+      "start_time": "02:15 AM",
+      "end_time": "04:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17890657_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Fool N Final",
+      "start_time": "04:30 AM",
+      "end_time": "06:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p170792_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Return of Hanuman",
+      "start_time": "06:50 AM",
+      "end_time": "09:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p177687_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "F2: Fun and Frustration",
+      "start_time": "09:05 AM",
+      "end_time": "12:10 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16410998_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rider",
+      "start_time": "12:10 PM",
+      "end_time": "02:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23266706_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Zombie Reddy",
+      "start_time": "02:15 PM",
+      "end_time": "04:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19358947_v_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Daaku Maharaaj",
+      "start_time": "04:50 PM",
+      "end_time": "07:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29025568_v_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Saamrajya",
+      "start_time": "07:50 PM",
+      "end_time": "10:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31787197_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ugram",
+      "start_time": "10:50 PM",
+      "end_time": "12:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24591277_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

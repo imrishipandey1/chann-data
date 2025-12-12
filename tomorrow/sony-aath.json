@@ -1,6 +1,6 @@
 {
   "channel_name": "Sony AATH",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "CID",
@@ -12,13 +12,13 @@
       "show_name": "Crime Patrol",
       "start_time": "01:00 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23847536_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9596798_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Crime Patrol",
       "start_time": "02:00 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23847536_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9596798_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Nut Boltu",
@@ -81,10 +81,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p24406526_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Panchatantrer Montro",
+      "show_name": "Gio Gopu Da",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30084473_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Amader Thakurmar Jhuli",
@@ -93,38 +93,20 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27573792_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Amader Thakurmar Jhuli",
+      "show_name": "Nut Boltu",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27573792_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22654625_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "CID",
       "start_time": "02:00 PM",
-      "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "CID",
-      "start_time": "02:30 PM",
-      "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "CID",
-      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "CID",
       "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "CID",
-      "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
     },
@@ -174,7 +156,7 @@
       "show_name": "CID",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28962935_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "CID",

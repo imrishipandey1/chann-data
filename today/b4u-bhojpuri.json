@@ -1,66 +1,54 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:21 AM",
-      "end_time": "02:20 AM",
+      "start_time": "01:05 AM",
+      "end_time": "02:10 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:20 AM",
-      "end_time": "05:00 AM",
+      "start_time": "02:10 AM",
+      "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "05:00 AM",
-      "end_time": "06:37 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghoonghat Wali Superstar",
-      "start_time": "06:37 AM",
-      "end_time": "09:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29986136_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Saas Ki Saas Banugi Main",
-      "start_time": "09:12 AM",
+      "show_name": "Movie",
+      "start_time": "09:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29202719_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Badhaiya Baje More Angana",
+      "show_name": "Movie",
       "start_time": "12:00 PM",
-      "end_time": "02:41 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29169087_b_h9_aa.jpg?lock=880x660"
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Gujarati Bahu",
-      "start_time": "02:41 PM",
-      "end_time": "05:29 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30745535_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Hum Haien Jethani",
-      "start_time": "05:29 PM",
-      "end_time": "07:58 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Movie",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Gawanwa Ke Saari",
-      "start_time": "07:58 PM",
-      "end_time": "10:33 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29169052_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Shaadi Hoto Aisi",
-      "start_time": "10:33 PM",
-      "end_time": "01:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29510286_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel_name": "Mirror Now",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "The Urban Debate",
@@ -39,136 +39,184 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29051503_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Morning News",
+      "show_name": "Beyond The Headline",
       "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8424301_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Morning News",
-      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8424301_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29051421_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Morning News",
+      "show_name": "News",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8424301_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Morning News",
+      "show_name": "News",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8424301_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "8 AM Metro Morning",
+      "show_name": "News",
       "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051547_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Morning News",
+      "show_name": "News",
       "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8424301_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "10 AM Ground Reality",
+      "show_name": "News",
       "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051522_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "11 AM Big Story",
+      "show_name": "News",
       "start_time": "11:00 AM",
+      "end_time": "11:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
+      "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051659_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "12 PM Ground Reality",
+      "show_name": "News",
       "start_time": "12:00 PM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "E NOW",
+      "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051580_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569624_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mirror @ 1 PM",
+      "show_name": "News",
       "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069760_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "2 PM Mirror @ 2 PM",
+      "show_name": "News",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069399_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "2 PM Mirror @ 2 PM",
+      "show_name": "News",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069399_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "3 PM Big Story",
+      "show_name": "News",
       "start_time": "03:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051852_b_h9_aa.jpg?lock=880x660"
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mirror Live",
+      "show_name": "News",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
       "start_time": "04:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051877_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "4:30 PM Superfast News",
+      "show_name": "News",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29069493_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "5 PM Mirror Live",
+      "show_name": "News",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051958_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "5:30 PM Mirror Live",
+      "show_name": "News",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051983_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Daily Mirror",
+      "show_name": "News",
       "start_time": "06:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9331131_b_h9_aa.jpg?lock=880x660"
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News At 7",
+      "show_name": "News",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18979003_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mirror Prime",
+      "show_name": "News",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29052032_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Urban Debate",
+      "show_name": "News",
       "start_time": "08:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051393_b_h9_ac.jpg?lock=880x660"
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "9 PM Nation Tonight",
+      "show_name": "News",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051503_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Global Mirror",
@@ -177,16 +225,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29052064_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Beyond The Headline",
+      "show_name": "News",
       "start_time": "10:00 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051421_b_h9_aa.jpg?lock=880x660"
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "9 PM Nation Tonight",
+      "show_name": "News",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29051503_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28418553_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News for Hearing Impaired",

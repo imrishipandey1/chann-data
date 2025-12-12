@@ -1,6 +1,6 @@
 {
   "channel_name": "Sun TV",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Nagaichuvai Gallatta",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22893209_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Pottu",
+      "show_name": "Kabali",
       "start_time": "03:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16931405_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21280524_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News",

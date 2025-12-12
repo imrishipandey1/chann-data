@@ -1,66 +1,60 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Amaran",
-      "start_time": "12:59 AM",
-      "end_time": "04:08 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28588555_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Yodha",
+      "start_time": "01:00 AM",
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8775649_v_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Pankh",
-      "start_time": "04:08 AM",
-      "end_time": "04:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8416745_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Son Of Devil",
+      "start_time": "04:00 AM",
+      "end_time": "05:18 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28956791_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pankh",
-      "start_time": "04:10 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8416745_v_h9_aa.jpg?lock=880x660"
+      "show_name": "The Great Indian Butterfly",
+      "start_time": "05:18 AM",
+      "end_time": "06:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p175361_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gully Rowdy",
-      "start_time": "05:30 AM",
-      "end_time": "07:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20647249_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Hum",
+      "start_time": "06:45 AM",
+      "end_time": "10:31 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p33518_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "L2: Empuraan",
-      "start_time": "07:25 AM",
-      "end_time": "11:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29792031_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Kaala Karikalan",
+      "start_time": "10:31 AM",
+      "end_time": "01:21 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15570992_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Main Hoon Surya Singham 2",
-      "start_time": "11:20 AM",
-      "end_time": "02:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10994450_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Darbar",
+      "start_time": "01:21 PM",
+      "end_time": "04:38 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17705607_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Baaghi 3",
-      "start_time": "02:20 PM",
-      "end_time": "05:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17542689_v_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Guardian",
-      "start_time": "05:45 PM",
+      "show_name": "Kabali",
+      "start_time": "04:38 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27754892_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21280524_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mega Star God Father",
+      "show_name": "Taqdeer",
       "start_time": "07:50 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23063414_b_h9_af.jpg?lock=880x660"
+      "end_time": "09:52 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30061721_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mawali Raaj",
-      "start_time": "10:30 PM",
+      "show_name": "Ragada",
+      "start_time": "09:52 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30026240_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     }
   ]
 }

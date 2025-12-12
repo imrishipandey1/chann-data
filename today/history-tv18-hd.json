@@ -1,12 +1,12 @@
 {
   "channel_name": "History TV18 HD",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Ancient Earth: Dinosaurs of the Frozen Continent",
+      "show_name": "Dark Marvels",
       "start_time": "12:20 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22438621_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24995952_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "History's Greatest Heists With Pierce Brosnan",
@@ -39,28 +39,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p12402611_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Modern Marvel: Statue of Unity",
+      "show_name": "The Toys That Built The World",
       "start_time": "03:20 AM",
       "end_time": "03:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29403402_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20839471_b_h9_al.jpg?lock=880x660"
     },
     {
       "show_name": "The Food That Built the World",
       "start_time": "03:40 AM",
       "end_time": "04:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26498142_b_h9_ai.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23852920_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "History's Greatest of All Time With Peyton Manning",
+      "show_name": "History's Greatest Heists With Pierce Brosnan",
       "start_time": "04:20 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23821955_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23773399_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Would You Do That ?",
+      "show_name": "Firepower: Defending India",
       "start_time": "05:00 AM",
       "end_time": "05:20 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29345622_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ancient Aliens",
@@ -75,16 +75,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p17484934_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Life After People",
+      "show_name": "Leepu & Pitbull",
       "start_time": "06:20 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30347948_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11771332_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Omg! Yeh Mera India Classics",
       "start_time": "07:00 AM",
       "end_time": "07:24 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29250478_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29250463_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Pawn Stars: Best Of",
@@ -93,10 +93,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26327442_b_h9_ar.jpg?lock=880x660"
     },
     {
-      "show_name": "Flavours of Uttarakhand",
+      "show_name": "Roads Unknown: India",
       "start_time": "07:44 AM",
+      "end_time": "08:04 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30339354_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Einstein Challenge",
+      "start_time": "08:04 AM",
       "end_time": "08:24 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28603058_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27299006_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Food That Built the World",
@@ -129,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28604403_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "OMG! Yeh Mera India",
+      "show_name": "Nature Gone Wild",
       "start_time": "10:48 AM",
       "end_time": "11:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28602570_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19224279_b_h9_aj.jpg?lock=880x660"
     },
     {
       "show_name": "Forged in Fire",
@@ -174,7 +180,7 @@
       "show_name": "Pawn Stars",
       "start_time": "01:54 PM",
       "end_time": "02:16 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p3565439_b_h9_ai.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30965826_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Storage Wars",
@@ -186,19 +192,19 @@
       "show_name": "OMG! Yeh Mera India",
       "start_time": "02:38 PM",
       "end_time": "03:02 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28600946_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28818691_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Food That Built the World",
+      "show_name": "The UnBelievable With Dan Aykroyd",
       "start_time": "03:02 PM",
       "end_time": "03:46 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23852920_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28511659_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Forged in Fire: Knife or Death",
       "start_time": "03:46 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15281042_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15934118_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "American Pickers",
@@ -225,10 +231,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13043082_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "The Fast History Of",
+      "show_name": "Nature Gone Wild",
       "start_time": "06:25 PM",
       "end_time": "06:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22052131_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19224279_b_h9_aj.jpg?lock=880x660"
     },
     {
       "show_name": "Storage Wars",
@@ -249,10 +255,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26327442_b_h9_ar.jpg?lock=880x660"
     },
     {
-      "show_name": "The UnBelievable With Dan Aykroyd",
+      "show_name": "Life After People",
       "start_time": "08:05 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28511659_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30347948_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Forged in Fire: Knife or Death",
@@ -261,10 +267,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15934118_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pawn Stars",
+      "show_name": "Pawn Stars: Best Of",
       "start_time": "09:50 PM",
       "end_time": "10:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p3565439_b_h9_ai.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26327442_b_h9_ar.jpg?lock=880x660"
     },
     {
       "show_name": "Storage Wars",
@@ -273,16 +279,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30061961_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ancient Aliens",
+      "show_name": "How Disney Built America",
       "start_time": "10:40 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16800414_b_h9_ai.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26975538_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Forged in Fire",
+      "show_name": "The UnBelievable With Dan Aykroyd",
       "start_time": "11:30 PM",
       "end_time": "12:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16471848_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28511659_b_h9_ac.jpg?lock=880x660"
     }
   ]
 }

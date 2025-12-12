@@ -1,22 +1,16 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Jhanak",
-      "start_time": "12:00 AM",
-      "end_time": "12:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26112921_b_h9_ac.jpg?lock=880x660"
-    },
-    {
       "show_name": "Udne Ki Aasha",
-      "start_time": "12:15 AM",
-      "end_time": "01:10 AM",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26841298_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Yeh Rishta Kya Kehlata Hai",
-      "start_time": "01:10 AM",
+      "start_time": "01:00 AM",
       "end_time": "02:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p1002730_b_h9_ad.jpg?lock=880x660"
     },
@@ -117,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "show_name": "Udne Ki Aasha",
       "start_time": "07:10 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30798579_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26841298_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Shehzaadi... Hai Tu Dil Ki",
@@ -149,18 +143,18 @@
     {
       "show_name": "Anupamaa",
       "start_time": "10:00 PM",
-      "end_time": "10:35 PM",
+      "end_time": "10:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p18094069_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "Kyunki Saas Bhi Kabhi Bahu Thi",
-      "start_time": "10:35 PM",
-      "end_time": "11:10 PM",
+      "start_time": "10:30 PM",
+      "end_time": "11:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30798579_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jhanak",
-      "start_time": "11:10 PM",
+      "start_time": "11:00 PM",
       "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26112921_b_h9_ac.jpg?lock=880x660"
     }

@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee TV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Ganga Mai Ki Betiyaan",
@@ -195,16 +195,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28225153_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Tum Se Tum Tak",
+      "show_name": "Ideabaaz",
       "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ganga Mai Ki Betiyaan",
-      "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31048787_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31476703_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Saru",
@@ -249,16 +243,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28306541_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Tum Se Tum Tak",
+      "show_name": "Ideabaaz",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Vasudha",
-      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28225153_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31476703_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

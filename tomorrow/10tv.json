@@ -1,6 +1,6 @@
 {
   "channel_name": "10TV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Recorded News",
@@ -261,10 +261,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29110614_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Special Debate",
+      "show_name": "World This Week",
       "start_time": "05:30 PM",
       "end_time": "05:57 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13915131_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039169_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 10",
@@ -273,10 +273,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29341221_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Talk of the Town",
+      "show_name": "Dream Home",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27674050_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29108938_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Prime Time Debate / Solid News",

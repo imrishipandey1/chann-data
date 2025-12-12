@@ -1,82 +1,52 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Movie",
-      "start_time": "01:08 AM",
-      "end_time": "03:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Extraaa Storiez",
-      "start_time": "03:25 AM",
-      "end_time": "03:47 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Extraaa Storiez",
-      "start_time": "03:47 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Extraaa Storiez",
-      "start_time": "04:00 AM",
-      "end_time": "04:11 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29237953_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "04:11 AM",
-      "end_time": "05:28 AM",
+      "start_time": "12:00 AM",
+      "end_time": "03:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "05:28 AM",
-      "end_time": "07:29 AM",
+      "start_time": "03:00 AM",
+      "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "07:29 AM",
-      "end_time": "08:58 AM",
+      "start_time": "06:00 AM",
+      "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "08:58 AM",
-      "end_time": "11:36 AM",
+      "start_time": "09:00 AM",
+      "end_time": "12:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "11:36 AM",
-      "end_time": "02:00 PM",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "02:00 PM",
-      "end_time": "04:45 PM",
+      "start_time": "03:00 PM",
+      "end_time": "06:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "04:45 PM",
-      "end_time": "07:50 PM",
+      "start_time": "06:00 PM",
+      "end_time": "09:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",
-      "start_time": "07:50 PM",
-      "end_time": "10:33 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "10:33 PM",
+      "start_time": "09:00 PM",
       "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     }

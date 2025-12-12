@@ -1,6 +1,6 @@
 {
   "channel_name": "Dangal",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Mann Sundar",
@@ -95,8 +95,14 @@
     {
       "show_name": "Shrimati Shukla",
       "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
+      "end_time": "01:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31661058_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rangbaazi Dilon Ki",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Nath Zewar Ya Zanjeer",

@@ -1,18 +1,18 @@
 {
   "channel_name": "Colors Bangla Cinema",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
-      "show_name": "Dui Prithibi",
+      "show_name": "Phirie Dao",
       "start_time": "12:00 AM",
-      "end_time": "12:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23079247_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15210719_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ami Je Tomari",
-      "start_time": "12:50 AM",
+      "show_name": "Apur Panchali",
+      "start_time": "01:25 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15879436_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p10889944_v_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
@@ -21,46 +21,46 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
-      "show_name": "Amar Kantak",
+      "show_name": "Monchuri",
       "start_time": "04:00 AM",
-      "end_time": "07:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12789816_b_h9_aa.jpg?lock=880x660"
+      "end_time": "06:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19871371_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhai Amar Bhai",
-      "start_time": "07:05 AM",
-      "end_time": "10:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15286988_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Janmadata",
+      "start_time": "06:20 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8694672_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Indrajit",
-      "start_time": "10:10 AM",
-      "end_time": "01:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25717606_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Pratarak",
+      "start_time": "09:30 AM",
+      "end_time": "12:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11873775_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dujone",
-      "start_time": "01:20 PM",
-      "end_time": "04:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10040870_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Fighter, Marbo Noy Morbo",
+      "start_time": "12:40 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16675852_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
-      "start_time": "04:05 PM",
+      "show_name": "Subho Drishti",
+      "start_time": "03:55 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11465712_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Yuddha",
+      "show_name": "I Love You",
       "start_time": "07:00 PM",
       "end_time": "10:20 PM",
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Phirie Dao",
+      "show_name": "Shotru",
       "start_time": "10:20 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15210719_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16062467_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

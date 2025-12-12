@@ -1,24 +1,30 @@
 {
   "channel_name": "&flix HD",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Sicario: Day of the Soldado",
-      "start_time": "12:59 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14473211_v_h9_aa.jpg?lock=880x660"
+      "show_name": "The Amazing Spider-Man",
+      "start_time": "12:23 AM",
+      "end_time": "02:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8548776_v_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "03:00 AM",
-      "end_time": "03:40 AM",
+      "start_time": "02:30 AM",
+      "end_time": "02:51 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Dance With Me",
-      "start_time": "03:40 AM",
-      "end_time": "06:00 AM",
+      "start_time": "02:51 AM",
+      "end_time": "04:18 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19074508_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Universal Soldier 4",
+      "start_time": "04:18 AM",
+      "end_time": "06:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9410609_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",

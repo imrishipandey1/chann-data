@@ -1,6 +1,6 @@
 {
   "channel_name": "CNBC TV18",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "The Exchange",
@@ -99,10 +99,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617351_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "MF Corner",
+      "show_name": "Your Stocks",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617329_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617838_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "NSE Closing Bell",
@@ -111,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "NSE Closing Bell",
+      "show_name": "Smart Money",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617370_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617504_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "After The Bell",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27614189_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Markets Today",
+      "show_name": "Taking Stock",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617284_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617596_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Reporter's Diary",
@@ -135,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "CNBC-TV18 Special",
+      "show_name": "Commodity Champions",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27616977_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Reporter's Diary",
@@ -147,10 +147,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Young Turks",
+      "show_name": "Start Up Street",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617820_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617549_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "U.S Markets Opening Bell",
@@ -159,10 +159,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617806_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "CNBC-TV18 Special",
+      "show_name": "The Global Eye",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617686_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "India Business Hour",
@@ -171,10 +171,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27617209_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Markets Today",
+      "show_name": "Taking Stock",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617284_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617596_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "India Business Hour",
@@ -195,16 +195,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "CNBC-TV18 Special",
+      "show_name": "Kiska Brand Bajega: Home Edition",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27616952_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617263_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "India Business Hour",
+      "show_name": "Kiska Brand Bajega: Home Edition",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617209_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27617263_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "CNBC-TV18 Special",

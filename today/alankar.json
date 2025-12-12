@@ -1,12 +1,12 @@
 {
   "channel_name": "Alankar",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
-      "show_name": "Gana Duskarma",
+      "show_name": "Gita Pain Maha Bharata",
       "start_time": "01:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29879373_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Stars Choice",
@@ -27,10 +27,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pahili Raja",
+      "show_name": "Mukhyamantri",
       "start_time": "07:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29119426_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14749341_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "MORNING SHOW",
@@ -39,22 +39,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28820632_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ishq Puni Thare",
+      "show_name": "Ishq Tu Hi Tu",
       "start_time": "11:00 AM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29029444_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29385867_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Love Master",
+      "show_name": "Lucky Ra Lockdown Love Story",
       "start_time": "02:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29029465_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30146946_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kie Daba Takkar",
+      "show_name": "Bhul Bujhibani Mate",
       "start_time": "05:00 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29029615_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30146974_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tele Shopping",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhulija Jaha Bhul Heichi",
+      "show_name": "Rama Banabasha Kahani Sesha",
       "start_time": "08:00 PM",
       "end_time": "01:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29990590_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

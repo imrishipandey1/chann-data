@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Bangla",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "Jai Jagannath",
@@ -93,16 +93,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Nawab Nandini",
+      "show_name": "Sindurer Adhikar",
       "start_time": "02:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
-    },
-    {
-      "show_name": "Shiv Shakti",
-      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Sadhak Bamakhyapa",

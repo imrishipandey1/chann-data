@@ -1,28 +1,28 @@
 {
   "channel_name": "Colors Infinity",
-  "date": "December 11, 2025",
+  "date": "December 12, 2025",
   "schedule": [
     {
       "show_name": "The Blacklist",
       "start_time": "12:00 AM",
-      "end_time": "12:50 AM",
+      "end_time": "12:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Blacklist",
-      "start_time": "12:50 AM",
+      "start_time": "12:40 AM",
       "end_time": "01:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Blacklist",
       "start_time": "01:30 AM",
-      "end_time": "02:20 AM",
+      "end_time": "02:10 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "The Blacklist",
-      "start_time": "02:20 AM",
+      "start_time": "02:10 AM",
       "end_time": "03:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
     },

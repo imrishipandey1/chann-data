@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Gujarati",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Bhagyalaxmi",
@@ -183,10 +183,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p20084953_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Naagin",
+      "show_name": "Gujarat Gatha",
       "start_time": "06:00 PM",
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20935916_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Radha Krishna",
+      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12613104_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Radha Krishna",
