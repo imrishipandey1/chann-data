@@ -1,12 +1,12 @@
 {
   "channel_name": "B4U Movies",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
-      "show_name": "Haathon Ki Lakeeren",
-      "start_time": "01:07 AM",
+      "show_name": "Movie",
+      "start_time": "12:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p75425_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",

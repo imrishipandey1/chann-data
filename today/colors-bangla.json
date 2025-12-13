@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Bangla",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Jai Jagannath",
@@ -18,7 +18,7 @@
       "show_name": "Sadhak Bamakhyapa",
       "start_time": "01:30 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31698821_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
@@ -42,7 +42,7 @@
       "show_name": "Sadhak Bamakhyapa",
       "start_time": "05:30 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31698821_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bible Study",
@@ -57,16 +57,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22314876_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Jai Jagannath",
+      "show_name": "Dance Dance Dhamaka",
       "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29038252_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31650535_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhak Bamakhyapa",
       "start_time": "09:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31698821_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Naagin",
@@ -90,25 +90,31 @@
       "show_name": "Sadhak Bamakhyapa",
       "start_time": "01:00 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31698821_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sindurer Adhikar",
+      "show_name": "Debota",
       "start_time": "02:00 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15503852_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shiv Shakti",
+      "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhak Bamakhyapa",
       "start_time": "05:30 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31698821_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jai Jagannath",
       "start_time": "06:30 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29038252_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21038238_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
@@ -132,7 +138,7 @@
       "show_name": "Sadhak Bamakhyapa",
       "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31698817_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31698821_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

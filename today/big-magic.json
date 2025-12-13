@@ -1,6 +1,6 @@
 {
   "channel_name": "BIG Magic",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Guddan Tumse Na Ho Payega",
@@ -11,12 +11,12 @@
     {
       "show_name": "Guddan Tumse Na Ho Payega",
       "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
+      "end_time": "02:02 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
     },
     {
       "show_name": "Zindagi Ki Mehek",
-      "start_time": "02:00 AM",
+      "start_time": "02:02 AM",
       "end_time": "03:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p13320754_b_h9_ab.jpg?lock=880x660"
     },

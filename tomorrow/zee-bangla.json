@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee Bangla",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
@@ -87,16 +87,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30354996_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Soubhagyo O Samriddhi",
+      "show_name": "Nbp Unani & Ayurveda Research Centre",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26742318_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26728901_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Talk on Self Identity",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30647751_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26742943_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Kusum",
@@ -105,16 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30354996_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Sach- Subhash Chandra Show",
       "start_time": "09:30 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29692644_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Chirodini Tumi Je Amar",
-      "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29692644_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31699761_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jagadhatri",
@@ -123,16 +117,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28145718_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ratna Kuber - Gariahat",
+      "show_name": "Parineeta",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27587181_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28722986_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Chirodini Tumi Je Amar",
+      "show_name": "Joy Baba Lokenath",
       "start_time": "11:30 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29905904_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tui Amar Hero",
+      "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29692644_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29705852_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tulsi Dhamer Naru Gopal",
@@ -177,16 +177,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31154698_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rannaghar",
+      "show_name": "Sa Re Ga Ma Pa 2025",
       "start_time": "04:00 PM",
-      "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p10953012_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Didi No 1",
-      "start_time": "04:30 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26719700_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31212730_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Kusum",
@@ -210,7 +204,7 @@
       "show_name": "Besh Korechi Prem Korechi",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31907402_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jagadhatri",
@@ -225,16 +219,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28722986_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Amader Dadamoni",
+      "show_name": "Didi No 1",
       "start_time": "08:30 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30647751_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Joyar Bhata",
-      "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31154698_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26719700_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sa Re Ga Ma Pa 2025",

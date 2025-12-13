@@ -1,58 +1,52 @@
 {
   "channel_name": "Dangal",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Mann Sundar",
       "start_time": "12:01 AM",
-      "end_time": "12:17 AM",
+      "end_time": "12:23 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27029926_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mann Atisundar",
-      "start_time": "12:17 AM",
-      "end_time": "12:40 AM",
+      "start_time": "12:23 AM",
+      "end_time": "12:45 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27029838_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rangbaazi Dilon Ki",
-      "start_time": "12:40 AM",
-      "end_time": "01:03 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "start_time": "12:45 AM",
+      "end_time": "01:07 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31891775_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shrimati Shukla",
-      "start_time": "01:03 AM",
-      "end_time": "01:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31661058_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Do Hanso Ka Joda",
+      "start_time": "01:07 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8042445_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bade Ghar Ki Choti Bahu",
-      "start_time": "01:25 AM",
-      "end_time": "01:47 AM",
+      "start_time": "01:30 AM",
+      "end_time": "01:55 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30485825_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rimjhim Chhoti Umar Bada Safar",
-      "start_time": "01:47 AM",
-      "end_time": "02:10 AM",
+      "start_time": "01:55 AM",
+      "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31427341_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Do Hanso Ka Joda",
-      "start_time": "02:10 AM",
-      "end_time": "03:45 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
-    },
-    {
       "show_name": "Ram Ratan Dhan Payo",
-      "start_time": "03:45 AM",
-      "end_time": "07:30 AM",
+      "start_time": "04:00 AM",
+      "end_time": "07:35 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27453749_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Ramayan",
-      "start_time": "07:30 AM",
+      "start_time": "07:35 AM",
       "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p873483_b_h9_ad.jpg?lock=880x660"
     },
@@ -72,7 +66,7 @@
       "show_name": "Rangbaazi Dilon Ki",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31891775_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rimjhim Chhoti Umar Bada Safar",
@@ -108,7 +102,7 @@
       "show_name": "Rangbaazi Dilon Ki",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31891775_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nath Zewar Ya Zanjeer",
@@ -156,7 +150,7 @@
       "show_name": "Rangbaazi Dilon Ki",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31891775_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bade Ghar Ki Choti Bahu",

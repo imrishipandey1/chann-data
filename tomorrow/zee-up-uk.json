@@ -1,6 +1,6 @@
 {
   "channel_name": "Zee Uttar Pradesh Uttarakhand",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Debate",
@@ -120,7 +120,7 @@
       "show_name": "News Special",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28410232_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "10 Ka Dum",
@@ -192,7 +192,7 @@
       "show_name": "News Special",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28410232_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Buldozer Bulletin",
@@ -228,7 +228,7 @@
       "show_name": "News Special",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28410232_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Khabar Uttar Pradesh",
@@ -267,10 +267,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29345226_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aapka Shahar Aapki Khabar",
+      "show_name": "Badi Khabrein",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15058353_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29362458_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Encounter",

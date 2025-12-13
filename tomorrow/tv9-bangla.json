@@ -1,6 +1,6 @@
 {
   "channel_name": "TV9 Bangla",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Thontkata",
@@ -99,14 +99,20 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28900321_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Morning Super Prime Time",
+      "show_name": "News Series",
       "start_time": "08:30 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28900321_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29279992_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "News Series",
+      "start_time": "09:00 AM",
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29279992_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Morning Super Prime Time",
-      "start_time": "09:00 AM",
+      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28900321_b_h9_aa.jpg?lock=880x660"
     },
@@ -156,13 +162,13 @@
       "show_name": "Full & Final",
       "start_time": "02:00 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28832512_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28832512_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Full & Final",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28832512_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28832512_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Dupurer Super Prime Time",
@@ -195,10 +201,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28900394_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "tv9 News",
+      "show_name": "Ghorer Bioscope",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8390087_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28900533_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sandhyer Super Prime Time",
@@ -231,28 +237,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28900231_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "Mega Prime Time",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28900243_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28931577_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Straight Cut",
+      "show_name": "News Series",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28900251_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29279992_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "News Top 9",
+      "show_name": "News Series",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28832556_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29279992_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Naa Bollei Noy",
+      "show_name": "tv9 News",
       "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28900243_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8390087_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

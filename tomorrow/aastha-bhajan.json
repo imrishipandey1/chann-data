@@ -1,6 +1,6 @@
 {
   "channel_name": "Aastha Bhajan",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Kishanbhaiya Sirsawale",
@@ -42,7 +42,7 @@
       "show_name": "Pujya Prachi Devi",
       "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29207608_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29207608_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Jinchandraji Maharaj",
@@ -78,7 +78,7 @@
       "show_name": "Ved Vani",
       "start_time": "04:45 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21882917_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21882917_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Yog Rishi Swami Ramdevji",
@@ -93,10 +93,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29190150_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Hanuman Chalisa",
+      "show_name": "Shri P.C. Lahari",
       "start_time": "06:40 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8362374_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21889975_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Gaurishi Swami Shriduttsharnanandji Santvani Pravachan",
@@ -138,7 +138,7 @@
       "show_name": "Pujya Pandokhar Dham Sarkar (Guruji)",
       "start_time": "09:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29442226_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29442226_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Aastha Bhajan Special",
@@ -149,6 +149,12 @@
     {
       "show_name": "Aastha Bhajan Special",
       "start_time": "01:00 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Aastha Bhajan Special",
+      "start_time": "04:00 PM",
       "end_time": "07:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29190156_b_h9_ab.jpg?lock=880x660"
     },

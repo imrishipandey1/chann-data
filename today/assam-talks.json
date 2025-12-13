@@ -1,6 +1,6 @@
 {
   "channel_name": "Assam Talks",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Prime @ 6",
@@ -243,16 +243,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26882668_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814170_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30813905_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814170_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30813905_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Prime Hour",
@@ -279,16 +279,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30814268_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rapid Fire",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29191773_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30813905_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bartaman",
+      "show_name": "Bixekh Ek Ghonta",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30814170_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30813905_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
-      "show_name": "Pati Patni Aur Woh",
-      "start_time": "12:52 AM",
-      "end_time": "02:53 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17661756_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Krishnarjuna Yudham",
+      "start_time": "12:47 AM",
+      "end_time": "02:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15219227_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Apradhi Kaun?",
-      "start_time": "02:53 AM",
+      "show_name": "Ungala Podanum Sir",
+      "start_time": "02:50 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15168346_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23348721_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",

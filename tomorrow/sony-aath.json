@@ -1,6 +1,6 @@
 {
   "channel_name": "Sony AATH",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "CID",
@@ -36,13 +36,13 @@
       "show_name": "Nix",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13225379_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22654591_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nix",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13225379_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22654591_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nut Boltu",
@@ -90,7 +90,7 @@
       "show_name": "Amader Thakurmar Jhuli",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27573792_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29512780_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Nut Boltu",
@@ -114,13 +114,13 @@
       "show_name": "Amader Thakurmar Jhuli",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27573792_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29512780_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Amader Thakurmar Jhuli",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27573792_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29512780_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Vighnaharta Sri Ganesh",
@@ -144,7 +144,7 @@
       "show_name": "Ramayan",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30123349_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30123361_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "CID",

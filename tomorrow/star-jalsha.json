@@ -1,12 +1,12 @@
 {
   "channel_name": "Star Jalsha",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Milon Hobe Kotodine",
+      "show_name": "Aaloksobhar Mohangone Sohini",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30786630_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rangamati Tirandaj",
@@ -18,43 +18,43 @@
       "show_name": "Rajrajeshwari Rani Bhabani",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30645250_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30645251_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Lokkhi Jhnapi",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30821897_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30821915_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "O Mor Dorodiya",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31320459_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31320460_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Tapur Tupur",
       "start_time": "02:30 AM",
       "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30771736_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30771743_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tumi Chherona Haat Pothe",
       "start_time": "03:30 AM",
       "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31393443_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31393447_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rajrajeshwari Rani Bhabani",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30645250_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30645251_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Milon Hobe Kotodine",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31849670_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rangamati Tirandaj",
@@ -66,13 +66,13 @@
       "show_name": "Professor Bidya Banerjee",
       "start_time": "07:00 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31706147_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31706149_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "O Mor Dorodiya",
       "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31320459_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31320460_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Grihapravesh",
@@ -108,7 +108,7 @@
       "show_name": "Milon Hobe Kotodine",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31849670_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chiroshokha",
@@ -126,43 +126,43 @@
       "show_name": "Professor Bidya Banerjee",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31706147_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31706149_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Lokkhi Jhnapi",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30821897_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30821915_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rajrajeshwari Rani Bhabani",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30645250_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30645251_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "O Mor Dorodiya",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31320459_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31320460_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Tapur Tupur",
       "start_time": "02:00 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30771736_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30771743_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tumi Chherona Haat Pothe",
       "start_time": "03:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31393443_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31393447_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Rajrajeshwari Rani Bhabani",
       "start_time": "05:00 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30645250_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30645251_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bholebaba Paar Karega",
@@ -180,13 +180,13 @@
       "show_name": "Lokkhi Jhnapi",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30821897_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30821915_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "O Mor Dorodiya",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31320459_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31320460_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Rangamati Tirandaj",
@@ -204,7 +204,7 @@
       "show_name": "Professor Bidya Banerjee",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31706147_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31706149_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chiroshokha",
@@ -216,7 +216,7 @@
       "show_name": "Milon Hobe Kotodine",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31849670_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Grihapravesh",
@@ -234,7 +234,7 @@
       "show_name": "Lokkhi Jhnapi",
       "start_time": "11:00 PM",
       "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30821897_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30821915_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Bholebaba Paar Karega",

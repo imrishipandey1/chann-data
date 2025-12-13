@@ -1,6 +1,6 @@
 {
   "channel_name": "Surya TV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Chattambi Paaru",
@@ -75,10 +75,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30587120_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughing Villa",
+      "show_name": "Celluloid",
       "start_time": "06:00 AM",
+      "end_time": "06:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21522481_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Amrithadhara",
+      "start_time": "06:30 AM",
       "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27991780_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20523662_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -99,10 +105,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30304595_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Lokanathan I.A.S",
+      "show_name": "Guntur Kaaram",
       "start_time": "08:30 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21888922_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26357904_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mangalyam Thanthunanena",
@@ -153,16 +159,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29018885_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Crime File",
+      "show_name": "Pattabhiraman",
       "start_time": "03:30 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24756541_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20817352_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Peythozhiyathe",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30587120_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30587125_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chattambi Paaru",

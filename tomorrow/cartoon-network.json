@@ -1,13 +1,7 @@
 {
   "channel_name": "Cartoon Network",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
-    {
-      "show_name": "Courage the Cowardly Dog",
-      "start_time": "12:00 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p186142_b_h9_ah.jpg?lock=880x660"
-    },
     {
       "show_name": "One Piece",
       "start_time": "01:00 AM",
@@ -63,70 +57,58 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Grizzy and the Lemmings",
+      "show_name": "Ekans: Snakes Awake",
       "start_time": "11:00 AM",
       "end_time": "11:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Grizzy and the Lemmings",
-      "start_time": "11:20 AM",
-      "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13330553_b_h9_cj.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Teen Titans GO!",
-      "start_time": "11:30 AM",
+      "start_time": "11:20 AM",
       "end_time": "12:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24686942_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teen Titans GO!",
+      "show_name": "Teen Titans Go! Special 3 - Pop Stars",
       "start_time": "12:30 PM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24686942_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31521292_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Teen Titans GO!",
-      "start_time": "01:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24686942_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ekans Takshak ka Abhishap",
-      "start_time": "02:00 PM",
+      "show_name": "Ekans - Dhoomketu Ki Dehshat",
+      "start_time": "01:50 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28427762_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31661527_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ekans: Mystery of Three Gems",
+      "show_name": "Ekans - Hero Ek Villain Anek",
       "start_time": "02:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26987992_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26987970_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Teen Titans GO!",
@@ -197,8 +179,14 @@
     {
       "show_name": "Teen Titans GO!",
       "start_time": "11:00 PM",
-      "end_time": "01:00 AM",
+      "end_time": "11:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24686942_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Courage the Cowardly Dog",
+      "start_time": "11:30 PM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p186142_b_h9_ah.jpg?lock=880x660"
     }
   ]
 }

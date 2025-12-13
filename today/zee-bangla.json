@@ -1,22 +1,22 @@
 {
   "channel_name": "Zee Bangla",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Mongolmoyee Santoshi Maa",
       "start_time": "12:00 AM",
-      "end_time": "12:29 AM",
+      "end_time": "12:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30374836_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shoubhagyer Dishari",
-      "start_time": "12:29 AM",
-      "end_time": "12:59 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26741985_b_h9_ac.jpg?lock=880x660"
+      "show_name": "Tui Amar Hero",
+      "start_time": "12:30 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29705852_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Joyar Bhata",
-      "start_time": "12:59 AM",
+      "start_time": "01:00 AM",
       "end_time": "01:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31154698_b_h9_aa.jpg?lock=880x660"
     },
@@ -87,10 +87,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30354996_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Nbp Unani & Ayurveda Research Centre",
+      "show_name": "Soubhagyo O Samriddhi",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26728901_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26742318_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Amader Dadamoni",
@@ -123,16 +123,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28145718_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Parineeta",
+      "show_name": "Ratna Kuber - Gariahat",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28722986_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27587181_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Joy Baba Lokenath",
+      "show_name": "Chirodini Tumi Je Amar",
       "start_time": "11:30 AM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29905904_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29692644_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Tulsi Dhamer Naru Gopal",
@@ -210,7 +210,7 @@
       "show_name": "Besh Korechi Prem Korechi",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31907402_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Jagadhatri",
@@ -237,28 +237,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31154698_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kone Dekha Alo",
+      "show_name": "Sa Re Ga Ma Pa 2025",
       "start_time": "09:30 PM",
-      "end_time": "10:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31021301_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Anandi",
-      "start_time": "10:15 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28355875_b_h9_af.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31212730_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kusum",
+      "show_name": "Ideabaaz",
       "start_time": "11:00 PM",
-      "end_time": "11:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30354996_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Parineeta",
-      "start_time": "11:30 PM",
       "end_time": "12:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28722986_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31476703_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

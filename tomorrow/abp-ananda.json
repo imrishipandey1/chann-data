@@ -1,7 +1,13 @@
 {
   "channel_name": "ABP Ananda",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
+    {
+      "show_name": "Ananda News",
+      "start_time": "12:00 AM",
+      "end_time": "12:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463685_b_h9_aa.jpg?lock=880x660"
+    },
     {
       "show_name": "Advertorial",
       "start_time": "12:30 AM",
@@ -102,7 +108,7 @@
       "show_name": "Ek Jholoke",
       "start_time": "08:30 AM",
       "end_time": "08:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463743_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463743_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Ananda Sakal",
@@ -141,16 +147,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26463685_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ananda Live @ 11 Am",
+      "show_name": "Ananda News",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463795_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463685_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Film Star",
+      "show_name": "Ananda News",
       "start_time": "11:30 AM",
       "end_time": "11:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734226_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463685_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ananda Khabor",
@@ -165,10 +171,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26463839_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Hoy Ma Noy Bouma",
+      "show_name": "Barotar Breaking",
       "start_time": "12:30 PM",
       "end_time": "12:40 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463839_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Barotar Breaking",
@@ -180,7 +186,7 @@
       "show_name": "Ground Zero",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734234_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734234_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Ananda News",
@@ -192,19 +198,19 @@
       "show_name": "Fatafat",
       "start_time": "02:00 PM",
       "end_time": "02:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734215_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734215_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Dutor Duniya",
       "start_time": "02:10 PM",
       "end_time": "02:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463888_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463888_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Dutor Duniya",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463888_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463888_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "ABP On The Spot",
@@ -234,25 +240,25 @@
       "show_name": "Fatafat",
       "start_time": "05:00 PM",
       "end_time": "05:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734215_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734215_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Khaborer Saat Panch",
       "start_time": "05:10 PM",
       "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463935_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463935_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Jholoke",
       "start_time": "05:30 PM",
       "end_time": "05:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463743_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463743_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Khaborer Saat Panch",
       "start_time": "05:40 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26463935_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26463935_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Chaak Bhanga 6-TA",
@@ -282,25 +288,25 @@
       "show_name": "Swar-Garom",
       "start_time": "08:00 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Swar-Garom",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Swar-Garom",
       "start_time": "09:00 PM",
       "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Swar-Garom",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29734246_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Ananda Live @ 10 Pm",

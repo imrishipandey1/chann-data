@@ -1,10 +1,10 @@
 {
   "channel_name": "DD Bangla",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Entertainment Programme",
-      "start_time": "12:15 AM",
+      "start_time": "12:30 AM",
       "end_time": "05:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27264283_b_h9_aa.jpg?lock=880x660"
     },
@@ -12,7 +12,7 @@
       "show_name": "Classical Music",
       "start_time": "05:30 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11092864_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p11092864_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Signature Image & Tune",
@@ -63,22 +63,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ankur",
+      "show_name": "Roopkatha",
       "start_time": "09:00 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29078388_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Close-Up",
-      "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29079348_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080376_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shantiniketan Theke",
+      "show_name": "KTB:Bharat Hain Hum",
       "start_time": "10:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080682_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169308_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",
@@ -95,20 +89,14 @@
     {
       "show_name": "Sakal Sakal",
       "start_time": "11:05 AM",
-      "end_time": "12:00 PM",
+      "end_time": "12:02 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29080414_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sambad Ek Najare",
-      "start_time": "12:00 PM",
-      "end_time": "12:02 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Tomay Gaan Sonabo",
+      "show_name": "Ghare Baire",
       "start_time": "12:02 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079671_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
@@ -117,16 +105,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khela Aar Khela",
+      "show_name": "Classical Dance",
       "start_time": "01:02 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29079830_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039100_b_h9_ai.jpg?lock=880x660"
     },
     {
-      "show_name": "Aparajito",
+      "show_name": "Sahitya Sanskriti",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29078489_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080403_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
@@ -135,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Phoring",
+      "show_name": "Kencho khurte Keute",
       "start_time": "02:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16594749_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31828702_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
@@ -153,10 +141,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29079043_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Uttorer Janala",
+      "show_name": "Khela Aar Khela",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080746_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079830_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
@@ -165,16 +153,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Geetimalya",
+      "show_name": "Sera Paribaar",
       "start_time": "06:02 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29079626_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Vaartavali",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28889476_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080582_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
@@ -189,10 +171,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28950402_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aasroy",
+      "show_name": "Bidrohi",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29783173_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079075_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Ek Najare",
@@ -201,10 +183,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080470_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aasroy",
+      "show_name": "Bidrohi",
       "start_time": "08:02 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29783173_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079075_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad",
@@ -213,10 +195,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080453_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aasroy",
+      "show_name": "Bidrohi",
       "start_time": "09:05 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29783173_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29079075_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sambad Prabaha",
@@ -225,10 +207,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29080491_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sahitya Sanskriti",
+      "show_name": "Saptarangi",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29080403_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29080538_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sakal Sakal",

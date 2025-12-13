@@ -1,6 +1,6 @@
 {
   "channel_name": "Sun TV",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Nagaichuvai Gallatta",
@@ -123,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22893209_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Kabali",
+      "show_name": "Velaiilla Pattadhari 2",
       "start_time": "03:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21280524_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14404468_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "News",
@@ -180,7 +180,7 @@
       "show_name": "Aadukalam",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28739749_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29925166_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Malli",
