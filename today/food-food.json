@@ -1,6 +1,6 @@
 {
   "channel_name": "Food Food",
-  "date": "December 12, 2025",
+  "date": "December 13, 2025",
   "schedule": [
     {
       "show_name": "Mummy Ka Magic",
@@ -153,7 +153,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "Health Table",
+      "show_name": "22nd Annual Chef Awards 2025",
       "start_time": "10:30 AM",
       "end_time": "10:40 AM",
       "show_logo": ""
@@ -363,7 +363,7 @@
       "show_logo": ""
     },
     {
-      "show_name": "22nd Annual Chef Awards 2025",
+      "show_name": "Dairy Delights",
       "start_time": "10:00 PM",
       "end_time": "10:10 PM",
       "show_logo": ""
