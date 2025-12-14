@@ -1,42 +1,72 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Movie",
-      "start_time": "12:40 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Nanjupuram",
+      "start_time": "01:12 AM",
+      "end_time": "02:51 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Movie",
-      "start_time": "02:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Directer Cut",
+      "start_time": "02:51 AM",
+      "end_time": "02:52 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29039007_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:00 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Machine",
+      "start_time": "02:52 AM",
+      "end_time": "05:01 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14490542_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "02:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Teleshopping",
+      "start_time": "05:01 AM",
+      "end_time": "06:31 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29154371_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Kathakali",
+      "start_time": "06:31 AM",
+      "end_time": "08:44 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12488381_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Madha Mathu Manasi",
+      "start_time": "08:44 AM",
+      "end_time": "10:59 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14921572_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Srimanthudu",
+      "start_time": "10:59 AM",
+      "end_time": "01:39 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Aadhavan",
+      "start_time": "01:39 PM",
+      "end_time": "03:59 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p7886073_b_h9_ag.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kaaki Sattai",
+      "start_time": "03:59 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11539565_v_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "RRR",
+      "start_time": "07:00 PM",
+      "end_time": "10:47 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p21247299_v_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Commando 2",
+      "start_time": "10:47 PM",
+      "end_time": "12:56 AM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     }
   ]
 }

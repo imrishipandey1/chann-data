@@ -1,12 +1,12 @@
 {
   "channel_name": "Alankar",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Baji Rahila Ta Sana Bhauni",
+      "show_name": "MID NIGHT JATRA",
       "start_time": "01:00 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29314886_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820597_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Stars Choice",
@@ -27,10 +27,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mana Museum",
+      "show_name": "Katha Tike Alaga",
       "start_time": "07:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29501885_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30608519_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "MORNING SHOW",
@@ -39,22 +39,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28820632_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ganga Jamuna Saraswati",
+      "show_name": "ALANKAR NOON SHOW",
       "start_time": "11:00 AM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29219623_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820512_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mausha Ghara Bhada Debe Ki",
+      "show_name": "ALANKAR MATINEE SHOW",
       "start_time": "02:00 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31914226_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820496_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pushkara",
+      "show_name": "ALANKAR EVENING SHOW",
       "start_time": "05:00 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29029899_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820477_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tele Shopping",
@@ -63,10 +63,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28892096_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Amabashya Ra Atithi - Natya Samrat Pruthiraj",
+      "show_name": "JATRA JATRA",
       "start_time": "08:00 PM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31666278_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28820530_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

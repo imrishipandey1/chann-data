@@ -1,6 +1,6 @@
 {
   "channel_name": "Sony AATH",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "CID",
@@ -81,10 +81,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p24406526_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gio Gopu Da",
+      "show_name": "Panchatantrer Montro",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30084473_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
       "show_name": "Amader Thakurmar Jhuli",
@@ -93,20 +93,38 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p29512780_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Nut Boltu",
+      "show_name": "Amader Thakurmar Jhuli",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22654625_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29512780_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "CID",
       "start_time": "02:00 PM",
+      "end_time": "02:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CID",
+      "start_time": "02:30 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CID",
+      "start_time": "03:30 PM",
       "end_time": "04:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "CID",
       "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "CID",
+      "start_time": "04:30 PM",
       "end_time": "05:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
     },
@@ -156,7 +174,7 @@
       "show_name": "CID",
       "start_time": "09:00 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28962935_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p10082803_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "CID",

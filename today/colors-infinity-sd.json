@@ -1,52 +1,40 @@
 {
   "channel_name": "Colors Infinity",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "The Blacklist",
+      "show_name": "Chesapeake Shore",
       "start_time": "12:00 AM",
-      "end_time": "12:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31856794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Blacklist",
-      "start_time": "12:40 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
+      "show_name": "The Outsider",
+      "start_time": "01:00 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17518305_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "The Blacklist",
-      "start_time": "01:30 AM",
-      "end_time": "02:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Blacklist",
-      "start_time": "02:10 AM",
+      "show_name": "The Outsider",
+      "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17518305_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "The Blacklist",
+      "show_name": "Alex Rider",
       "start_time": "03:00 AM",
-      "end_time": "03:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
+      "end_time": "04:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18378677_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "The Blacklist",
-      "start_time": "03:40 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23622836_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Sopranos",
-      "start_time": "04:30 AM",
-      "end_time": "05:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7894127_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Alex Rider",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18378677_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "The Sopranos",
-      "start_time": "05:15 AM",
+      "start_time": "05:00 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p7894127_b_h9_ab.jpg?lock=880x660"
     },

@@ -1,60 +1,60 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Jekhane Bhooter Bhoy",
-      "start_time": "01:05 AM",
-      "end_time": "02:45 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Flat No. 609",
+      "start_time": "01:25 AM",
+      "end_time": "03:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16230420_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pati Parameshwar",
-      "start_time": "02:45 AM",
+      "show_name": "Antony Kobiyal",
+      "start_time": "03:10 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17979682_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21537715_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Kaashmora",
+      "show_name": "Khelaghar",
       "start_time": "05:00 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13412723_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25470428_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Jekhane Bhooter Bhoy",
+      "show_name": "Jawker Dhan",
       "start_time": "08:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14744582_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Sindur Khela",
+      "show_name": "Premi No.1",
       "start_time": "10:00 AM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25470675_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29821416_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mon Je Kore Uru Uru",
-      "start_time": "01:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25470512_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Paglu 2",
+      "start_time": "01:30 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11444148_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghatak",
-      "start_time": "04:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25518157_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Kelor Kirti",
+      "start_time": "04:30 PM",
+      "end_time": "07:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25511022_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aamar Mayer Shapath",
-      "start_time": "07:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13248816_b_h9_ad.jpg?lock=880x660"
+      "show_name": "Devi",
+      "start_time": "07:45 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25472139_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shudhu Tomari Jonyo",
-      "start_time": "10:30 PM",
-      "end_time": "01:25 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25511224_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Madam Geeta Rani",
+      "start_time": "11:00 PM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18625106_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

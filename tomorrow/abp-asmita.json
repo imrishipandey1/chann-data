@@ -1,79 +1,7 @@
 {
   "channel_name": "ABP Asmita",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
-    {
-      "show_name": "Mudda Ni Vaat",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893519_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aapani Khabar",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893548_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Hun To Bolish",
-      "start_time": "01:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893396_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Hun To Bolish",
-      "start_time": "01:30 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893396_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Top 50",
-      "start_time": "02:00 AM",
-      "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16641825_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aaj No Muddo",
-      "start_time": "02:30 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30786745_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aapani Khabar",
-      "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893548_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Fatafat",
-      "start_time": "03:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Top 50",
-      "start_time": "04:00 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16641825_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Fatafat",
-      "start_time": "04:30 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Chitramala",
-      "start_time": "05:00 AM",
-      "end_time": "05:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893629_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Maha Aarti",
-      "start_time": "05:30 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22893539_b_h9_aa.jpg?lock=880x660"
-    },
     {
       "show_name": "Bhakti Na Sur",
       "start_time": "06:00 AM",
@@ -225,10 +153,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22893373_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Fatafat/Gov/Advertorial",
+      "show_name": "Fatafat",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27798830_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p7967279_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aapani Khabar",
@@ -287,7 +215,7 @@
     {
       "show_name": "Samachar Shatak",
       "start_time": "11:30 PM",
-      "end_time": "06:00 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p22893360_b_h9_aa.jpg?lock=880x660"
     }
   ]

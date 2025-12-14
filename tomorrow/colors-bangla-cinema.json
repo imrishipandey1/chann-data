@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Bangla Cinema",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Shotru",
+      "show_name": "Khokababu",
       "start_time": "12:00 AM",
-      "end_time": "01:20 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16062467_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15833974_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gosainbaganer Bhoot",
-      "start_time": "01:20 AM",
-      "end_time": "03:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16204222_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Honeymoon That Changed Her Life",
+      "start_time": "01:05 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29038186_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Shiv Shakti",
-      "start_time": "03:10 AM",
+      "start_time": "03:00 AM",
       "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p24938228_b_h9_ao.jpg?lock=880x660"
     },
     {
-      "show_name": "Mon Jake Chai",
+      "show_name": "Mone Pore Aajo Shei Din",
       "start_time": "04:00 AM",
-      "end_time": "06:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26502988_v_h9_aa.jpg?lock=880x660"
+      "end_time": "07:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16797968_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Toofan",
-      "start_time": "06:40 AM",
-      "end_time": "09:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27751084_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Teesta",
+      "start_time": "07:05 AM",
+      "end_time": "09:25 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31930751_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ghar Jamai",
-      "start_time": "09:15 AM",
-      "end_time": "12:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29360112_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Nawab",
+      "start_time": "09:25 AM",
+      "end_time": "12:25 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15590853_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "MLA Phatakesto",
-      "start_time": "12:40 PM",
-      "end_time": "03:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25449554_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Manik",
+      "start_time": "12:25 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15951684_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhalobasa Bhalobasa",
-      "start_time": "03:20 PM",
+      "show_name": "Wanted",
+      "start_time": "03:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15163167_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Bidhilipi",
+      "show_name": "Barood",
       "start_time": "07:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11915645_v_h9_ab.jpg?lock=880x660"
+      "end_time": "10:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24899482_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khokababu",
-      "start_time": "10:00 PM",
+      "show_name": "Paribar",
+      "start_time": "10:05 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15833974_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     }
   ]
 }

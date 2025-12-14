@@ -1,6 +1,6 @@
 {
   "channel_name": "STAR PLUS",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Udne Ki Aasha",
@@ -15,20 +15,8 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p1002730_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Pandya Store",
-      "start_time": "02:00 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19382793_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Yeh Rishta Kya Kehlata Hai",
-      "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p1002730_b_h9_ad.jpg?lock=880x660"
-    },
-    {
       "show_name": "Ghum Hai Kisikey Pyaar Meiin",
-      "start_time": "03:30 AM",
+      "start_time": "02:00 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p18882410_b_h9_af.jpg?lock=880x660"
     },
@@ -51,14 +39,8 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p1002730_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahabharat: Ek Dharmayudh",
-      "start_time": "08:00 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31541294_b_h9_aa.jpg?lock=880x660"
-    },
-    {
       "show_name": "Udne Ki Aasha",
-      "start_time": "08:30 AM",
+      "start_time": "08:00 AM",
       "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p26841298_b_h9_ac.jpg?lock=880x660"
     },
@@ -101,20 +83,26 @@
     {
       "show_name": "Ghum Hai Kisikey Pyaar Meiin",
       "start_time": "01:30 PM",
-      "end_time": "07:00 PM",
+      "end_time": "06:50 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p18882410_b_h9_af.jpg?lock=880x660"
     },
     {
       "show_name": "Maana Ke Hum Yaar Nahi",
-      "start_time": "07:00 PM",
-      "end_time": "07:30 PM",
+      "start_time": "06:50 PM",
+      "end_time": "07:10 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31340651_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Mahabharat: Ek Dharmayudh",
+      "show_name": "Jhanak",
+      "start_time": "07:10 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26112921_b_h9_ac.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Shehzaadi... Hai Tu Dil Ki",
       "start_time": "07:30 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31541294_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31875863_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Aarti Anjali Awasthi",

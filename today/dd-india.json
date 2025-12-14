@@ -1,6 +1,6 @@
 {
   "channel_name": "DD India",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "The Economic Brief",
@@ -9,10 +9,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Wellness Watch",
+      "show_name": "Eco India",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13402395_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22376489_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
@@ -21,16 +21,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Voice of the Global South",
+      "show_name": "Indian Diplomacy",
       "start_time": "02:00 AM",
       "end_time": "02:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Connecting the Dots",
+      "show_name": "Media Scan",
       "start_time": "02:30 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25262339_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
@@ -39,28 +39,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Eco India",
+      "show_name": "Defence Dynamics",
       "start_time": "04:00 AM",
       "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22376489_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27682276_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Wellness Watch",
+      "show_name": "Voice of the Global South",
       "start_time": "04:30 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13402395_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "DD India News Hour",
-      "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Walking Through Serenity",
+      "show_name": "Walking through Serenity-A Saga of the North East India",
       "start_time": "06:00 AM",
       "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30494511_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25360082_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sadhguru Speaks",
@@ -81,22 +75,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25454169_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Forever Cities-Ujjain",
+      "show_name": "The Economic Brief",
       "start_time": "08:00 AM",
       "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31628193_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "The Economic Brief",
-      "start_time": "08:30 AM",
-      "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Defence Dynamics",
+      "show_name": "Media Scan",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25262339_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Voice of the Global South",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27682276_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Connecting the Dots",
@@ -129,16 +123,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25454169_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Indian Diplomacy",
+      "show_name": "Wellness Watch",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p13402395_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Wellness Watch",
+      "show_name": "Media Scan",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13402395_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25262339_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
@@ -153,10 +147,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Connecting the Dots",
+      "show_name": "Voice of the Global South",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India Live",
@@ -177,10 +171,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p22376489_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Forever Cities-Ujjain",
+      "show_name": "Defence Dynamics",
       "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31628193_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27682276_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India Live",
@@ -189,34 +183,34 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25454169_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Match Point",
+      "show_name": "DD India Live",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31014997_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25454169_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Voice of the Global South",
+      "show_name": "Connecting the Dots",
       "start_time": "07:00 PM",
       "end_time": "07:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Building India",
-      "start_time": "07:30 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26015708_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Media Scan",
-      "start_time": "08:00 PM",
-      "end_time": "08:30 PM",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p25262339_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Indian Diplomacy",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "The Economic Brief",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24937525_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27890276_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",
@@ -225,16 +219,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p25410278_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Building India",
+      "show_name": "Voice of the Global South",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Voice of the Global South",
+      "show_name": "Defence Dynamics",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25978359_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27682276_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "DD India News Hour",

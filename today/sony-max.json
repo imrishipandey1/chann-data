@@ -1,18 +1,18 @@
 {
   "channel_name": "SONY MAX",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Krishnarjuna Yudham",
-      "start_time": "12:47 AM",
-      "end_time": "02:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15219227_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Maha",
+      "start_time": "12:52 AM",
+      "end_time": "02:27 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22640542_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ungala Podanum Sir",
-      "start_time": "02:50 AM",
+      "show_name": "Gulu Gulu",
+      "start_time": "02:27 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23348721_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p22710643_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",

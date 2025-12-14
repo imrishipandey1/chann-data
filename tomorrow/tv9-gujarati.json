@@ -1,6 +1,6 @@
 {
   "channel_name": "TV9 Gujarati",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "News Top 9",
@@ -111,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28868649_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Drashyam",
+      "show_name": "TV9 Samachar",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28868606_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28868649_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News Fatafat",
@@ -141,10 +141,10 @@
       "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Five Star Tadka",
+      "show_name": "News Fatafat",
       "start_time": "02:30 PM",
       "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p687587_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p826852_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "TV9 Samachar",
@@ -183,10 +183,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28868623_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Yash Gatha Gujarat Ni",
+      "show_name": "TV9 Samachar",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21330110_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28868649_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Gujarat Live",

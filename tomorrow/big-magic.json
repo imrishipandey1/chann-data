@@ -1,6 +1,6 @@
 {
   "channel_name": "BIG Magic",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Guddan Tumse Na Ho Payega",
@@ -39,26 +39,8 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "06:00 AM",
-      "end_time": "06:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "06:30 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
-      "start_time": "07:00 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
-    },
-    {
       "show_name": "Teleshopping",
-      "start_time": "07:30 AM",
+      "start_time": "06:00 AM",
       "end_time": "08:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29884773_b_h9_aa.jpg?lock=880x660"
     },
@@ -69,82 +51,94 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30046647_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ramayana",
+      "show_name": "Kahat Hanuman Jai Shree Ram",
       "start_time": "09:00 AM",
       "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19953878_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17886694_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ramayana",
+      "show_name": "Kahat Hanuman Jai Shree Ram",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19953878_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Baal Shiv",
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20564403_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Baal Shiv",
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20564403_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Dance India Dance",
-      "start_time": "12:00 PM",
-      "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31663082_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Dance India Dance Supermoms",
-      "start_time": "01:00 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22443246_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "02:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "03:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Guddan Tumse Na Ho Payega",
-      "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "05:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13320754_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "06:00 PM",
-      "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13320754_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Zindagi Ki Mehek",
-      "start_time": "07:00 PM",
-      "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p13320754_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17886694_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Paramavatar Shri Krishna",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Paramavatar Shri Krishna",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jodha Akbar",
+      "start_time": "12:00 PM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15738474_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jodha Akbar",
+      "start_time": "01:00 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15738474_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kanha Ki Radhika",
+      "start_time": "02:00 PM",
+      "end_time": "03:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28531627_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gauri Mata Ki Laadli",
+      "start_time": "03:00 PM",
+      "end_time": "03:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30896828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gauri Mata Ki Laadli",
+      "start_time": "03:30 PM",
+      "end_time": "04:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30896828_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Uma Kaali",
+      "start_time": "04:00 PM",
+      "end_time": "04:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30382463_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Prem Pratigya",
+      "start_time": "04:30 PM",
+      "end_time": "05:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29845717_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Sa Re Ga Ma Pa L'il Champs",
+      "start_time": "05:00 PM",
+      "end_time": "06:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13861884_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jhansi Ki Rani",
+      "start_time": "06:00 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18988762_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Jhansi Ki Rani",
+      "start_time": "07:00 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p18988762_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Baal Shiv",
       "start_time": "08:00 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20564403_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Ek Mahanayak: Dr. B. R. Ambedkar",
@@ -171,10 +165,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p17723365_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Guddan Tumse Na Ho Payega",
+      "show_name": "Brahmarakshas",
       "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13375445_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Teleshopping",
+      "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15855845_b_h9_ag.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29884773_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

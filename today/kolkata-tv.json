@@ -1,6 +1,6 @@
 {
   "channel_name": "Kolkata TV",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Chaturtho Stamva",
@@ -9,10 +9,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935255_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bharat Amar Bharatborsha",
+      "show_name": "Stadium Bulletin",
       "start_time": "12:30 AM",
       "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935266_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935602_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sangbad Saradin",
@@ -51,16 +51,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935381_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Chaturtho Stamva",
+      "show_name": "Sangbad Saradin",
       "start_time": "08:30 AM",
       "end_time": "08:47 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935255_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "AJKE",
+      "show_name": "Sangbad Saradin",
       "start_time": "08:47 AM",
       "end_time": "08:57 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935621_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "HDL + Sangbad Saradin",
@@ -219,10 +219,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bangla Bolchhe",
+      "show_name": "Sangbad Saradin",
       "start_time": "06:56 PM",
       "end_time": "08:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28935570_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28935283_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Sera 100",

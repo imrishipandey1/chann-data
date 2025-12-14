@@ -1,60 +1,66 @@
 {
   "channel_name": "Jalsha Movies",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Flat No. 609",
-      "start_time": "01:25 AM",
-      "end_time": "03:10 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16230420_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Tintorettor Jishu",
+      "start_time": "01:30 AM",
+      "end_time": "03:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25529490_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Antony Kobiyal",
-      "start_time": "03:10 AM",
+      "show_name": "Sotoroi September",
+      "start_time": "03:15 AM",
       "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21537715_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26652811_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Khelaghar",
+      "show_name": "Dhruva",
       "start_time": "05:00 AM",
+      "end_time": "07:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13562770_v_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "1 Ishwar Katha",
+      "start_time": "07:30 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25470428_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28205013_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Jawker Dhan",
+      "show_name": "Tirandaj Shabor",
       "start_time": "08:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14744582_b_h9_aa.jpg?lock=880x660"
+      "end_time": "10:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26483312_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Premi No.1",
-      "start_time": "10:00 AM",
-      "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29821416_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Janeman",
+      "start_time": "10:15 AM",
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27497908_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Paglu 2",
-      "start_time": "01:30 PM",
+      "show_name": "Guru",
+      "start_time": "01:00 PM",
       "end_time": "04:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11444148_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25511092_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kelor Kirti",
+      "show_name": "Arundhati",
       "start_time": "04:30 PM",
-      "end_time": "07:45 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25511022_b_h9_aa.jpg?lock=880x660"
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15173053_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Devi",
-      "start_time": "07:45 PM",
-      "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25472139_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Saap Mochan",
+      "start_time": "07:30 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30132264_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Madam Geeta Rani",
-      "start_time": "11:00 PM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p18625106_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Besh Korechi Prem Korechi",
+      "start_time": "10:30 PM",
+      "end_time": "01:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p15283484_v_h9_aa.jpg?lock=880x660"
     }
   ]
 }

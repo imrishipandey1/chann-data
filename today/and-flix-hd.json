@@ -1,30 +1,24 @@
 {
   "channel_name": "&flix HD",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Nowhere to Hide",
-      "start_time": "12:15 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
-    },
-    {
-      "show_name": "Huge Shark",
-      "start_time": "01:30 AM",
-      "end_time": "02:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24088821_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Journey to the East",
+      "start_time": "01:45 AM",
+      "end_time": "03:05 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22557907_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "02:45 AM",
-      "end_time": "05:55 AM",
+      "start_time": "03:05 AM",
+      "end_time": "05:32 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "05:55 AM",
+      "show_name": "Tai Chi Hero",
+      "start_time": "05:32 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p9880473_v_h9_am.jpg?lock=880x660"
     },
     {
       "show_name": "Movie",

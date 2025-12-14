@@ -1,66 +1,66 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Ugram",
-      "start_time": "12:00 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24591277_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Vikram Vedha",
+      "start_time": "01:20 AM",
+      "end_time": "04:10 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14341711_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Tughlaq Durbar",
-      "start_time": "01:30 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20640059_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Karkash",
+      "start_time": "04:10 AM",
+      "end_time": "05:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26500864_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "A1 Express",
-      "start_time": "04:00 AM",
-      "end_time": "06:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19599720_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Earth",
+      "start_time": "05:20 AM",
+      "end_time": "06:45 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23346_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Raaz Rangon Ka",
-      "start_time": "06:15 AM",
-      "end_time": "08:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31085579_v_h9_aa.jpg?lock=880x660"
+      "show_name": "International Khiladi: The Iron Man",
+      "start_time": "06:45 AM",
+      "end_time": "09:40 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28889456_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gully Rowdy",
-      "start_time": "08:35 AM",
-      "end_time": "11:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20647249_b_h9_ab.jpg?lock=880x660"
+      "show_name": "Jaanbaz Ki Jung",
+      "start_time": "09:40 AM",
+      "end_time": "12:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31644786_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Gajaana",
-      "start_time": "11:05 AM",
-      "end_time": "01:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29961495_v_h9_aa.jpg?lock=880x660"
+      "show_name": "The Fighterman Singham 2",
+      "start_time": "12:05 PM",
+      "end_time": "02:05 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16368669_v_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Tiger Nageswara Rao",
-      "start_time": "01:05 PM",
-      "end_time": "03:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25867405_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Pizza 3 The Mummy",
+      "start_time": "02:05 PM",
+      "end_time": "05:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25476663_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "M.S. Dhoni: The Untold Story",
-      "start_time": "03:55 PM",
+      "show_name": "Sanga Thamizhan",
+      "start_time": "05:20 PM",
       "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p11548298_v_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17456823_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Salaar Part 1: Ceasefire",
+      "show_name": "Seeti Maar",
       "start_time": "07:50 PM",
       "end_time": "11:25 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25408380_v_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19746456_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "The Return Of Lion",
+      "show_name": "Khallas",
       "start_time": "11:25 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p9441862_v_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p8491311_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

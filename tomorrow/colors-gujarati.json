@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors Gujarati",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Bhagyalaxmi",
@@ -95,44 +95,56 @@
     {
       "show_name": "Deshi Beats",
       "start_time": "08:00 AM",
-      "end_time": "11:00 AM",
+      "end_time": "10:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19077967_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Radha Krishna",
+      "show_name": "Kanku - Rang Parko",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30440337_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30440337_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Radha Krishna",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20587323_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Radha Krishna",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "12:00 PM",
       "end_time": "12:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20587323_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Radha Krishna",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "12:30 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20587323_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Radha Krishna",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "01:00 PM",
       "end_time": "01:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20587323_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Radha Krishna",
+      "show_name": "Maru Man Mohi Gayu",
       "start_time": "01:30 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20587323_b_h9_ae.jpg?lock=880x660"
     },
     {
       "show_name": "Rasoi Show",
@@ -141,16 +153,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p20084953_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Dil Dangal",
+      "show_name": "Kanku - Rang Parko",
       "start_time": "03:00 PM",
       "end_time": "03:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Dil Dangal",
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "03:30 PM",
       "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25904497_b_h9_ac.jpg?lock=880x660"
     },
     {
       "show_name": "Dil Dangal",
@@ -159,58 +171,70 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Dil Dangal",
+      "show_name": "Moti Baa Ni Nani Vahu",
       "start_time": "04:30 PM",
       "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20915879_b_h9_af.jpg?lock=880x660"
     },
     {
-      "show_name": "Dil Dangal",
+      "show_name": "Rasoi Show",
       "start_time": "05:00 PM",
-      "end_time": "05:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Dil Dangal",
-      "start_time": "05:30 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p20084953_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Yash Gatha Gujarat Ni",
+      "show_name": "Naagin",
       "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21330110_b_h9_aa.jpg?lock=880x660"
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12613104_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Radha Krishna",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bhagyalaxmi",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31490624_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Kanku - Rang Parko",
-      "start_time": "06:30 PM",
-      "end_time": "07:00 PM",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Ittaa Kittaa",
-      "start_time": "07:00 PM",
-      "end_time": "09:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31835501_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Motiba Ni Nani Vahu",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31122569_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kanku - Rang Parko",
+      "show_name": "Dil Dangal",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31285886_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "09:30 PM",
       "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25904497_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Kanku - Rang Parko",
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
       "start_time": "10:00 PM",
       "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30440337_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kanku - Rang Parko",
+      "show_name": "Kahi De Ne Prem Chhe ! - Prem Nu Pratik",
       "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30440337_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Kanku - Rang Parko",
@@ -219,10 +243,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Kanku - Rang Parko",
+      "show_name": "Rangai Jaane Rangma",
       "start_time": "11:30 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30658691_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p25904497_b_h9_ac.jpg?lock=880x660"
     }
   ]
 }

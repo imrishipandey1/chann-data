@@ -1,7 +1,25 @@
 {
   "channel_name": "NTV",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
+    {
+      "show_name": "NTV Special",
+      "start_time": "12:00 AM",
+      "end_time": "01:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19339799_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "NTV Special",
+      "start_time": "01:00 AM",
+      "end_time": "01:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19339799_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "NTV Special",
+      "start_time": "01:30 AM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19339799_b_h9_aa.jpg?lock=880x660"
+    },
     {
       "show_name": "NTV Special",
       "start_time": "02:00 AM",
@@ -93,10 +111,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Storyboard",
+      "show_name": "Indo Nepal Rudraksha",
       "start_time": "09:30 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27617579_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19339672_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News 360",
@@ -105,10 +123,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p10172227_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "B-Alert",
+      "show_name": "Real City 2.0",
       "start_time": "10:30 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29231872_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29232063_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News Online",
@@ -117,10 +135,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Off the Record",
+      "show_name": "N Career / Focus",
       "start_time": "11:30 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p455815_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p29232028_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "News Online",
@@ -225,10 +243,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p19339794_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "B-Alert",
+      "show_name": "Chairman Desk",
       "start_time": "08:30 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29231872_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19339532_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Prime Time News",

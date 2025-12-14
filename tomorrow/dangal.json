@@ -1,66 +1,66 @@
 {
   "channel_name": "Dangal",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Mann Sundar",
       "start_time": "12:01 AM",
-      "end_time": "12:23 AM",
+      "end_time": "01:50 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27029926_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
+      "start_time": "01:50 AM",
+      "end_time": "03:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Ram Ratan Dhan Payo",
+      "start_time": "03:35 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27453749_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mann Sundar",
+      "start_time": "08:00 AM",
+      "end_time": "08:30 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27029926_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mann Atisundar",
-      "start_time": "12:23 AM",
-      "end_time": "12:45 AM",
+      "start_time": "08:30 AM",
+      "end_time": "09:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27029838_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rangbaazi Dilon Ki",
-      "start_time": "12:45 AM",
-      "end_time": "01:07 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31891775_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Do Hanso Ka Joda",
-      "start_time": "01:07 AM",
-      "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8042445_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Bade Ghar Ki Choti Bahu",
-      "start_time": "01:30 AM",
-      "end_time": "01:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30485825_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Rimjhim Chhoti Umar Bada Safar",
-      "start_time": "01:55 AM",
-      "end_time": "04:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427341_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ram Ratan Dhan Payo",
-      "start_time": "04:05 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27453749_b_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Ramayan",
-      "start_time": "07:30 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p873483_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Mann Sundar",
+      "show_name": "Movie",
       "start_time": "09:00 AM",
-      "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27029926_b_h9_aa.jpg?lock=880x660"
+      "end_time": "09:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Rimjhim Chhoti Umar Bada Safar",
+      "show_name": "Gehna Zevar Ya Zanjeer",
+      "start_time": "09:30 AM",
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28193018_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gudiya Rani",
+      "start_time": "10:00 AM",
+      "end_time": "10:30 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28295207_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tulsi - Hamari Badi Sayani",
+      "start_time": "10:30 AM",
+      "end_time": "11:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28568957_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Deewani",
       "start_time": "11:00 AM",
       "end_time": "11:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427341_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28303883_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mann Sundar",
@@ -75,52 +75,100 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27029838_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Pati Brahmchari - Kahani Ab Tak",
+      "show_name": "Movie",
       "start_time": "12:30 PM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30586776_b_h9_aa.jpg?lock=880x660"
+      "end_time": "01:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Nath Zewar Ya Zanjeer",
+      "show_name": "Gehna Zevar Ya Zanjeer",
+      "start_time": "01:00 PM",
+      "end_time": "01:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28193018_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Safal Hogi Teri Aradhana",
+      "start_time": "01:30 PM",
+      "end_time": "02:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569029_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Movie",
       "start_time": "02:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27030240_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
     },
     {
-      "show_name": "Phir Laut Aayi Naagin",
+      "show_name": "Safal Hogi Teri Aradhana",
       "start_time": "06:00 PM",
-      "end_time": "07:27 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28177928_b_h9_ab.jpg?lock=880x660"
+      "end_time": "06:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569029_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Gudiya Rani",
+      "start_time": "06:30 PM",
+      "end_time": "07:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28295207_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tulsi - Hamari Badi Sayani",
+      "start_time": "07:00 PM",
+      "end_time": "07:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28568957_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mann Atisundar",
-      "start_time": "07:27 PM",
-      "end_time": "07:57 PM",
+      "start_time": "07:30 PM",
+      "end_time": "08:00 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27029838_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Mann Sundar",
-      "start_time": "07:57 PM",
-      "end_time": "08:34 PM",
+      "start_time": "08:00 PM",
+      "end_time": "08:30 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27029926_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rimjhim Chhoti Umar Bada Safar",
-      "start_time": "08:34 PM",
-      "end_time": "09:04 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427341_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Gehna Zevar Ya Zanjeer",
+      "start_time": "08:30 PM",
+      "end_time": "09:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28193018_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Phir Laut Aayi Naagin",
-      "start_time": "09:04 PM",
+      "show_name": "Movie",
+      "start_time": "09:00 PM",
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Deewani",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28303883_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Safal Hogi Teri Aradhana",
+      "start_time": "10:00 PM",
+      "end_time": "10:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28569029_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Tulsi - Hamari Badi Sayani",
+      "start_time": "10:30 PM",
       "end_time": "11:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28177928_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28568957_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Nath Zewar Ya Zanjeer",
+      "show_name": "Gudiya Rani",
       "start_time": "11:00 PM",
+      "end_time": "11:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p28295207_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mann Atisundar",
+      "start_time": "11:30 PM",
       "end_time": "12:01 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27030240_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27029838_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

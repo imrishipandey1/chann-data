@@ -1,55 +1,7 @@
 {
   "channel_name": "ABP Majha",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "12:00 AM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "12:30 AM",
-      "end_time": "01:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "01:00 AM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "02:00 AM",
-      "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "03:00 AM",
-      "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "04:00 AM",
-      "end_time": "05:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divasbharatlya Baatmya",
-      "start_time": "05:00 AM",
-      "end_time": "05:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465008_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Divyang Bulletin",
-      "start_time": "05:45 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26464383_b_h9_ac.jpg?lock=880x660"
-    },
     {
       "show_name": "100 Headlines",
       "start_time": "06:00 AM",
@@ -87,16 +39,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31045630_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Majha Katta",
+      "show_name": "Breakfast News",
       "start_time": "08:58 AM",
       "end_time": "09:28 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465847_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p214501_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Majha Katta",
+      "show_name": "Breakfast News",
       "start_time": "09:28 AM",
       "end_time": "09:58 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26465847_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p214501_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "100 Headlines",
@@ -267,16 +219,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p26464669_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Special Report",
+      "show_name": "Zero Hour",
       "start_time": "07:58 PM",
       "end_time": "08:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26464954_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "100 Headlines",
+      "show_name": "Zero Hour",
       "start_time": "08:30 PM",
       "end_time": "08:53 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p26464317_b_h9_ac.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p26464954_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Top 25",
@@ -323,7 +275,7 @@
     {
       "show_name": "Special Report",
       "start_time": "11:28 PM",
-      "end_time": "06:00 AM",
+      "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p8871554_b_h9_aa.jpg?lock=880x660"
     }
   ]

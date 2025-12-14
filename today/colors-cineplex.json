@@ -1,72 +1,66 @@
 {
   "channel_name": "Colors Cineplex",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Asli Fighter",
-      "start_time": "12:14 AM",
-      "end_time": "01:57 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12951901_v_h9_ab.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Indra Shakti",
-      "start_time": "01:57 AM",
-      "end_time": "04:04 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17890657_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Tughlaq Durbar",
+      "start_time": "01:14 AM",
+      "end_time": "03:17 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20640059_v_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Filler",
-      "start_time": "04:04 AM",
-      "end_time": "04:50 AM",
+      "start_time": "03:17 AM",
+      "end_time": "04:38 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p28139681_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Fool N Final",
-      "start_time": "04:50 AM",
-      "end_time": "06:50 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p170792_v_h9_ac.jpg?lock=880x660"
+      "show_name": "A1 Express",
+      "start_time": "04:38 AM",
+      "end_time": "06:31 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19599720_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Return of Hanuman",
-      "start_time": "06:50 AM",
-      "end_time": "09:05 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p177687_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Raaz Rangon Ka",
+      "start_time": "06:31 AM",
+      "end_time": "08:43 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31085579_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "F2: Fun and Frustration",
-      "start_time": "09:05 AM",
-      "end_time": "12:10 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16410998_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Gully Rowdy",
+      "start_time": "08:43 AM",
+      "end_time": "11:07 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20647249_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Rider",
-      "start_time": "12:10 PM",
-      "end_time": "02:15 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p23266706_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Gajaana",
+      "start_time": "11:07 AM",
+      "end_time": "01:06 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29961495_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Zombie Reddy",
-      "start_time": "02:15 PM",
-      "end_time": "04:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p19358947_v_h9_ac.jpg?lock=880x660"
+      "show_name": "Tiger Nageswara Rao",
+      "start_time": "01:06 PM",
+      "end_time": "03:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25867405_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Daaku Maharaaj",
-      "start_time": "04:50 PM",
-      "end_time": "07:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29025568_v_h9_ab.jpg?lock=880x660"
+      "show_name": "M.S. Dhoni: The Untold Story",
+      "start_time": "03:55 PM",
+      "end_time": "07:51 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11548298_v_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Saamrajya",
-      "start_time": "07:50 PM",
-      "end_time": "10:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31787197_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Salaar Part 1: Ceasefire",
+      "start_time": "07:51 PM",
+      "end_time": "11:18 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p25408380_v_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Ugram",
-      "start_time": "10:50 PM",
-      "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24591277_v_h9_aa.jpg?lock=880x660"
+      "show_name": "The Return Of Lion",
+      "start_time": "11:18 PM",
+      "end_time": "01:20 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p9441862_v_h9_ab.jpg?lock=880x660"
     }
   ]
 }

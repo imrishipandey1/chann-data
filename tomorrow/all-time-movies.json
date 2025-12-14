@@ -1,42 +1,66 @@
 {
   "channel_name": "All Time Movies",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
-      "show_name": "Movie",
-      "start_time": "02:00 AM",
-      "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Ra Ra Krishnayya",
+      "start_time": "12:56 AM",
+      "end_time": "02:42 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10881166_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 AM",
-      "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Jawab Hum Denge",
+      "start_time": "02:42 AM",
+      "end_time": "04:58 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p8338361_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:00 AM",
-      "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Teleshopping",
+      "start_time": "04:58 AM",
+      "end_time": "06:28 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29154371_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "02:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Vajra Kavachadhara Govinda",
+      "start_time": "06:28 AM",
+      "end_time": "09:13 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17831871_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Achayans",
+      "start_time": "09:13 AM",
+      "end_time": "11:35 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p14518328_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Pichaikkaran",
+      "start_time": "11:35 AM",
+      "end_time": "01:56 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p12668163_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Poojai",
+      "start_time": "01:56 PM",
+      "end_time": "04:50 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11188899_b_h9_ae.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Naaigal Jaakirathai",
+      "start_time": "04:50 PM",
+      "end_time": "06:59 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p11285726_v_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Mahaabali",
+      "start_time": "06:59 PM",
+      "end_time": "09:06 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p10931889_b_h9_ad.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Insaaf Ki Pukar",
+      "start_time": "09:06 PM",
+      "end_time": "12:27 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31350565_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

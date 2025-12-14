@@ -1,54 +1,66 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "01:34 AM",
-      "end_time": "02:34 AM",
+      "start_time": "01:33 AM",
+      "end_time": "02:33 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "02:34 AM",
-      "end_time": "06:00 AM",
+      "start_time": "02:33 AM",
+      "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 AM",
-      "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Chunariya Lehale Aihiya Ho",
+      "start_time": "05:00 AM",
+      "end_time": "06:34 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "09:00 AM",
-      "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Har Ghar Ki Yahi Kahani",
+      "start_time": "06:34 AM",
+      "end_time": "09:07 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29169044_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "12:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Naya Vivah",
+      "start_time": "09:07 AM",
+      "end_time": "11:56 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29766257_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "03:00 PM",
-      "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Shriman Shrimati",
+      "start_time": "11:56 AM",
+      "end_time": "02:34 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29346359_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:00 PM",
-      "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Pati Patni Ka Pyar Khatta Meetha Achar",
+      "start_time": "02:34 PM",
+      "end_time": "05:01 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29877742_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "09:00 PM",
-      "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Didi No.1",
+      "start_time": "05:01 PM",
+      "end_time": "07:55 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29496038_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Bitiya Damad",
+      "start_time": "07:55 PM",
+      "end_time": "10:57 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29271065_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Preet Ka Daaman",
+      "start_time": "10:57 PM",
+      "end_time": "01:39 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29333116_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

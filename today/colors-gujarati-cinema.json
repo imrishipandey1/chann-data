@@ -1,72 +1,72 @@
 {
   "channel_name": "Colors Gujarati Cinema",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Sant Surdas",
+      "show_name": "Maa Mane Sambhare Che",
       "start_time": "12:00 AM",
-      "end_time": "12:45 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p16513939_b_h9_ab.jpg?lock=880x660"
+      "end_time": "12:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17282174_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Dikri To Parki Thapan Kehvay",
-      "start_time": "12:45 AM",
-      "end_time": "03:15 AM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Yahi Maa Mogi",
+      "start_time": "12:55 AM",
+      "end_time": "02:55 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29447820_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Desi Beats",
-      "start_time": "03:15 AM",
-      "end_time": "05:05 AM",
+      "start_time": "02:55 AM",
+      "end_time": "05:20 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Dikari Mari Vahal No Dariyo",
-      "start_time": "05:05 AM",
+      "show_name": "Jai Ambe Jagdambe",
+      "start_time": "05:20 AM",
       "end_time": "08:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30111516_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p24110988_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Desi Beats",
       "start_time": "08:00 AM",
-      "end_time": "10:15 AM",
+      "end_time": "09:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29139471_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Santu Rangili",
-      "start_time": "10:15 AM",
-      "end_time": "12:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14217148_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Naagmati Naagwallo",
+      "start_time": "09:40 AM",
+      "end_time": "12:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23740398_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Alakh Na Ajwala",
-      "start_time": "12:55 PM",
-      "end_time": "03:50 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20196283_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Kunjal Kaljani Kor",
+      "start_time": "12:30 PM",
+      "end_time": "03:45 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19745465_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Rakhopa Mari Ambe Maa Na",
-      "start_time": "03:50 PM",
+      "show_name": "Mangu Saiba Janamo Janam No Sath",
+      "start_time": "03:45 PM",
       "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28880088_v_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p19757882_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Gujarat Gatha",
+      "show_name": "Yash Gatha Gujarat Ni",
       "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p20935916_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p21330110_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhagat Gora Kumbhar",
+      "show_name": "Bewafa Sanam Tari Bov Meherbaani",
       "start_time": "07:00 PM",
-      "end_time": "10:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p12770908_b_h9_ab.jpg?lock=880x660"
+      "end_time": "09:25 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Maa Mane Sambhare Che",
-      "start_time": "10:05 PM",
+      "show_name": "Alakh Ne Otle",
+      "start_time": "09:25 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17282174_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p17679394_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

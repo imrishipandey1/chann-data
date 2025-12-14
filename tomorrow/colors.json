@@ -1,6 +1,6 @@
 {
   "channel_name": "Colors",
-  "date": "December 14, 2025",
+  "date": "December 15, 2025",
   "schedule": [
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
@@ -9,28 +9,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "show_name": "Laughter Chefs Unlimited Entertainment",
       "start_time": "01:30 AM",
-      "end_time": "02:30 AM",
+      "end_time": "03:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "start_time": "03:00 AM",
+      "end_time": "04:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
-      "start_time": "02:30 AM",
-      "end_time": "03:30 AM",
+      "start_time": "04:00 AM",
+      "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "03:30 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "04:30 AM",
+      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "start_time": "05:00 AM",
       "end_time": "06:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tuu Juliet Jatt Di",
@@ -39,28 +39,34 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31644915_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "show_name": "Teleslot",
       "start_time": "06:30 AM",
-      "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "end_time": "07:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p23640777_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "07:30 AM",
+      "start_time": "07:00 AM",
+      "end_time": "08:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
       "start_time": "09:00 AM",
-      "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "end_time": "10:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "10:30 AM",
+      "start_time": "10:00 AM",
       "end_time": "12:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
@@ -111,16 +117,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31172166_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "show_name": "Mangal Lakshmi",
       "start_time": "09:00 PM",
-      "end_time": "10:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "end_time": "09:30 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26746185_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "10:30 PM",
+      "show_name": "Mangal Lakshmi - Lakshmi Ka Safar",
+      "start_time": "09:30 PM",
+      "end_time": "10:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30903058_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Seher Hone Ko Hai",
+      "start_time": "10:00 PM",
+      "end_time": "11:00 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31812237_b_h9_ab.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Deewangi - Dil Bhi Kaatil Iraade Bhi",
+      "start_time": "11:00 PM",
       "end_time": "12:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31836837_b_h9_ab.jpg?lock=880x660"
     }
   ]
 }

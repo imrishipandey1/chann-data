@@ -1,6 +1,6 @@
 {
   "channel_name": "Star Kiran",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Kemiti Aie Samparka",
@@ -51,22 +51,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31642763_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aei Ama Sansara",
+      "show_name": "Tume Hin Sankha Tume Hin Sindoora",
       "start_time": "08:00 AM",
       "end_time": "09:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31087778_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31088721_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Aboli",
+      "show_name": "Tume Hin Sankha Tume Hin Sindoora",
       "start_time": "09:00 AM",
       "end_time": "10:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21420248_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31088721_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Shiba Shakti",
+      "show_name": "Tume Hin Sankha Tume Hin Sindoora",
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31642721_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31088721_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Tume Hin Sankha Tume Hin Sindoora",
@@ -75,40 +75,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31088721_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Kemiti Aie Samparka",
+      "show_name": "Tume Hin Sankha Tume Hin Sindoora",
       "start_time": "12:00 PM",
       "end_time": "01:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29169933_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31088721_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Naagin",
+      "show_name": "Tume Hin Sankha Tume Hin Sindoora",
       "start_time": "01:00 PM",
       "end_time": "02:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p24036989_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p31088721_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Ganpati Bappa Moriya",
+      "show_name": "Pabitra Bandhan",
       "start_time": "02:00 PM",
-      "end_time": "03:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31642763_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Shiba Shakti",
-      "start_time": "03:00 PM",
-      "end_time": "04:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31642721_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Aboli",
-      "start_time": "04:00 PM",
-      "end_time": "05:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p21420248_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Trishakti",
-      "start_time": "05:00 PM",
       "end_time": "06:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29054367_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30361784_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Aei Ama Sansara",

@@ -1,96 +1,90 @@
 {
   "channel_name": "&prive HD",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
-      "show_name": "Nowhere to Hide",
-      "start_time": "12:56 AM",
-      "end_time": "02:12 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15344729_v_h9_aa.jpg?lock=880x660"
+      "show_name": "Drone",
+      "start_time": "12:48 AM",
+      "end_time": "02:15 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p13935015_v_h9_ee.jpg?lock=880x660"
     },
     {
-      "show_name": "Bad Samaritan",
-      "start_time": "02:12 AM",
-      "end_time": "03:56 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p15167269_v_h9_ab.jpg?lock=880x660"
+      "show_name": "Return of Wu Kong",
+      "start_time": "02:15 AM",
+      "end_time": "03:37 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p19853018_v_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Chef vs Fridge",
-      "start_time": "03:56 AM",
-      "end_time": "05:40 AM",
+      "start_time": "03:37 AM",
+      "end_time": "05:36 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20453532_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "05:40 AM",
-      "end_time": "07:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Escape of Shark",
+      "start_time": "05:36 AM",
+      "end_time": "07:26 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24774383_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "07:00 AM",
-      "end_time": "08:40 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Huge Shark",
+      "start_time": "07:26 AM",
+      "end_time": "08:47 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24088821_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "08:40 AM",
-      "end_time": "10:15 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Horror Shark",
+      "start_time": "08:47 AM",
+      "end_time": "10:13 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p22621131_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:15 AM",
-      "end_time": "11:35 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Alien Invasion",
+      "start_time": "10:13 AM",
+      "end_time": "11:48 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p24233020_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "11:35 AM",
+      "show_name": "Leio",
+      "start_time": "11:48 AM",
       "end_time": "01:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23752446_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
+      "show_name": "Uncaged",
       "start_time": "01:40 PM",
-      "end_time": "03:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "end_time": "03:33 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
     },
     {
-      "show_name": "Movie",
-      "start_time": "03:05 PM",
-      "end_time": "04:40 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Arthur the King",
+      "start_time": "03:33 PM",
+      "end_time": "05:20 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26294774_v_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "04:40 PM",
-      "end_time": "06:05 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "The Balkan Line",
+      "start_time": "05:20 PM",
+      "end_time": "07:15 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p17012150_v_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "06:05 PM",
-      "end_time": "07:20 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Movie",
-      "start_time": "07:20 PM",
+      "show_name": "Pelé: Birth of a Legend",
+      "start_time": "07:15 PM",
       "end_time": "09:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p12650713_v_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
+      "show_name": "The Good Boss",
       "start_time": "09:00 PM",
-      "end_time": "10:55 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "end_time": "11:02 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p20409366_v_h9_ag.jpg?lock=880x660"
     },
     {
-      "show_name": "Movie",
-      "start_time": "10:55 PM",
-      "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p809737_b_h9_bq.jpg?lock=880x660"
+      "show_name": "Arthur the King",
+      "start_time": "11:02 PM",
+      "end_time": "02:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p26294774_v_h9_ab.jpg?lock=880x660"
     }
   ]
 }

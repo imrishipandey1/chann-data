@@ -1,34 +1,34 @@
 {
   "channel_name": "Colors",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "12:02 AM",
-      "end_time": "01:33 AM",
+      "start_time": "12:10 AM",
+      "end_time": "01:36 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "01:33 AM",
-      "end_time": "02:56 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
+      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "start_time": "01:36 AM",
+      "end_time": "02:24 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "start_time": "02:24 AM",
+      "end_time": "03:17 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "02:56 AM",
-      "end_time": "04:15 AM",
+      "start_time": "03:17 AM",
+      "end_time": "04:40 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "04:15 AM",
-      "end_time": "04:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Laughter Chefs Unlimited Entertainment",
-      "start_time": "04:30 AM",
+      "start_time": "04:40 AM",
       "end_time": "06:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p27930156_b_h9_aa.jpg?lock=880x660"
     },
@@ -39,28 +39,22 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p31644915_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "show_name": "Laughter Chefs Unlimited Entertainment",
       "start_time": "06:30 AM",
       "end_time": "07:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
+      "show_name": "Laughter Chefs Unlimited Entertainment",
       "start_time": "07:30 AM",
-      "end_time": "08:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
+      "end_time": "09:00 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
     },
     {
-      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
-      "start_time": "08:30 AM",
-      "end_time": "09:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Laughter Chefs Unlimited Entertainment Dobaara",
-      "start_time": "09:30 AM",
+      "show_name": "Laughter Chefs Unlimited Entertainment",
+      "start_time": "09:00 AM",
       "end_time": "10:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31427334_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Laughter Chefs Unlimited Entertainment",

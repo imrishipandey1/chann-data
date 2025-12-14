@@ -1,66 +1,66 @@
 {
   "channel_name": "B4U Bhojpuri",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Lataka Jhatka",
-      "start_time": "12:57 AM",
-      "end_time": "01:57 AM",
+      "start_time": "01:34 AM",
+      "end_time": "02:34 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168989_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
-      "start_time": "01:57 AM",
+      "start_time": "02:34 AM",
       "end_time": "05:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Chunariya Lehale Aihiya Ho",
       "start_time": "05:00 AM",
-      "end_time": "06:20 AM",
+      "end_time": "06:35 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p29168929_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Nirhaua Hindustani 2",
-      "start_time": "06:20 AM",
-      "end_time": "08:55 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29271093_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Badki Didi 2",
+      "start_time": "06:35 AM",
+      "end_time": "08:58 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31373274_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Saas Bahu Chali Swarg Lok",
-      "start_time": "08:55 AM",
-      "end_time": "11:32 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p31016242_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Bahu Rani Saas Maharani",
+      "start_time": "08:58 AM",
+      "end_time": "11:46 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29271052_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Saas Bhi Kabhi Bahu Thi",
-      "start_time": "11:32 AM",
-      "end_time": "02:26 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29168970_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Dulhan Aur Dahej",
+      "start_time": "11:46 AM",
+      "end_time": "02:29 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30144590_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Bhauji",
-      "start_time": "02:26 PM",
-      "end_time": "05:26 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29496079_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Masoom Housewife",
+      "start_time": "02:29 PM",
+      "end_time": "05:35 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p30642106_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Maike Ka Ticket Kata De Piya",
-      "start_time": "05:26 PM",
-      "end_time": "07:58 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p30247529_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Hum Haien Jethani",
+      "start_time": "05:35 PM",
+      "end_time": "08:01 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31900301_b_h9_aa.jpg?lock=880x660"
     },
     {
-      "show_name": "Badki Didi",
-      "start_time": "07:58 PM",
-      "end_time": "10:59 PM",
-      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+      "show_name": "Badki Sakhi Chotki Sakhi",
+      "start_time": "08:01 PM",
+      "end_time": "10:51 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p31603558_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Dulha On Sale",
-      "start_time": "10:59 PM",
-      "end_time": "01:34 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p29169073_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Preet Ka Daman 2",
+      "start_time": "10:51 PM",
+      "end_time": "01:33 AM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29708696_b_h9_aa.jpg?lock=880x660"
     }
   ]
 }

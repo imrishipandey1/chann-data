@@ -1,12 +1,12 @@
 {
   "channel_name": "TLC",
-  "date": "December 13, 2025",
+  "date": "December 14, 2025",
   "schedule": [
     {
       "show_name": "Say Yes to the Dress UK",
       "start_time": "12:00 AM",
       "end_time": "12:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14027093_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Say Yes to the Dress UK",
@@ -15,34 +15,28 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Cake Boss",
+      "show_name": "Ridiculous Cakes",
       "start_time": "01:00 AM",
       "end_time": "01:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15592703_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Cake Boss",
+      "show_name": "Ridiculous Cakes",
       "start_time": "01:30 AM",
       "end_time": "02:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15592703_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Design Down Under",
+      "show_name": "Cutthroat Kitchen: Knives Out",
       "start_time": "02:00 AM",
       "end_time": "03:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p25336906_b_h9_ab.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p30054831_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Say Yes to the Dress UK",
+      "show_name": "Beat Bobby Flay: Holiday Throwdown",
       "start_time": "03:00 AM",
-      "end_time": "03:30 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14027093_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Say Yes to the Dress UK",
-      "start_time": "03:30 AM",
       "end_time": "04:00 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28700474_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "90 Day: The Single Life",
@@ -66,7 +60,7 @@
       "show_name": "Say Yes to the Dress",
       "start_time": "06:46 AM",
       "end_time": "07:39 AM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p22415048_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p23995690_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Buddy vs. Duff",
@@ -108,7 +102,7 @@
       "show_name": "Say Yes to the Dress UK",
       "start_time": "11:34 AM",
       "end_time": "12:01 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p14027093_b_h9_ad.jpg?lock=880x660"
     },
     {
       "show_name": "Say Yes to the Dress UK",
@@ -117,16 +111,16 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
     },
     {
-      "show_name": "Cake Boss",
+      "show_name": "Ridiculous Cakes",
       "start_time": "12:29 PM",
       "end_time": "12:56 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15592703_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Cake Boss",
+      "show_name": "Ridiculous Cakes",
       "start_time": "12:56 PM",
       "end_time": "01:24 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p17036703_b_h9_aa.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p15592703_b_h9_ab.jpg?lock=880x660"
     },
     {
       "show_name": "Food Paradise",
@@ -165,16 +159,10 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p12768207_b_h9_ac.jpg?lock=880x660"
     },
     {
-      "show_name": "Say Yes to the Dress UK",
+      "show_name": "Beat Bobby Flay: Holiday Throwdown",
       "start_time": "06:00 PM",
-      "end_time": "06:30 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14027093_b_h9_ad.jpg?lock=880x660"
-    },
-    {
-      "show_name": "Say Yes to the Dress UK",
-      "start_time": "06:30 PM",
       "end_time": "07:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p14969756_b_h9_ae.jpg?lock=880x660"
+      "show_logo": "https://dtil.tmsimg.com/assets/p28700474_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "Ridiculous Cakes",
@@ -189,26 +177,44 @@
       "show_logo": "https://dtil.tmsimg.com/assets/p15592703_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Cutthroat Kitchen: Knives Out",
+      "show_name": "Future Makers",
       "start_time": "08:00 PM",
-      "end_time": "09:00 PM",
+      "end_time": "08:08 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Future Makers",
+      "start_time": "08:08 PM",
+      "end_time": "08:16 PM",
+      "show_logo": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"
+    },
+    {
+      "show_name": "Cutthroat Kitchen: Knives Out",
+      "start_time": "08:16 PM",
+      "end_time": "09:12 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p30054831_b_h9_ab.jpg?lock=880x660"
     },
     {
-      "show_name": "Beat Bobby Flay: Holiday Throwdown",
-      "start_time": "09:00 PM",
-      "end_time": "10:00 PM",
-      "show_logo": "https://dtil.tmsimg.com/assets/p28700474_b_h9_aa.jpg?lock=880x660"
+      "show_name": "Beat Bobby Flay",
+      "start_time": "09:12 PM",
+      "end_time": "09:40 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29056055_b_h9_aa.jpg?lock=880x660"
+    },
+    {
+      "show_name": "Beat Bobby Flay",
+      "start_time": "09:40 PM",
+      "end_time": "10:08 PM",
+      "show_logo": "https://dtil.tmsimg.com/assets/p29056055_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "90 Day: The Single Life",
-      "start_time": "10:00 PM",
-      "end_time": "11:00 PM",
+      "start_time": "10:08 PM",
+      "end_time": "11:04 PM",
       "show_logo": "https://dtil.tmsimg.com/assets/p19507036_b_h9_aa.jpg?lock=880x660"
     },
     {
       "show_name": "You, Me & My Ex",
-      "start_time": "11:00 PM",
+      "start_time": "11:04 PM",
       "end_time": "12:00 AM",
       "show_logo": "https://dtil.tmsimg.com/assets/p20079606_b_h9_aa.jpg?lock=880x660"
     }
